@@ -1,0 +1,56 @@
+{
+    "name": "LOCH-SLOY-BEINN-IME-SOUTH",
+    "data": {
+        "LOCH-SLOY-BEINN-IME-SOUTH-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-285.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-SLOY-BEINN-IME-SOUTH.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_30_pt1-page-157.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_30_pt1-page-157.csv",
+                "start_date": "1946/06",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_30_pt1-page-157.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-284.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-284.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_30_pt1-page-157.csv",
+            "start_date": "1946/01",
+            "end_date": "1946/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_30_pt1-page-157.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_27_pt1-page-284.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/13"
+        }
+    ]
+}

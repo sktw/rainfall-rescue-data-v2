@@ -1,0 +1,22 @@
+{
+    "name": "EASINGWOLD-MARTON-VICARAGE",
+    "data": {
+        "EASINGWOLD-MARTON-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-040.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-185.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-083.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            }
+        ]
+    }
+}

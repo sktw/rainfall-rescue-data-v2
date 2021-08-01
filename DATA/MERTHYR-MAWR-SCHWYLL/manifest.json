@@ -1,0 +1,25 @@
+{
+    "name": "MERTHYR-MAWR-SCHWYLL",
+    "data": {
+        "MERTHYR-MAWR-SCHWYLL.csv": [
+            {
+                "filename": "TYRain_1941-1950_25_pt1-page-086.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-040.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MERTHYR-MAWR-SCHWYLL.csv": [
+            {
+                "start_date": "1958/05",
+                "end_date": "1958/05"
+            }
+        ]
+    }
+}

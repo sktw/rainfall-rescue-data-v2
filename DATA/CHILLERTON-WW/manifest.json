@@ -1,0 +1,20 @@
+{
+    "name": "CHILLERTON-WW",
+    "data": {
+        "CHILLERTON-WW.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-230.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHILLERTON-WW.csv": [
+            {
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ]
+    }
+}

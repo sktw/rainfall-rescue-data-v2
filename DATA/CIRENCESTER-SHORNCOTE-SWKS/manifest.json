@@ -1,0 +1,20 @@
+{
+    "name": "CIRENCESTER-SHORNCOTE-SWKS",
+    "data": {
+        "CIRENCESTER-SHORNCOTE-SWKS.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-088.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CIRENCESTER-SHORNCOTE-SWKS.csv": [
+            {
+                "start_date": "1956/01",
+                "end_date": "1956/01"
+            }
+        ]
+    }
+}

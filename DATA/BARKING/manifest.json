@@ -1,0 +1,24 @@
+{
+    "name": "BARKING",
+    "data": {
+        "BARKING-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-037.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-153.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BARKING.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-048.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

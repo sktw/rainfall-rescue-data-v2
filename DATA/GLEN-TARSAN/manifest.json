@@ -1,0 +1,36 @@
+{
+    "name": "GLEN-TARSAN",
+    "data": {
+        "GLEN-TARSAN-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-276.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GLEN-TARSAN.csv": [
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-147.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-275.csv",
+                "start_date": "1951/01",
+                "end_date": "1959/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-275.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-275.csv",
+            "start_date": "1959/09",
+            "end_date": "1959/13"
+        }
+    ]
+}

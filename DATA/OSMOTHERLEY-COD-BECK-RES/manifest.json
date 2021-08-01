@@ -1,0 +1,24 @@
+{
+    "name": "OSMOTHERLEY-COD-BECK-RES",
+    "data": {
+        "OSMOTHERLEY-COD-BECK-RES.csv": [
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-274.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-274.csv",
+                "start_date": "1954/03",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-274.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/02"
+        }
+    ]
+}

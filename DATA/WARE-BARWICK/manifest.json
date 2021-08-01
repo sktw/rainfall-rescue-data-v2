@@ -1,0 +1,20 @@
+{
+    "name": "WARE-BARWICK",
+    "data": {
+        "WARE-BARWICK.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-192.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WARE-BARWICK.csv": [
+            {
+                "start_date": "1958/07",
+                "end_date": "1958/07"
+            }
+        ]
+    }
+}

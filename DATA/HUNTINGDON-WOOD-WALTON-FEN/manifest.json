@@ -1,0 +1,29 @@
+{
+    "name": "HUNTINGDON-WOOD-WALTON-FEN",
+    "data": {
+        "HUNTINGDON-WOOD-WALTON-FEN.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-160.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-160.csv",
+                "start_date": "1960/05",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-160.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-160.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "ABOYNE-MIX",
+    "data": {
+        "ABOYNE-MIX-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-038.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-032.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-246.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "ABOYNE-MIX-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-245.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-144.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-033.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ABOYNE-MIX-4.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-034.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ABOYNE-MIX.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-217.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}
