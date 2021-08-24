@@ -1,0 +1,49 @@
+{
+    "name": "GLENLIVET-CLASHNOIR",
+    "data": {
+        "GLENLIVET-CLASHNOIR.csv": [
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-192.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-089.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-089.csv",
+                "start_date": "1958/05",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-089.csv",
+                "start_date": "1959/02",
+                "end_date": "1959/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-089.csv",
+                "start_date": "1959/05",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_30_pt1-page-089.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_30_pt1-page-089.csv",
+            "start_date": "1958/13",
+            "end_date": "1959/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_30_pt1-page-089.csv",
+            "start_date": "1959/04",
+            "end_date": "1959/04"
+        }
+    ]
+}

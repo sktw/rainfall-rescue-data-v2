@@ -1,0 +1,34 @@
+{
+    "name": "BATH-CITY-BOYS-SCHOOL",
+    "data": {
+        "BATH-CITY-BOYS-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-218.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-218.csv",
+                "start_date": "1955/09",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-218.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-218.csv",
+            "start_date": "1955/08",
+            "end_date": "1955/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-218.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

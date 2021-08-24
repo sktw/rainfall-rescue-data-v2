@@ -1,0 +1,74 @@
+{
+    "name": "DALRY-RYE-WATER",
+    "data": {
+        "DALRY-RYE-WATER.csv": [
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-007.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-007.csv",
+                "start_date": "1939/06",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-007.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-164.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-164.csv",
+                "start_date": "1943/10",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-164.csv",
+                "start_date": "1944/01",
+                "end_date": "1947/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-164.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-257.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_25_pt1-page-007.csv",
+            "start_date": "1939/04",
+            "end_date": "1939/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_25_pt1-page-007.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_29_pt1-page-164.csv",
+            "start_date": "1943/09",
+            "end_date": "1943/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_29_pt1-page-164.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_29_pt1-page-164.csv",
+            "start_date": "1948/01",
+            "end_date": "1948/13"
+        }
+    ]
+}

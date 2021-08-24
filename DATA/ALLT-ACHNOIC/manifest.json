@@ -1,0 +1,39 @@
+{
+    "name": "ALLT-ACHNOIC",
+    "data": {
+        "ALLT-ACHNOIC.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-280.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-077.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-077.csv",
+                "start_date": "1953/08",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-077.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_27_pt1-page-077.csv",
+            "start_date": "1953/06",
+            "end_date": "1953/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_27_pt1-page-077.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "MARKET-LAVINGTON-SCHOOL-HOUSE",
+    "data": {
+        "MARKET-LAVINGTON-SCHOOL-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-270.csv",
+                "start_date": "1940/12",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-131.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-090.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-090.csv",
+                "start_date": "1954/13",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-090.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MARKET-LAVINGTON-SCHOOL-HOUSE-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-090.csv",
+                "start_date": "1954/03",
+                "end_date": "1960/13"
+            }
+        ],
+        "MARKET-LAVINGTON-SCHOOL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-189.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-160.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-256.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-270.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-270.csv",
+            "start_date": "1940/09",
+            "end_date": "1940/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-270.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "LINDEAN-RES",
+    "data": {
+        "LINDEAN-RES.csv": [
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-190.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

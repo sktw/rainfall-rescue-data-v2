@@ -1,0 +1,37 @@
+{
+    "name": "RUSTINGTON-BRACONDALE-NURSERY",
+    "data": {
+        "RUSTINGTON-BRACONDALE-NURSERY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-126.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-078.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "RUSTINGTON-BRACONDALE-NURSERY.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-037.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-070.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "RUSTINGTON-BRACONDALE-NURSERY-2.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    }
+}

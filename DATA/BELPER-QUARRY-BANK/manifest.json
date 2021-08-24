@@ -1,0 +1,66 @@
+{
+    "name": "BELPER-QUARRY-BANK",
+    "data": {
+        "BELPER-QUARRY-BANK-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-109.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-089.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-277.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-053.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-024.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BELPER-QUARRY-BANK.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-031.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-031.csv",
+                "start_date": "1882/04",
+                "end_date": "1882/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-031.csv",
+                "start_date": "1883/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-109.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_08_pt3-page-031.csv",
+            "start_date": "1881/01",
+            "end_date": "1882/03"
+        },
+        {
+            "filename": "TYRain_1880-1889_08_pt3-page-031.csv",
+            "start_date": "1882/13",
+            "end_date": "1882/13"
+        }
+    ]
+}

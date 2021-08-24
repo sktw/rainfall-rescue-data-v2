@@ -1,0 +1,69 @@
+{
+    "name": "NOTTINGHAM-SNEINTON-PUMPING-STATION",
+    "data": {
+        "NOTTINGHAM-SNEINTON-PUMPING-STATION-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-212.csv",
+                "start_date": "1937/04",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-212.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-023.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-025.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "NOTTINGHAM-SNEINTON-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-200.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-158.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-137.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-212.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/02"
+            }
+        ]
+    },
+    "idr": {
+        "NOTTINGHAM-SNEINTON-PUMPING-STATION-2.csv": [
+            {
+                "start_date": "1939/01",
+                "end_date": "1939/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_15_pt1-page-212.csv",
+            "start_date": "1937/03",
+            "end_date": "1937/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_15_pt1-page-212.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

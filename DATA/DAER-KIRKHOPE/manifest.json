@@ -1,0 +1,32 @@
+{
+    "name": "DAER-KIRKHOPE",
+    "data": {
+        "DAER-KIRKHOPE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-155.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DAER-KIRKHOPE.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-061.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-156.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "DAER-KIRKHOPE-2.csv": [
+            {
+                "start_date": "1958/01",
+                "end_date": "1958/01"
+            }
+        ]
+    }
+}

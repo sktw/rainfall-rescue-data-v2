@@ -1,0 +1,39 @@
+{
+    "name": "PENICUIK",
+    "data": {
+        "PENICUIK.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_28_pt1-page-216.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_28_pt1-page-216.csv",
+                "start_date": "1943/04",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_28_pt1-page-216.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-021.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_28_pt1-page-216.csv",
+            "start_date": "1943/01",
+            "end_date": "1943/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_28_pt1-page-216.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

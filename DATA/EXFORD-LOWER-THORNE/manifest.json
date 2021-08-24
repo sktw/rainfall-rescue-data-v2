@@ -1,0 +1,32 @@
+{
+    "name": "EXFORD-LOWER-THORNE",
+    "data": {
+        "EXFORD-LOWER-THORNE.csv": [
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-147.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-233.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "EXFORD-LOWER-THORNE.csv": [
+            {
+                "start_date": "1955/08",
+                "end_date": "1955/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-147.csv",
+            "start_date": "1950/12",
+            "end_date": "1950/13"
+        }
+    ]
+}

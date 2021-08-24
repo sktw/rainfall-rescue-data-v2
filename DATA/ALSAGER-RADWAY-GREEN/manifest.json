@@ -1,0 +1,49 @@
+{
+    "name": "ALSAGER-RADWAY-GREEN",
+    "data": {
+        "ALSAGER-RADWAY-GREEN.csv": [
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-030.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-030.csv",
+                "start_date": "1949/10",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-030.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-072.csv",
+                "start_date": "1951/01",
+                "end_date": "1959/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-072.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-030.csv",
+            "start_date": "1949/07",
+            "end_date": "1949/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-030.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-072.csv",
+            "start_date": "1959/12",
+            "end_date": "1959/13"
+        }
+    ]
+}

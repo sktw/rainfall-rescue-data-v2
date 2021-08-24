@@ -1,0 +1,19 @@
+{
+    "name": "GAYTON",
+    "data": {
+        "GAYTON-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-074.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GAYTON.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-075.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

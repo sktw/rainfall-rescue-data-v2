@@ -1,0 +1,30 @@
+{
+    "name": "HORNING-PUMPING-STATION",
+    "data": {
+        "HORNING-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-162.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_11_pt1-page-046.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-228.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "HORNING-PUMPING-STATION.csv": [
+            {
+                "start_date": "1946/13",
+                "end_date": "1946/13"
+            }
+        ]
+    }
+}

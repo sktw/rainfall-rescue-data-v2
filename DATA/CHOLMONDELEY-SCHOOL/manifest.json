@@ -1,0 +1,79 @@
+{
+    "name": "CHOLMONDELEY-SCHOOL",
+    "data": {
+        "CHOLMONDELEY-SCHOOL-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-221.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-221.csv",
+                "start_date": "1936/13",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-221.csv",
+                "start_date": "1940/08",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-023.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-023.csv",
+                "start_date": "1943/05",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-023.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-066.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CHOLMONDELEY-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-221.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/06"
+            }
+        ]
+    },
+    "idr": {
+        "CHOLMONDELEY-SCHOOL.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-221.csv",
+            "start_date": "1940/07",
+            "end_date": "1940/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-221.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-023.csv",
+            "start_date": "1943/04",
+            "end_date": "1943/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-023.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

@@ -22,6 +22,10 @@
     "idr": {
         "KELVEDON-HARBORO-HALL.csv": [
             {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            },
+            {
                 "start_date": "1955/13",
                 "end_date": "1955/13"
             }

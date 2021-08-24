@@ -1,0 +1,30 @@
+{
+    "name": "WEST-LINTON-BADDINGSGILL-RES",
+    "data": {
+        "WEST-LINTON-BADDINGSGILL-RES.csv": [
+            {
+                "filename": "TYRain_1931-1940_24_pt1-page-025.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-169.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_25_pt1-page-244.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEST-LINTON-BADDINGSGILL-RES.csv": [
+            {
+                "start_date": "1960/09",
+                "end_date": "1960/09"
+            }
+        ]
+    }
+}

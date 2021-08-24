@@ -1,0 +1,30 @@
+{
+    "name": "WESTWOOD-SEWAGE-WORKS",
+    "data": {
+        "WESTWOOD-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-062.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-174.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WESTWOOD-SEWAGE-WORKS.csv": [
+            {
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-157.csv"
+        }
+    ]
+}

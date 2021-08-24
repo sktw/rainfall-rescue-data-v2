@@ -1,0 +1,24 @@
+{
+    "name": "ELLASTONE-VICARAGE",
+    "data": {
+        "ELLASTONE-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-100.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ELLASTONE-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-056.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-123.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

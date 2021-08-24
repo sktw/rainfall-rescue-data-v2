@@ -1,0 +1,25 @@
+{
+    "name": "TURNHOUSE-AIRFIELD",
+    "data": {
+        "TURNHOUSE-AIRFIELD.csv": [
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-257.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-069.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "TURNHOUSE-AIRFIELD.csv": [
+            {
+                "start_date": "1956/08",
+                "end_date": "1956/08"
+            }
+        ]
+    }
+}

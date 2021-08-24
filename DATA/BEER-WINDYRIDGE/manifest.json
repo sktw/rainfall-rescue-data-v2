@@ -1,0 +1,46 @@
+{
+    "name": "BEER-WINDYRIDGE",
+    "data": {
+        "BEER-WINDYRIDGE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-223.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-223.csv",
+                "start_date": "1948/04",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-223.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-012.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BEER-WINDYRIDGE.csv": [
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-223.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-223.csv",
+            "start_date": "1948/03",
+            "end_date": "1948/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-223.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "WEST-SEDGEMOOR-PUMPING-STATION",
+    "data": {
+        "WEST-SEDGEMOOR-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-062.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-062.csv",
+                "start_date": "1949/04",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-062.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-150.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-150.csv",
+                "start_date": "1951/03",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-150.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEST-SEDGEMOOR-PUMPING-STATION.csv": [
+            {
+                "start_date": "1956/04",
+                "end_date": "1956/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_12_pt1-page-150.csv",
+            "start_date": "1951/02",
+            "end_date": "1951/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_12_pt1-page-150.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-062.csv",
+            "start_date": "1949/03",
+            "end_date": "1949/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-062.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        }
+    ]
+}

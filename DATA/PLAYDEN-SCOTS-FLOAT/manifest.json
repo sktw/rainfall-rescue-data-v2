@@ -1,0 +1,39 @@
+{
+    "name": "PLAYDEN-SCOTS-FLOAT",
+    "data": {
+        "PLAYDEN-SCOTS-FLOAT.csv": [
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-209.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-209.csv",
+                "start_date": "1946/10",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-209.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-172.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-209.csv",
+            "start_date": "1946/09",
+            "end_date": "1946/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-209.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "HOLLESLEY-PUMPING-STATION",
+    "data": {
+        "HOLLESLEY-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-213.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-213.csv",
+                "start_date": "1945/09",
+                "end_date": "1945/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-213.csv",
+                "start_date": "1945/11",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_08_pt1-page-125.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_08_pt1-page-125.csv",
+                "start_date": "1959/09",
+                "end_date": "1959/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_08_pt1-page-125.csv",
+            "start_date": "1959/01",
+            "end_date": "1959/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_08_pt1-page-125.csv",
+            "start_date": "1959/10",
+            "end_date": "1960/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-213.csv",
+            "start_date": "1945/07",
+            "end_date": "1945/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-213.csv",
+            "start_date": "1945/10",
+            "end_date": "1945/10"
+        }
+    ]
+}

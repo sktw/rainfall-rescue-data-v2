@@ -1,0 +1,46 @@
+{
+    "name": "CHEADLE-HARTHILL",
+    "data": {
+        "CHEADLE-HARTHILL-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-028.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-028.csv",
+                "start_date": "1888/07",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-186.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-231.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "CHEADLE-HARTHILL.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-028.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/05"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-028.csv",
+                "start_date": "1888/13",
+                "end_date": "1888/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_08_pt4-page-028.csv",
+            "start_date": "1888/06",
+            "end_date": "1888/06"
+        }
+    ]
+}

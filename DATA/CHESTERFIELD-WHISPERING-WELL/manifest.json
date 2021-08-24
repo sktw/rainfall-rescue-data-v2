@@ -1,0 +1,49 @@
+{
+    "name": "CHESTERFIELD-WHISPERING-WELL",
+    "data": {
+        "CHESTERFIELD-WHISPERING-WELL.csv": [
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-126.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-123.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-205.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-231.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-231.csv",
+                "start_date": "1958/03",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-231.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-231.csv",
+            "start_date": "1958/02",
+            "end_date": "1958/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-231.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

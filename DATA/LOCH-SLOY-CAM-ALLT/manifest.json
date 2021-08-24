@@ -1,0 +1,19 @@
+{
+    "name": "LOCH-SLOY-CAM-ALLT",
+    "data": {
+        "LOCH-SLOY-CAM-ALLT-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-079.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-SLOY-CAM-ALLT.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-078.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ESKDALEMUIR-FAULDBRAE",
+    "data": {
+        "ESKDALEMUIR-FAULDBRAE.csv": [
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-099.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+                "start_date": "1952/03",
+                "end_date": "1952/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+                "start_date": "1953/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+                "start_date": "1954/03",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+            "start_date": "1952/11",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_25_pt1-page-152.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

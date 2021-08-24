@@ -1,0 +1,22 @@
+{
+    "name": "BURY-ST-EDMUNDS-BEET-SUGAR-FACTORY",
+    "data": {
+        "BURY-ST-EDMUNDS-BEET-SUGAR-FACTORY.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-093.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-104.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-175.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

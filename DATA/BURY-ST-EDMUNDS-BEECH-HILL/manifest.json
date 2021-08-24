@@ -1,0 +1,29 @@
+{
+    "name": "BURY-ST-EDMUNDS-BEECH-HILL",
+    "data": {
+        "BURY-ST-EDMUNDS-BEECH-HILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-088.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_03_pt2-page-040.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "BURY-ST-EDMUNDS-BEECH-HILL.csv": [
+            {
+                "start_date": "1866/02",
+                "end_date": "1866/02"
+            },
+            {
+                "start_date": "1873/06",
+                "end_date": "1873/06"
+            }
+        ]
+    }
+}

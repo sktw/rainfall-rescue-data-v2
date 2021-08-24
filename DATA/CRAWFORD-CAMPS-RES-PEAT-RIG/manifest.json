@@ -1,0 +1,44 @@
+{
+    "name": "CRAWFORD-CAMPS-RES-PEAT-RIG",
+    "data": {
+        "CRAWFORD-CAMPS-RES-PEAT-RIG-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+                "start_date": "1945/13",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+                "start_date": "1947/01",
+                "end_date": "1947/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+                "start_date": "1947/13",
+                "end_date": "1947/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+                "start_date": "1949/05",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-106.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CRAWFORD-CAMPS-RES-PEAT-RIG.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/04"
+            }
+        ]
+    }
+}

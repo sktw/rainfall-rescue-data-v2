@@ -1,0 +1,122 @@
+{
+    "name": "WESTEND-MOOR-STONEFOLD",
+    "data": {
+        "WESTEND-MOOR-STONEFOLD.csv": [
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-209.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-013.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1952/02",
+                "end_date": "1952/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1952/07",
+                "end_date": "1952/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1953/01",
+                "end_date": "1953/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1953/03",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1954/01",
+                "end_date": "1957/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1957/03",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1958/01",
+                "end_date": "1959/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1959/03",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WESTEND-MOOR-STONEFOLD.csv": [
+            {
+                "start_date": "1950/09",
+                "end_date": "1950/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1952/05",
+            "end_date": "1952/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1952/12",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1953/02",
+            "end_date": "1953/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1957/02",
+            "end_date": "1957/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1959/02",
+            "end_date": "1959/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_17_pt1-page-054.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

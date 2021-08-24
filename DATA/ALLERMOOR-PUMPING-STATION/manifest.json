@@ -1,0 +1,12 @@
+{
+    "name": "ALLERMOOR-PUMPING-STATION",
+    "data": {
+        "ALLERMOOR-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-141.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

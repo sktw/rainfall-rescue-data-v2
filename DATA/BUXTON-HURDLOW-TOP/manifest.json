@@ -1,0 +1,137 @@
+{
+    "name": "BUXTON-HURDLOW-TOP",
+    "data": {
+        "BUXTON-HURDLOW-TOP.csv": [
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-065.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+                "start_date": "1931/02",
+                "end_date": "1931/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+                "start_date": "1931/04",
+                "end_date": "1931/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+                "start_date": "1931/11",
+                "end_date": "1931/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+                "start_date": "1932/01",
+                "end_date": "1932/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+                "start_date": "1932/07",
+                "end_date": "1932/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+                "start_date": "1932/12",
+                "end_date": "1932/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+                "start_date": "1944/12",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+                "start_date": "1945/01",
+                "end_date": "1948/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+                "start_date": "1948/05",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BUXTON-HURDLOW-TOP.csv": [
+            {
+                "start_date": "1947/02",
+                "end_date": "1947/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+            "start_date": "1944/11",
+            "end_date": "1944/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+            "start_date": "1948/04",
+            "end_date": "1948/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_18_pt1-page-142.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+            "start_date": "1931/01",
+            "end_date": "1931/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+            "start_date": "1931/03",
+            "end_date": "1931/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+            "start_date": "1931/10",
+            "end_date": "1931/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+            "start_date": "1931/12",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+            "start_date": "1932/06",
+            "end_date": "1932/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+            "start_date": "1932/10",
+            "end_date": "1932/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-037.csv",
+            "start_date": "1932/13",
+            "end_date": "1932/13"
+        }
+    ]
+}

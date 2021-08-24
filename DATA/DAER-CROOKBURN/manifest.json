@@ -1,0 +1,31 @@
+{
+    "name": "DAER-CROOKBURN",
+    "data": {
+        "DAER-CROOKBURN-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-008.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-101.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DAER-CROOKBURN-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-099.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DAER-CROOKBURN.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-007.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

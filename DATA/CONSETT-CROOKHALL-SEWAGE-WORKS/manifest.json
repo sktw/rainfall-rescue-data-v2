@@ -1,0 +1,39 @@
+{
+    "name": "CONSETT-CROOKHALL-SEWAGE-WORKS",
+    "data": {
+        "CONSETT-CROOKHALL-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-049.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-049.csv",
+                "start_date": "1941/04",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-049.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-151.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_23_pt1-page-049.csv",
+            "start_date": "1941/02",
+            "end_date": "1941/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_23_pt1-page-049.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

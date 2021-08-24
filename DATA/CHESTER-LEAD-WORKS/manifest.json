@@ -1,0 +1,36 @@
+{
+    "name": "CHESTER-LEAD-WORKS",
+    "data": {
+        "CHESTER-LEAD-WORKS-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt3-page-056.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-079.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "CHESTER-LEAD-WORKS-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-078.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "CHESTER-LEAD-WORKS.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt3-page-055.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-077.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "name": "HAVERHILL-WW",
+    "data": {
+        "HAVERHILL-WW.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-014.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-190.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+                "start_date": "1957/06",
+                "end_date": "1957/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+                "start_date": "1957/09",
+                "end_date": "1957/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+                "start_date": "1957/12",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+            "start_date": "1957/05",
+            "end_date": "1957/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+            "start_date": "1957/08",
+            "end_date": "1957/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+            "start_date": "1957/11",
+            "end_date": "1957/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-097.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

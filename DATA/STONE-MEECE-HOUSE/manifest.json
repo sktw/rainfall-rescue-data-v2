@@ -1,0 +1,22 @@
+{
+    "name": "STONE-MEECE-HOUSE",
+    "data": {
+        "STONE-MEECE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-048.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-092.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-077.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}
