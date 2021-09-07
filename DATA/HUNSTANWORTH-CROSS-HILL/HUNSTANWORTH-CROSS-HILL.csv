@@ -1,6 +1,6 @@
 HUNSTANWORTH (CROSS HILL),,,,,,,,,,
 Grid ref,NY942483,Long,-2.09181,Lat,54.829499,Elevation,1160,ft,,
-Station no,RR4095,,,,,,,,,
+Station no,3553/8/3/5,,,,,,,,,
 ,,,,,,,,,,
 ,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960
 January,,,0.86,3.72,4.54,3.76,3.39,3.17,3.36,6.27
@@ -20,3 +20,4 @@ Total,,,28.95,47.1,29.95,40.5,33.25,37.38,28.88,48.03
 1826,CROSSHILL ,NY9419748289,01/01/1952,31/12/1967,,,,,,
 ,,,,,,,,,,
 1952 removed -999 from Jan and June as 100s on original,,,,,,,,,,
+also given RR4095 as station number,,,,,,,,,,
