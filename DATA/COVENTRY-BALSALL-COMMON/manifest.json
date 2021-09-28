@@ -1,0 +1,38 @@
+{
+    "name": "COVENTRY-BALSALL-COMMON",
+    "data": {
+        "COVENTRY-BALSALL-COMMON.csv": [
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-260.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-059.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-055.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "COVENTRY-BALSALL-COMMON.csv": [
+            {
+                "start_date": "1934/01",
+                "end_date": "1934/05"
+            },
+            {
+                "start_date": "1934/07",
+                "end_date": "1934/08"
+            },
+            {
+                "start_date": "1934/10",
+                "end_date": "1934/12"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "BRYNDERI-SCHOOL",
+    "data": {
+        "BRYNDERI-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+                "start_date": "1953/01",
+                "end_date": "1953/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+                "start_date": "1953/03",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+                "start_date": "1954/01",
+                "end_date": "1955/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+                "start_date": "1955/06",
+                "end_date": "1955/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+                "start_date": "1955/08",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+            "start_date": "1952/12",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+            "start_date": "1953/02",
+            "end_date": "1953/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+            "start_date": "1955/05",
+            "end_date": "1955/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+            "start_date": "1955/07",
+            "end_date": "1955/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_21_pt1-page-202.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_25_pt1-page-044.csv"
+        }
+    ]
+}

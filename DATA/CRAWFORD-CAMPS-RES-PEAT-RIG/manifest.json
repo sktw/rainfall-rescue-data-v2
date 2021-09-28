@@ -25,6 +25,11 @@
             {
                 "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
                 "start_date": "1949/05",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+                "start_date": "1950/01",
                 "end_date": "1950/13"
             },
             {
@@ -40,5 +45,12 @@
                 "end_date": "1949/04"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_29_pt1-page-013.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        }
+    ]
 }

@@ -1,0 +1,34 @@
+{
+    "name": "GLOUCESTER-BIRDLIP-HILL",
+    "data": {
+        "GLOUCESTER-BIRDLIP-HILL-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-167.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-172.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "GLOUCESTER-BIRDLIP-HILL.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-023.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-166.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-171.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

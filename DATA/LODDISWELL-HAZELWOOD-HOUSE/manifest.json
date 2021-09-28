@@ -1,0 +1,56 @@
+{
+    "name": "LODDISWELL-HAZELWOOD-HOUSE",
+    "data": {
+        "LODDISWELL-HAZELWOOD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-274.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-274.csv",
+                "start_date": "1935/02",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-274.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-056.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-101.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LODDISWELL-HAZELWOOD-HOUSE.csv": [
+            {
+                "start_date": "1942/11",
+                "end_date": "1942/11"
+            },
+            {
+                "start_date": "1956/01",
+                "end_date": "1956/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-274.csv",
+            "start_date": "1935/01",
+            "end_date": "1935/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-274.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

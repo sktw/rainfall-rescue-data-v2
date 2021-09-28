@@ -1,0 +1,22 @@
+{
+    "name": "WITTERSHAM-MOUNT-PLEASANT",
+    "data": {
+        "WITTERSHAM-MOUNT-PLEASANT.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-103.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-007.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-008.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "HALLATON-HORNINGHOLD-HOUSE",
+    "data": {
+        "HALLATON-HORNINGHOLD-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-011.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-259.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-138.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "HALLATON-HORNINGHOLD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-010.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-258.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-137.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-137.csv",
+                "start_date": "1926/03",
+                "end_date": "1926/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-137.csv",
+                "start_date": "1926/12",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-137.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-014.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_16_pt1-page-137.csv",
+            "start_date": "1926/01",
+            "end_date": "1926/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_16_pt1-page-137.csv",
+            "start_date": "1926/04",
+            "end_date": "1926/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_16_pt1-page-137.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-014.csv",
+            "start_date": "1940/11",
+            "end_date": "1940/13"
+        }
+    ]
+}

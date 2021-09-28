@@ -1,0 +1,39 @@
+{
+    "name": "HERNE-BAY-ST-ANNES-HOME",
+    "data": {
+        "HERNE-BAY-ST-ANNES-HOME-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-205.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-205.csv",
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-205.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-095.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-089.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HERNE-BAY-ST-ANNES-HOME.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-205.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/13"
+            }
+        ]
+    }
+}

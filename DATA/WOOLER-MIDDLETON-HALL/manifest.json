@@ -1,0 +1,39 @@
+{
+    "name": "WOOLER-MIDDLETON-HALL",
+    "data": {
+        "WOOLER-MIDDLETON-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-068.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/02"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-068.csv",
+                "start_date": "1875/04",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-068.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-270.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_09_pt2-page-068.csv",
+            "start_date": "1875/03",
+            "end_date": "1875/03"
+        },
+        {
+            "filename": "TYRain_1870-1879_09_pt2-page-068.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        }
+    ]
+}

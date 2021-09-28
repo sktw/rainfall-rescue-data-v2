@@ -1,0 +1,32 @@
+{
+    "name": "LLANVIHANGEL-CRUCORNEY-DEPOT",
+    "data": {
+        "LLANVIHANGEL-CRUCORNEY-DEPOT-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_22_pt1-page-069.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-239.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LLANVIHANGEL-CRUCORNEY-DEPOT.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-043.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANVIHANGEL-CRUCORNEY-DEPOT-2.csv": [
+            {
+                "start_date": "1919/02",
+                "end_date": "1919/02"
+            }
+        ]
+    }
+}

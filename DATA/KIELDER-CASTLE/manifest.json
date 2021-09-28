@@ -1,0 +1,72 @@
+{
+    "name": "KIELDER-CASTLE",
+    "data": {
+        "KIELDER-CASTLE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-104.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-228.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KIELDER-CASTLE-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-227.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KIELDER-CASTLE.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-195.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-104.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-104.csv",
+                "start_date": "1942/06",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-104.csv",
+                "start_date": "1943/01",
+                "end_date": "1948/13"
+            }
+        ]
+    },
+    "idr": {
+        "KIELDER-CASTLE-3.csv": [
+            {
+                "start_date": "1954/07",
+                "end_date": "1954/08"
+            }
+        ],
+        "KIELDER-CASTLE.csv": [
+            {
+                "start_date": "1946/13",
+                "end_date": "1946/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_23_pt1-page-104.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_23_pt1-page-104.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "GLEN-GARRY-SRONPHADRUIG-LODGE",
+    "data": {
+        "GLEN-GARRY-SRONPHADRUIG-LODGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-047.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-047.csv",
+                "start_date": "1942/04",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-047.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-255.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GLEN-GARRY-SRONPHADRUIG-LODGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-166.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "GLEN-GARRY-SRONPHADRUIG-LODGE-2.csv": [
+            {
+                "start_date": "1957/13",
+                "end_date": "1957/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-047.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-047.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "PONT-NEATH-VAUGHAN-GLYN-NEATH",
+    "data": {
+        "PONT-NEATH-VAUGHAN-GLYN-NEATH.csv": [
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-143.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-170.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_26_pt1-page-186.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-037.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "PONT-NEATH-VAUGHAN-GLYN-NEATH.csv": [
+            {
+                "start_date": "1912/02",
+                "end_date": "1912/02"
+            },
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/06"
+            },
+            {
+                "start_date": "1919/08",
+                "end_date": "1919/08"
+            },
+            {
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            },
+            {
+                "start_date": "1921/12",
+                "end_date": "1921/12"
+            }
+        ]
+    }
+}

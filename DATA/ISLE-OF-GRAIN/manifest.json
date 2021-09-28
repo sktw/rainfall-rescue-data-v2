@@ -1,0 +1,31 @@
+{
+    "name": "ISLE-OF-GRAIN",
+    "data": {
+        "ISLE-OF-GRAIN-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-284.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "ISLE-OF-GRAIN-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-170.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ISLE-OF-GRAIN.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-218.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-282.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

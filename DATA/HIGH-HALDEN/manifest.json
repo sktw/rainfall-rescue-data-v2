@@ -1,0 +1,90 @@
+{
+    "name": "HIGH-HALDEN",
+    "data": {
+        "HIGH-HALDEN-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-012.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "HIGH-HALDEN-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-128.csv",
+                "start_date": "1920/02",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-128.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-215.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-215.csv",
+                "start_date": "1933/02",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-215.csv",
+                "start_date": "1934/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-215.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-103.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "HIGH-HALDEN-4.csv": [
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-100.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HIGH-HALDEN.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-096.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-128.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-128.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-215.csv",
+            "start_date": "1933/01",
+            "end_date": "1933/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-215.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-215.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/13"
+        }
+    ]
+}

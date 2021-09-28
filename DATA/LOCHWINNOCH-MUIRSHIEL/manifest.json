@@ -1,0 +1,66 @@
+{
+    "name": "LOCHWINNOCH-MUIRSHIEL",
+    "data": {
+        "LOCHWINNOCH-MUIRSHIEL-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+                "start_date": "1952/04",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+                "start_date": "1953/01",
+                "end_date": "1957/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+                "start_date": "1957/05",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCHWINNOCH-MUIRSHIEL.csv": [
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-085.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-229.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+            "start_date": "1957/04",
+            "end_date": "1957/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-025.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

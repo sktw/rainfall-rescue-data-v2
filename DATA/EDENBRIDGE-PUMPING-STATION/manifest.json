@@ -1,0 +1,12 @@
+{
+    "name": "EDENBRIDGE-PUMPING-STATION",
+    "data": {
+        "EDENBRIDGE-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-116.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

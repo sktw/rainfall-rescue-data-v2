@@ -1,0 +1,22 @@
+{
+    "name": "ALCESTER-ARROWSIDE",
+    "data": {
+        "ALCESTER-ARROWSIDE.csv": [
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-223.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-024.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-019.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

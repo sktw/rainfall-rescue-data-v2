@@ -1,0 +1,46 @@
+{
+    "name": "EASTBOURNE-SUSSEX-GDNS",
+    "data": {
+        "EASTBOURNE-SUSSEX-GDNS-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-149.csv",
+                "start_date": "1900/12",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-149.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-244.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-178.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "EASTBOURNE-SUSSEX-GDNS.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-133.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-149.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_04_pt1-page-149.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        }
+    ]
+}

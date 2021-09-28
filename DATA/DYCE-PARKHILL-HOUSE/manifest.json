@@ -1,0 +1,35 @@
+{
+    "name": "DYCE-PARKHILL-HOUSE",
+    "data": {
+        "DYCE-PARKHILL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-198.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-061.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_33_pt1-page-053.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-265.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "DYCE-PARKHILL-HOUSE.csv": [
+            {
+                "start_date": "1921/10",
+                "end_date": "1921/10"
+            }
+        ]
+    }
+}

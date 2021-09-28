@@ -1,0 +1,38 @@
+{
+    "name": "STAMFORD-ST-GEORGES-SQUARE",
+    "data": {
+        "STAMFORD-ST-GEORGES-SQUARE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-014.csv",
+                "start_date": "1919/07",
+                "end_date": "1919/12"
+            }
+        ],
+        "STAMFORD-ST-GEORGES-SQUARE-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-158.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "STAMFORD-ST-GEORGES-SQUARE.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-067.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-014.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_16_pt1-page-014.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "MARKBEECH-EDELLS",
+    "data": {
+        "MARKBEECH-EDELLS-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-112.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "MARKBEECH-EDELLS-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-097.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-150.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-150.csv",
+                "start_date": "1905/13",
+                "end_date": "1905/13"
+            }
+        ],
+        "MARKBEECH-EDELLS.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-150.csv",
+                "start_date": "1905/09",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_03_pt1-page-149.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-148.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-232.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-112.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-112.csv",
+                "start_date": "1946/09",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARKBEECH-EDELLS.csv": [
+            {
+                "start_date": "1916/09",
+                "end_date": "1916/09"
+            }
+        ]
+    }
+}

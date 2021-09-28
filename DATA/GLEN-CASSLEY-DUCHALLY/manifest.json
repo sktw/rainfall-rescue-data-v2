@@ -1,0 +1,69 @@
+{
+    "name": "GLEN-CASSLEY-DUCHALLY",
+    "data": {
+        "GLEN-CASSLEY-DUCHALLY.csv": [
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-203.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-203.csv",
+                "start_date": "1949/05",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-203.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-131.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-131.csv",
+                "start_date": "1956/01",
+                "end_date": "1958/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-131.csv",
+                "start_date": "1958/07",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-131.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-203.csv",
+            "start_date": "1949/01",
+            "end_date": "1949/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-203.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_29_pt1-page-131.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_29_pt1-page-131.csv",
+            "start_date": "1958/06",
+            "end_date": "1958/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_29_pt1-page-131.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

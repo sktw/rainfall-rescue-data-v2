@@ -1,0 +1,17 @@
+{
+    "name": "DENBIGH-DYFFRYN-ALED",
+    "data": {
+        "DENBIGH-DYFFRYN-ALED.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-264.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

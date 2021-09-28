@@ -1,0 +1,299 @@
+{
+    "name": "HAYFIELD-PARK-HALL-MOOR",
+    "data": {
+        "HAYFIELD-PARK-HALL-MOOR-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-305.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-305.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1941/03",
+                "end_date": "1941/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1941/06",
+                "end_date": "1941/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1941/12",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1943/01",
+                "end_date": "1944/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1944/10",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1945/01",
+                "end_date": "1948/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1948/09",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1951/02",
+                "end_date": "1951/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1951/04",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1952/01",
+                "end_date": "1955/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1955/07",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1956/01",
+                "end_date": "1956/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1956/03",
+                "end_date": "1956/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1957/04",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1958/05",
+                "end_date": "1958/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1958/11",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1960/05",
+                "end_date": "1960/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+                "start_date": "1960/07",
+                "end_date": "1960/12"
+            }
+        ],
+        "HAYFIELD-PARK-HALL-MOOR.csv": [
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-137.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-234.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-014.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-306.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HAYFIELD-PARK-HALL-MOOR-2.csv": [
+            {
+                "start_date": "1952/06",
+                "end_date": "1952/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1951/03",
+            "end_date": "1951/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1955/04",
+            "end_date": "1955/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1955/06",
+            "end_date": "1955/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1956/02",
+            "end_date": "1956/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1956/12",
+            "end_date": "1957/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1958/03",
+            "end_date": "1958/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1958/10",
+            "end_date": "1958/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1960/06",
+            "end_date": "1960/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-100.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-305.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-305.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1941/02",
+            "end_date": "1941/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1941/05",
+            "end_date": "1941/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1941/11",
+            "end_date": "1941/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1941/13",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1944/09",
+            "end_date": "1944/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1948/08",
+            "end_date": "1948/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-100.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        }
+    ]
+}

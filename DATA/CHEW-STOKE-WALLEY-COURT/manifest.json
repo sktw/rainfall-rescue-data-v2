@@ -1,0 +1,56 @@
+{
+    "name": "CHEW-STOKE-WALLEY-COURT",
+    "data": {
+        "CHEW-STOKE-WALLEY-COURT-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_15_pt1-page-182.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-208.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/05"
+            }
+        ],
+        "CHEW-STOKE-WALLEY-COURT-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-208.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-208.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CHEW-STOKE-WALLEY-COURT.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-119.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_15_pt1-page-182.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHEW-STOKE-WALLEY-COURT-2.csv": [
+            {
+                "start_date": "1948/12",
+                "end_date": "1948/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-208.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

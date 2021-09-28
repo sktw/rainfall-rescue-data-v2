@@ -1,0 +1,88 @@
+{
+    "name": "ABERGWESSIN-VICARAGE",
+    "data": {
+        "ABERGWESSIN-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-236.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_25_pt1-page-045.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_25_pt1-page-045.csv",
+                "start_date": "1908/02",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_25_pt1-page-045.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "ABERGWESSIN-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-144.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-144.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-229.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-054.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABERGWESSIN-VICARAGE-2.csv": [
+            {
+                "start_date": "1905/07",
+                "end_date": "1905/07"
+            },
+            {
+                "start_date": "1905/11",
+                "end_date": "1905/11"
+            },
+            {
+                "start_date": "1907/03",
+                "end_date": "1907/03"
+            }
+        ],
+        "ABERGWESSIN-VICARAGE.csv": [
+            {
+                "start_date": "1887/06",
+                "end_date": "1887/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_13_pt1-page-144.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_25_pt1-page-045.csv",
+            "start_date": "1907/13",
+            "end_date": "1908/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_25_pt1-page-045.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        }
+    ]
+}

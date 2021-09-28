@@ -1,0 +1,22 @@
+{
+    "name": "MARKET-RASEN-TEALBY",
+    "data": {
+        "MARKET-RASEN-TEALBY.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-199.csv",
+                "start_date": "1892/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-150.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-098.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/13"
+            }
+        ]
+    }
+}

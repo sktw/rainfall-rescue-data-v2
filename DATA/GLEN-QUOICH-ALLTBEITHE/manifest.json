@@ -1,0 +1,24 @@
+{
+    "name": "GLEN-QUOICH-ALLTBEITHE",
+    "data": {
+        "GLEN-QUOICH-ALLTBEITHE.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-201.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-201.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_30_pt1-page-201.csv",
+            "start_date": "1953/07",
+            "end_date": "1953/13"
+        }
+    ]
+}

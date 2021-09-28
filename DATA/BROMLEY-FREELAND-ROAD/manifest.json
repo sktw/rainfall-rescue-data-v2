@@ -1,0 +1,36 @@
+{
+    "name": "BROMLEY-FREELAND-ROAD",
+    "data": {
+        "BROMLEY-FREELAND-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-058.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_03_pt1-page-266.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BROMLEY-FREELAND-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-273.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BROMLEY-FREELAND-ROAD.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-179.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-064.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

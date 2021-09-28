@@ -1,0 +1,44 @@
+{
+    "name": "GLEN-TORRIDON-CARN-ANTHONY",
+    "data": {
+        "GLEN-TORRIDON-CARN-ANTHONY.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-069.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-069.csv",
+                "start_date": "1954/02",
+                "end_date": "1954/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-069.csv",
+                "start_date": "1954/09",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-069.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_29_pt1-page-069.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_29_pt1-page-069.csv",
+            "start_date": "1954/08",
+            "end_date": "1954/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_29_pt1-page-069.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

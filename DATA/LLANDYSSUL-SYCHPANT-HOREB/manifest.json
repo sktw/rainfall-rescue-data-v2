@@ -1,0 +1,37 @@
+{
+    "name": "LLANDYSSUL-SYCHPANT-HOREB",
+    "data": {
+        "LLANDYSSUL-SYCHPANT-HOREB.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-207.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-207.csv",
+                "start_date": "1947/09",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-192.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANDYSSUL-SYCHPANT-HOREB.csv": [
+            {
+                "start_date": "1958/11",
+                "end_date": "1958/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-207.csv",
+            "start_date": "1947/01",
+            "end_date": "1947/08"
+        }
+    ]
+}

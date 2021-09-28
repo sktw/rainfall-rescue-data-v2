@@ -1,0 +1,77 @@
+{
+    "name": "PETERBOROUGH-WOODSTON",
+    "data": {
+        "PETERBOROUGH-WOODSTON.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-308.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+                "start_date": "1931/05",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+                "start_date": "1932/02",
+                "end_date": "1932/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+                "start_date": "1933/04",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_08_pt1-page-226.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-140.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PETERBOROUGH-WOODSTON.csv": [
+            {
+                "start_date": "1949/13",
+                "end_date": "1949/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+            "start_date": "1931/02",
+            "end_date": "1931/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+            "start_date": "1931/13",
+            "end_date": "1932/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+            "start_date": "1932/13",
+            "end_date": "1933/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-304.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
+}

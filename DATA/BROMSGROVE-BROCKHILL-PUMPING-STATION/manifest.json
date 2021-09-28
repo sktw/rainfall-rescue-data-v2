@@ -1,0 +1,25 @@
+{
+    "name": "BROMSGROVE-BROCKHILL-PUMPING-STATION",
+    "data": {
+        "BROMSGROVE-BROCKHILL-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-312.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_14_pt1-page-188.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROMSGROVE-BROCKHILL-PUMPING-STATION.csv": [
+            {
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ]
+    }
+}

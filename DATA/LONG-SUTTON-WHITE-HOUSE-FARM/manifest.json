@@ -1,0 +1,122 @@
+{
+    "name": "LONG-SUTTON-WHITE-HOUSE-FARM",
+    "data": {
+        "LONG-SUTTON-WHITE-HOUSE-FARM.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-072.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1945/05",
+                "end_date": "1945/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1945/07",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1946/01",
+                "end_date": "1946/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1946/05",
+                "end_date": "1946/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1946/09",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1947/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1947/03",
+                "end_date": "1947/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1947/12",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-155.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            }
+        ]
+    },
+    "idr": {
+        "LONG-SUTTON-WHITE-HOUSE-FARM.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1945/06",
+            "end_date": "1945/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1946/02",
+            "end_date": "1946/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1946/06",
+            "end_date": "1946/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1947/11",
+            "end_date": "1947/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-158.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

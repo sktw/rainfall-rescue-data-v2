@@ -1,0 +1,19 @@
+{
+    "name": "LUBREOCH-DAM",
+    "data": {
+        "LUBREOCH-DAM-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-204.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LUBREOCH-DAM.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-205.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "name": "LEATHERHEAD-ELMER-SOFTENING-WKS",
+    "data": {
+        "LEATHERHEAD-ELMER-SOFTENING-WKS-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
+                "start_date": "1938/01",
+                "end_date": "1938/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
+                "start_date": "1938/08",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-093.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-141.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LEATHERHEAD-ELMER-SOFTENING-WKS.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+                "start_date": "1927/08",
+                "end_date": "1927/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+                "start_date": "1927/12",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-143.csv"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+            "start_date": "1927/07",
+            "end_date": "1927/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+            "start_date": "1927/11",
+            "end_date": "1927/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
+            "start_date": "1938/07",
+            "end_date": "1938/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
+}

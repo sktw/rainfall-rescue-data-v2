@@ -1,0 +1,35 @@
+{
+    "name": "LONGTOWN-ARTHURET-RECTORY",
+    "data": {
+        "LONGTOWN-ARTHURET-RECTORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-114.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-030.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-268.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-186.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "LONGTOWN-ARTHURET-RECTORY.csv": [
+            {
+                "start_date": "1940/13",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

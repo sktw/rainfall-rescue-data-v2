@@ -1,0 +1,46 @@
+{
+    "name": "CHARING-PETT-PLACE",
+    "data": {
+        "CHARING-PETT-PLACE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-058.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-058.csv",
+                "start_date": "1929/11",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-153.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-047.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-043.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CHARING-PETT-PLACE.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-059.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-058.csv",
+            "start_date": "1929/07",
+            "end_date": "1929/10"
+        }
+    ]
+}

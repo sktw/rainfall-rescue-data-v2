@@ -1,0 +1,104 @@
+{
+    "name": "OXFORD-ST-GILES-MIX",
+    "data": {
+        "OXFORD-ST-GILES-MIX-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-114.csv",
+                "start_date": "1901/11",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-188.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/07"
+            }
+        ],
+        "OXFORD-ST-GILES-MIX-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-188.csv",
+                "start_date": "1916/09",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-188.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-168.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "OXFORD-ST-GILES-MIX-4.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-178.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "OXFORD-ST-GILES-MIX-5.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-175.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-105.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "OXFORD-ST-GILES-MIX-6.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-181.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-109.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-028.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "OXFORD-ST-GILES-MIX.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt5-page-030.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-147.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-114.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/11"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-114.csv",
+                "start_date": "1901/13",
+                "end_date": "1901/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-188.csv",
+            "start_date": "1916/08",
+            "end_date": "1916/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-188.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        }
+    ]
+}

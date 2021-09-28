@@ -1,0 +1,46 @@
+{
+    "name": "LONDONDERRY-RICHMOND",
+    "data": {
+        "LONDONDERRY-RICHMOND-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-143.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "LONDONDERRY-RICHMOND.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_08_pt2-page-144.csv",
+                "start_date": "1860/01",
+                "end_date": "1861/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_08_pt2-page-144.csv",
+                "start_date": "1862/01",
+                "end_date": "1862/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_08_pt2-page-144.csv",
+                "start_date": "1863/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-028.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_08_pt2-page-144.csv",
+            "start_date": "1861/13",
+            "end_date": "1861/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1860-1869_08_pt2-page-144.csv",
+            "start_date": "1862/13",
+            "end_date": "1862/13"
+        }
+    ]
+}

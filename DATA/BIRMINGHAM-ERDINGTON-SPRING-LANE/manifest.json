@@ -1,0 +1,51 @@
+{
+    "name": "BIRMINGHAM-ERDINGTON-SPRING-LANE",
+    "data": {
+        "BIRMINGHAM-ERDINGTON-SPRING-LANE.csv": [
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-285.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-285.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-083.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_15_pt1-page-079.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BIRMINGHAM-ERDINGTON-SPRING-LANE.csv": [
+            {
+                "start_date": "1956/11",
+                "end_date": "1956/11"
+            },
+            {
+                "start_date": "1958/13",
+                "end_date": "1958/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_14_pt1-page-285.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_14_pt1-page-285.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "IPSWICH-DALE-HALL",
+    "data": {
+        "IPSWICH-DALE-HALL-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-034.csv",
+                "start_date": "1935/10",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-034.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "IPSWICH-DALE-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-205.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-205.csv",
+                "start_date": "1904/03",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-205.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-205.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-023.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-034.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-034.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_09_pt1-page-205.csv",
+            "start_date": "1904/01",
+            "end_date": "1904/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_09_pt1-page-205.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-034.csv",
+            "start_date": "1935/09",
+            "end_date": "1935/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-034.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

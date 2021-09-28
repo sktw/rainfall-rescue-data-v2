@@ -1,0 +1,31 @@
+{
+    "name": "BLAIRGOWRIE-BURNHEAD",
+    "data": {
+        "BLAIRGOWRIE-BURNHEAD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-262.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-262.csv",
+                "start_date": "1955/06",
+                "end_date": "1960/13"
+            }
+        ],
+        "BLAIRGOWRIE-BURNHEAD.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-261.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_28_pt1-page-262.csv",
+            "start_date": "1955/05",
+            "end_date": "1955/05"
+        }
+    ]
+}

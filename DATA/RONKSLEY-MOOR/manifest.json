@@ -1,0 +1,162 @@
+{
+    "name": "RONKSLEY-MOOR",
+    "data": {
+        "RONKSLEY-MOOR.csv": [
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+                "start_date": "1937/04",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+                "start_date": "1938/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+                "start_date": "1940/02",
+                "end_date": "1940/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+                "start_date": "1940/04",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-193.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1953/03",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1954/01",
+                "end_date": "1955/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1955/03",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1956/02",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1957/01",
+                "end_date": "1959/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1959/11",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+                "start_date": "1960/05",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "idr": {
+        "RONKSLEY-MOOR.csv": [
+            {
+                "start_date": "1947/01",
+                "end_date": "1947/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+            "start_date": "1937/03",
+            "end_date": "1937/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+            "start_date": "1940/03",
+            "end_date": "1940/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-107.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1953/02",
+            "end_date": "1953/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1955/02",
+            "end_date": "1955/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1955/13",
+            "end_date": "1956/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1959/10",
+            "end_date": "1959/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-220.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "TACKLEY",
+    "data": {
+        "TACKLEY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_07_pt1-page-119.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_07_pt1-page-119.csv",
+                "start_date": "1904/11",
+                "end_date": "1904/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_07_pt1-page-119.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_07_pt1-page-200.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-179.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/08"
+            }
+        ],
+        "TACKLEY-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-179.csv",
+                "start_date": "1927/09",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-179.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-183.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-183.csv",
+                "start_date": "1938/03",
+                "end_date": "1940/13"
+            }
+        ],
+        "TACKLEY-4.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-183.csv",
+                "start_date": "1936/10",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-183.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "TACKLEY.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_07_pt1-page-119.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/13"
+            }
+        ]
+    },
+    "idr": {
+        "TACKLEY-2.csv": [
+            {
+                "start_date": "1908/13",
+                "end_date": "1908/13"
+            },
+            {
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-179.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-183.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        }
+    ]
+}

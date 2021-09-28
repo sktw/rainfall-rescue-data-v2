@@ -1,0 +1,35 @@
+{
+    "name": "BIRMINGHAM-SALTLEY-SEWAGE-WORKS",
+    "data": {
+        "BIRMINGHAM-SALTLEY-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-238.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_14_pt1-page-278.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-076.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-070.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BIRMINGHAM-SALTLEY-SEWAGE-WORKS.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    }
+}

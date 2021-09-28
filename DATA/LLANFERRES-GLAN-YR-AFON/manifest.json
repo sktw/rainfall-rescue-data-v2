@@ -1,0 +1,25 @@
+{
+    "name": "LLANFERRES-GLAN-YR-AFON",
+    "data": {
+        "LLANFERRES-GLAN-YR-AFON.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-285.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-038.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANFERRES-GLAN-YR-AFON.csv": [
+            {
+                "start_date": "1933/10",
+                "end_date": "1933/11"
+            }
+        ]
+    }
+}

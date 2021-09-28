@@ -1,0 +1,20 @@
+{
+    "name": "PIRBRIGHT-RESEARCH-INSTITUTE",
+    "data": {
+        "PIRBRIGHT-RESEARCH-INSTITUTE.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_01_pt1-page-251.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PIRBRIGHT-RESEARCH-INSTITUTE.csv": [
+            {
+                "start_date": "1960/08",
+                "end_date": "1960/08"
+            }
+        ]
+    }
+}

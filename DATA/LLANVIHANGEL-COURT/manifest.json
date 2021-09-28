@@ -1,0 +1,116 @@
+{
+    "name": "LLANVIHANGEL-COURT",
+    "data": {
+        "LLANVIHANGEL-COURT-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-042.csv",
+                "start_date": "1890/01",
+                "end_date": "1896/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-042.csv",
+                "start_date": "1897/02",
+                "end_date": "1897/05"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-042.csv",
+                "start_date": "1897/07",
+                "end_date": "1897/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-042.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+                "start_date": "1902/06",
+                "end_date": "1902/07"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+                "start_date": "1902/09",
+                "end_date": "1902/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+                "start_date": "1903/01",
+                "end_date": "1903/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+                "start_date": "1903/06",
+                "end_date": "1909/13"
+            }
+        ],
+        "LLANVIHANGEL-COURT.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-030.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-114.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-114.csv",
+                "start_date": "1903/06",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_19_pt1-page-042.csv",
+            "start_date": "1897/01",
+            "end_date": "1897/01"
+        },
+        {
+            "filename": "TYRain_1890-1899_19_pt1-page-042.csv",
+            "start_date": "1897/06",
+            "end_date": "1897/06"
+        },
+        {
+            "filename": "TYRain_1890-1899_19_pt1-page-042.csv",
+            "start_date": "1897/13",
+            "end_date": "1897/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-114.csv",
+            "start_date": "1903/05",
+            "end_date": "1903/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+            "start_date": "1902/05",
+            "end_date": "1902/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+            "start_date": "1902/08",
+            "end_date": "1902/08"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-115.csv",
+            "start_date": "1903/05",
+            "end_date": "1903/05"
+        }
+    ]
+}

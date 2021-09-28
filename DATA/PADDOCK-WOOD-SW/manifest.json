@@ -1,0 +1,12 @@
+{
+    "name": "PADDOCK-WOOD-SW",
+    "data": {
+        "PADDOCK-WOOD-SW.csv": [
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-119.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

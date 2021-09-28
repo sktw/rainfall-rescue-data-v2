@@ -1,0 +1,64 @@
+{
+    "name": "EVESHAM-SHERIFFS-LENCH",
+    "data": {
+        "EVESHAM-SHERIFFS-LENCH.csv": [
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-028.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-193.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+                "start_date": "1945/04",
+                "end_date": "1945/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+                "start_date": "1945/10",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+            "start_date": "1945/03",
+            "end_date": "1945/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+            "start_date": "1945/09",
+            "end_date": "1945/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_16_pt1-page-308.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

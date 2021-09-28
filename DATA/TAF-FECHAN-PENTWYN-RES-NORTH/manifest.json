@@ -1,0 +1,142 @@
+{
+    "name": "TAF-FECHAN-PENTWYN-RES-NORTH",
+    "data": {
+        "TAF-FECHAN-PENTWYN-RES-NORTH.csv": [
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+                "start_date": "1928/11",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+                "start_date": "1929/02",
+                "end_date": "1929/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+                "start_date": "1929/10",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+                "start_date": "1933/07",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+                "start_date": "1934/01",
+                "end_date": "1935/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+                "start_date": "1935/05",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+                "start_date": "1940/06",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-018.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-018.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-219.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "TAF-FECHAN-PENTWYN-RES-NORTH.csv": [
+            {
+                "start_date": "1959/13",
+                "end_date": "1959/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+            "start_date": "1928/10",
+            "end_date": "1928/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+            "start_date": "1928/13",
+            "end_date": "1929/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+            "start_date": "1929/09",
+            "end_date": "1929/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-199.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+            "start_date": "1933/06",
+            "end_date": "1933/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+            "start_date": "1935/04",
+            "end_date": "1935/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+            "start_date": "1940/05",
+            "end_date": "1940/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-052.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-018.csv",
+            "start_date": "1943/01",
+            "end_date": "1943/13"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "WELLINGBOROUGH-RAUNDS-DAY-SCHOOL",
+    "data": {
+        "WELLINGBOROUGH-RAUNDS-DAY-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-070.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WELLINGBOROUGH-RAUNDS-DAY-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-054.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-069.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-287.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-281.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

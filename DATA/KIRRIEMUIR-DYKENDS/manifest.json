@@ -3,6 +3,11 @@
     "data": {
         "KIRRIEMUIR-DYKENDS.csv": [
             {
+                "filename": "MISFILED_TYRain_1910-1919_27_pt1-page-255.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
                 "filename": "TYRain_1931-1940_26_pt1-page-174.csv",
                 "start_date": "1931/01",
                 "end_date": "1940/13"
@@ -19,9 +24,16 @@
             }
         ]
     },
-    "unused": [
-        {
-            "filename": "MISFILED_TYRain_1910-1919_27_pt1-page-255.csv"
-        }
-    ]
+    "idr": {
+        "KIRRIEMUIR-DYKENDS.csv": [
+            {
+                "start_date": "1928/09",
+                "end_date": "1928/12"
+            },
+            {
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
 }

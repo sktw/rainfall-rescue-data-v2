@@ -25,6 +25,28 @@
                 "end_date": "1940/13"
             }
         ],
+        "THELWALL-MIX-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-168.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-168.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-168.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-242.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
         "THELWALL-MIX.csv": [
             {
                 "filename": "TYRain_1880-1889_08_pt4-page-018.csv",
@@ -45,10 +67,14 @@
     },
     "unused": [
         {
-            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-168.csv"
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-168.csv",
+            "start_date": "1933/02",
+            "end_date": "1933/02"
         },
         {
-            "filename": "TYRain_1941-1950_18_pt1-page-242.csv"
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-168.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
         }
     ]
 }

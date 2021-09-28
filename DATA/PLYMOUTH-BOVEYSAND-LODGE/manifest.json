@@ -1,0 +1,22 @@
+{
+    "name": "PLYMOUTH-BOVEYSAND-LODGE",
+    "data": {
+        "PLYMOUTH-BOVEYSAND-LODGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-138.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-139.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-217.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

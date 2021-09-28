@@ -1,0 +1,84 @@
+{
+    "name": "BLETCHLEY-SEWAGE-WORKS",
+    "data": {
+        "BLETCHLEY-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-115.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-127.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-127.csv",
+                "start_date": "1936/11",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-127.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-067.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+                "start_date": "1955/04",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+                "start_date": "1960/05",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-127.csv",
+            "start_date": "1936/09",
+            "end_date": "1936/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-127.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-289.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

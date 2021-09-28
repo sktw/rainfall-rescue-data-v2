@@ -1,0 +1,20 @@
+{
+    "name": "CAMBORNE-ROSEWARNE",
+    "data": {
+        "CAMBORNE-ROSEWARNE.csv": [
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-095.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CAMBORNE-ROSEWARNE.csv": [
+            {
+                "start_date": "1955/07",
+                "end_date": "1955/07"
+            }
+        ]
+    }
+}

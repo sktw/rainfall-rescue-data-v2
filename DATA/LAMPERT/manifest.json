@@ -1,0 +1,20 @@
+{
+    "name": "LAMPERT",
+    "data": {
+        "LAMPERT.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-187.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAMPERT.csv": [
+            {
+                "start_date": "1957/13",
+                "end_date": "1957/13"
+            }
+        ]
+    }
+}

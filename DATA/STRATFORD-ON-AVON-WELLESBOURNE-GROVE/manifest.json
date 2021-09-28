@@ -1,0 +1,17 @@
+{
+    "name": "STRATFORD-ON-AVON-WELLESBOURNE-GROVE",
+    "data": {
+        "STRATFORD-ON-AVON-WELLESBOURNE-GROVE.csv": [
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-018.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-013.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

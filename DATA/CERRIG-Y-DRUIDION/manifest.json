@@ -1,0 +1,95 @@
+{
+    "name": "CERRIG-Y-DRUIDION",
+    "data": {
+        "CERRIG-Y-DRUIDION-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_26_pt1-page-027.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_26_pt1-page-027.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-112.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CERRIG-Y-DRUIDION-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-028.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-113.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CERRIG-Y-DRUIDION-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-029.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-114.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-114.csv",
+                "start_date": "1914/12",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-114.csv",
+                "start_date": "1915/01",
+                "end_date": "1915/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-114.csv",
+                "start_date": "1916/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CERRIG-Y-DRUIDION.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-250.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-109.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_26_pt1-page-027.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-114.csv",
+            "start_date": "1914/11",
+            "end_date": "1914/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-114.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-114.csv",
+            "start_date": "1915/13",
+            "end_date": "1915/13"
+        }
+    ]
+}

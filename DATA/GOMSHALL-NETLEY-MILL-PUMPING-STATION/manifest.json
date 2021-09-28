@@ -1,0 +1,12 @@
+{
+    "name": "GOMSHALL-NETLEY-MILL-PUMPING-STATION",
+    "data": {
+        "GOMSHALL-NETLEY-MILL-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-223.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

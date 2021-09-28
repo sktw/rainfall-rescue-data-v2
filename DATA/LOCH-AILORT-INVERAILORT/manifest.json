@@ -1,0 +1,46 @@
+{
+    "name": "LOCH-AILORT-INVERAILORT",
+    "data": {
+        "LOCH-AILORT-INVERAILORT-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-052.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-052.csv",
+                "start_date": "1944/09",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-052.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-254.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-AILORT-INVERAILORT.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-238.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-052.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-052.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "CHERTSEY-BURLEY-ORCHARD",
+    "data": {
+        "CHERTSEY-BURLEY-ORCHARD.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-107.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_01_pt3-page-141.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_01_pt3-page-141.csv",
+                "start_date": "1884/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-209.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHERTSEY-BURLEY-ORCHARD.csv": [
+            {
+                "start_date": "1880/10",
+                "end_date": "1880/10"
+            },
+            {
+                "start_date": "1887/06",
+                "end_date": "1887/06"
+            },
+            {
+                "start_date": "1887/08",
+                "end_date": "1887/08"
+            },
+            {
+                "start_date": "1887/10",
+                "end_date": "1887/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_01_pt3-page-141.csv",
+            "start_date": "1883/13",
+            "end_date": "1883/13"
+        }
+    ]
+}

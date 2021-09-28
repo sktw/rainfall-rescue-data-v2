@@ -1,0 +1,46 @@
+{
+    "name": "TOPSHAM-CLYST-ST-GEORGE",
+    "data": {
+        "TOPSHAM-CLYST-ST-GEORGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt3-page-109.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_05_pt2-page-081.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-075.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "TOPSHAM-CLYST-ST-GEORGE.csv": [
+            {
+                "start_date": "1875/02",
+                "end_date": "1875/03"
+            },
+            {
+                "start_date": "1877/09",
+                "end_date": "1877/09"
+            },
+            {
+                "start_date": "1878/01",
+                "end_date": "1878/02"
+            },
+            {
+                "start_date": "1878/11",
+                "end_date": "1878/12"
+            },
+            {
+                "start_date": "1879/09",
+                "end_date": "1879/10"
+            }
+        ]
+    }
+}

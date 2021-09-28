@@ -1,0 +1,63 @@
+{
+    "name": "TILLINGTON-RIVER-HOUSE",
+    "data": {
+        "TILLINGTON-RIVER-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-041.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_04_pt1-page-054.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-058.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-096.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-096.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "TILLINGTON-RIVER-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-042.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "TILLINGTON-RIVER-HOUSE-2.csv": [
+            {
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            },
+            {
+                "start_date": "1933/13",
+                "end_date": "1933/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_04_pt1-page-096.csv",
+            "start_date": "1938/10",
+            "end_date": "1938/13"
+        }
+    ]
+}

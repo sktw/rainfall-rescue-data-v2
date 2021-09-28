@@ -1,0 +1,66 @@
+{
+    "name": "LEICESTER-STOUGHTON-DRIVE",
+    "data": {
+        "LEICESTER-STOUGHTON-DRIVE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-271.csv",
+                "start_date": "1918/08",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-145.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-026.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-114.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "LEICESTER-STOUGHTON-DRIVE-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-116.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-115.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LEICESTER-STOUGHTON-DRIVE.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-019.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-271.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/07"
+            }
+        ]
+    },
+    "idr": {
+        "LEICESTER-STOUGHTON-DRIVE-2.csv": [
+            {
+                "start_date": "1931/01",
+                "end_date": "1931/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-116.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/13"
+        }
+    ]
+}

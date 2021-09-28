@@ -1,0 +1,49 @@
+{
+    "name": "BLACK-MOUNTAINS-BLAEN-BWCH",
+    "data": {
+        "BLACK-MOUNTAINS-BLAEN-BWCH.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+                "start_date": "1958/07",
+                "end_date": "1959/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+                "start_date": "1960/02",
+                "end_date": "1960/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+                "start_date": "1960/10",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+            "start_date": "1958/06",
+            "end_date": "1958/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+            "start_date": "1960/01",
+            "end_date": "1960/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+            "start_date": "1960/09",
+            "end_date": "1960/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-282.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

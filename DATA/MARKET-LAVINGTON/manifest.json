@@ -1,0 +1,42 @@
+{
+    "name": "MARKET-LAVINGTON",
+    "data": {
+        "MARKET-LAVINGTON.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt2-page-001.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-004.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/11"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-004.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-188.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARKET-LAVINGTON.csv": [
+            {
+                "start_date": "1885/07",
+                "end_date": "1885/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_09_pt1-page-004.csv",
+            "start_date": "1890/12",
+            "end_date": "1890/13"
+        }
+    ]
+}

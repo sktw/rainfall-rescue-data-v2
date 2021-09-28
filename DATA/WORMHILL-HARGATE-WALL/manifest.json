@@ -1,0 +1,49 @@
+{
+    "name": "WORMHILL-HARGATE-WALL",
+    "data": {
+        "WORMHILL-HARGATE-WALL.csv": [
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+                "start_date": "1958/07",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+                "start_date": "1960/07",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+            "start_date": "1958/06",
+            "end_date": "1958/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+            "start_date": "1960/06",
+            "end_date": "1960/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-160.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

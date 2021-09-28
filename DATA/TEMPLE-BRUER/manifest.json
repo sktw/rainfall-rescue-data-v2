@@ -1,0 +1,22 @@
+{
+    "name": "TEMPLE-BRUER",
+    "data": {
+        "TEMPLE-BRUER.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-150.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-089.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-047.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "name": "LOCH-TREIG-CREAGUAINEACH",
+    "data": {
+        "LOCH-TREIG-CREAGUAINEACH.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_33_pt1-page-169.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_33_pt1-page-169.csv",
+                "start_date": "1924/10",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_33_pt1-page-169.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-060.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+                "start_date": "1950/05",
+                "end_date": "1950/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+                "start_date": "1950/08",
+                "end_date": "1950/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-264.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-264.csv",
+                "start_date": "1952/06",
+                "end_date": "1952/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-264.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LOCH-TREIG-CREAGUAINEACH.csv": [
+            {
+                "start_date": "1923/12",
+                "end_date": "1923/12"
+            },
+            {
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_33_pt1-page-169.csv",
+            "start_date": "1924/08",
+            "end_date": "1924/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_33_pt1-page-169.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-264.csv",
+            "start_date": "1952/05",
+            "end_date": "1952/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-264.csv",
+            "start_date": "1952/12",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+            "start_date": "1949/06",
+            "end_date": "1949/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+            "start_date": "1950/02",
+            "end_date": "1950/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+            "start_date": "1950/07",
+            "end_date": "1950/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-064.csv",
+            "start_date": "1950/12",
+            "end_date": "1950/13"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "HENLEY-ON-THAMES-SWYNCOMBE-HOUSE",
+    "data": {
+        "HENLEY-ON-THAMES-SWYNCOMBE-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-217.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-219.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-140.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-053.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HENLEY-ON-THAMES-SWYNCOMBE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-034.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-073.csv",
+                "start_date": "1870/01",
+                "end_date": "1878/02"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-073.csv",
+                "start_date": "1878/05",
+                "end_date": "1878/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-073.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_02_pt2-page-073.csv",
+            "start_date": "1878/03",
+            "end_date": "1878/04"
+        },
+        {
+            "filename": "TYRain_1870-1879_02_pt2-page-073.csv",
+            "start_date": "1878/13",
+            "end_date": "1878/13"
+        }
+    ]
+}

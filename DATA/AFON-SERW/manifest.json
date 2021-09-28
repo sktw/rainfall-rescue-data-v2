@@ -1,0 +1,29 @@
+{
+    "name": "AFON-SERW",
+    "data": {
+        "AFON-SERW.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-065.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-166.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "AFON-SERW.csv": [
+            {
+                "start_date": "1946/06",
+                "end_date": "1946/06"
+            },
+            {
+                "start_date": "1958/01",
+                "end_date": "1958/01"
+            }
+        ]
+    }
+}

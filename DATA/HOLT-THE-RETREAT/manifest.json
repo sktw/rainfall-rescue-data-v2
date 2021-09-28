@@ -1,0 +1,78 @@
+{
+    "name": "HOLT-THE-RETREAT",
+    "data": {
+        "HOLT-THE-RETREAT-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_09_pt1-page-280.csv",
+                "start_date": "1937/10",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-137.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-100.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HOLT-THE-RETREAT.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-006.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-012.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-013.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-179.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_10_pt1-page-174.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-268.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_09_pt1-page-280.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/08"
+            }
+        ]
+    },
+    "idr": {
+        "HOLT-THE-RETREAT.csv": [
+            {
+                "start_date": "1914/08",
+                "end_date": "1914/08"
+            },
+            {
+                "start_date": "1932/03",
+                "end_date": "1932/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_09_pt1-page-280.csv",
+            "start_date": "1937/09",
+            "end_date": "1937/09"
+        }
+    ]
+}

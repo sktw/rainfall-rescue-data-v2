@@ -1,0 +1,54 @@
+{
+    "name": "ST-AUSTELL-POLTAIR-PUBLIC-GDNS",
+    "data": {
+        "ST-AUSTELL-POLTAIR-PUBLIC-GDNS.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-047.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-126.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-151.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-151.csv",
+                "start_date": "1956/07",
+                "end_date": "1956/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-151.csv",
+                "start_date": "1956/09",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-151.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-151.csv",
+            "start_date": "1956/06",
+            "end_date": "1956/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-151.csv",
+            "start_date": "1956/08",
+            "end_date": "1956/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-151.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

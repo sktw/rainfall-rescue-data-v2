@@ -1,0 +1,49 @@
+{
+    "name": "GREYSTONES-KNOCKDOLIAN",
+    "data": {
+        "GREYSTONES-KNOCKDOLIAN.csv": [
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-104.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_27_pt1-page-112.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_27_pt1-page-112.csv",
+                "start_date": "1890/04",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_27_pt1-page-112.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-151.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-187.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_27_pt1-page-112.csv",
+            "start_date": "1890/03",
+            "end_date": "1890/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_27_pt1-page-112.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        }
+    ]
+}
