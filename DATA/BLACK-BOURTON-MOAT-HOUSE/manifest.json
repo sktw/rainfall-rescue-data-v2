@@ -1,0 +1,39 @@
+{
+    "name": "BLACK-BOURTON-MOAT-HOUSE",
+    "data": {
+        "BLACK-BOURTON-MOAT-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_07_pt1-page-149.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_07_pt1-page-149.csv",
+                "start_date": "1911/10",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_07_pt1-page-149.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-153.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_07_pt1-page-149.csv",
+            "start_date": "1911/07",
+            "end_date": "1911/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_07_pt1-page-149.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        }
+    ]
+}

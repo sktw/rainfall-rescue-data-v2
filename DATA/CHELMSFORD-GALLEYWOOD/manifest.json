@@ -33,5 +33,57 @@
                 "end_date": "1946/13"
             }
         ]
+    },
+    "external": {
+        "CHELMSFORD-GALLEYWOOD.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1933/13",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1934/13",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1935/13",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1936/13",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1937/13",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1938/13",
+                "end_date": "1938/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-103.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1940/13",
+                "end_date": "1940/13"
+            }
+        ]
     }
 }

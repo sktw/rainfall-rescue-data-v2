@@ -1,0 +1,46 @@
+{
+    "name": "LUTTERWORTH-WALCOTE-HOUSE",
+    "data": {
+        "LUTTERWORTH-WALCOTE-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_13_pt1-page-063.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_17_pt1-page-003.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_15_pt1-page-250.csv",
+                "start_date": "1910/01",
+                "end_date": "1915/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_15_pt1-page-250.csv",
+                "start_date": "1916/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LUTTERWORTH-WALCOTE-HOUSE.csv": [
+            {
+                "start_date": "1897/05",
+                "end_date": "1897/05"
+            },
+            {
+                "start_date": "1898/06",
+                "end_date": "1898/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_15_pt1-page-250.csv",
+            "start_date": "1915/12",
+            "end_date": "1915/13"
+        }
+    ]
+}

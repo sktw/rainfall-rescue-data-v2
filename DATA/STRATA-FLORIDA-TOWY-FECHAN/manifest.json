@@ -1,0 +1,178 @@
+{
+    "name": "STRATA-FLORIDA-TOWY-FECHAN",
+    "data": {
+        "STRATA-FLORIDA-TOWY-FECHAN-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-151.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-004.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-004.csv",
+                "start_date": "1904/06",
+                "end_date": "1904/10"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-004.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "STRATA-FLORIDA-TOWY-FECHAN.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-150.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_25_pt1-page-005.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1911/09",
+                "end_date": "1911/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1911/11",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1912/01",
+                "end_date": "1916/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1916/09",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1919/07",
+                "end_date": "1919/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+                "start_date": "1919/11",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-174.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-174.csv",
+                "start_date": "1922/05",
+                "end_date": "1922/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-174.csv",
+                "start_date": "1922/10",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-174.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "STRATA-FLORIDA-TOWY-FECHAN.csv": [
+            {
+                "start_date": "1907/01",
+                "end_date": "1907/01"
+            },
+            {
+                "start_date": "1914/07",
+                "end_date": "1914/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-004.csv",
+            "start_date": "1904/04",
+            "end_date": "1904/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-004.csv",
+            "start_date": "1904/11",
+            "end_date": "1904/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1911/07",
+            "end_date": "1911/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1911/10",
+            "end_date": "1911/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1916/07",
+            "end_date": "1916/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1919/06",
+            "end_date": "1919/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1919/10",
+            "end_date": "1919/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-158.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-174.csv",
+            "start_date": "1922/03",
+            "end_date": "1922/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-174.csv",
+            "start_date": "1922/09",
+            "end_date": "1922/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-174.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

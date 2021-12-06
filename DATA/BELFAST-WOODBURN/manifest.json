@@ -1,0 +1,26 @@
+{
+    "name": "BELFAST-WOODBURN",
+    "data": {
+        "BELFAST-WOODBURN-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-088.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BELFAST-WOODBURN-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-089.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BELFAST-WOODBURN.csv": [
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-090.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

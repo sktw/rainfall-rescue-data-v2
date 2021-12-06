@@ -1,0 +1,91 @@
+{
+    "name": "CHRISTCHURCH-AIR-COMPRESSING-STATION",
+    "data": {
+        "CHRISTCHURCH-AIR-COMPRESSING-STATION.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-052.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-038.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-038.csv",
+                "start_date": "1933/10",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-038.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-034.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-034.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-034.csv",
+                "start_date": "1942/07",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-034.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-250.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHRISTCHURCH-AIR-COMPRESSING-STATION.csv": [
+            {
+                "start_date": "1926/13",
+                "end_date": "1926/13"
+            },
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-038.csv",
+            "start_date": "1933/09",
+            "end_date": "1933/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-038.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-034.csv",
+            "start_date": "1942/02",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-034.csv",
+            "start_date": "1942/06",
+            "end_date": "1942/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-034.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

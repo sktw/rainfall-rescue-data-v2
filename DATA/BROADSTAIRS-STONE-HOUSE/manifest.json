@@ -1,0 +1,47 @@
+{
+    "name": "BROADSTAIRS-STONE-HOUSE",
+    "data": {
+        "BROADSTAIRS-STONE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-073.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-069.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-069.csv",
+                "start_date": "1955/04",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-069.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROADSTAIRS-STONE-HOUSE.csv": [
+            {
+                "start_date": "1959/08",
+                "end_date": "1959/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-069.csv",
+            "start_date": "1955/02",
+            "end_date": "1955/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-069.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

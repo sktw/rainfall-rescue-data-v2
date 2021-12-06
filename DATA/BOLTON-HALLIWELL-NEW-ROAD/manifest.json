@@ -1,0 +1,29 @@
+{
+    "name": "BOLTON-HALLIWELL-NEW-ROAD",
+    "data": {
+        "BOLTON-HALLIWELL-NEW-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-057.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BOLTON-HALLIWELL-NEW-ROAD.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-058.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-201.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-244.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "name": "STOCKLAND",
+    "data": {
+        "STOCKLAND-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_11_pt1-page-151.csv",
+                "start_date": "1929/10",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_11_pt1-page-151.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-203.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            }
+        ],
+        "STOCKLAND-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-203.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-252.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "STOCKLAND-4.csv": [
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-253.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-031.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "STOCKLAND.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-079.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_11_pt1-page-151.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/09"
+            }
+        ]
+    },
+    "idr": {
+        "STOCKLAND-3.csv": [
+            {
+                "start_date": "1948/05",
+                "end_date": "1948/05"
+            }
+        ],
+        "STOCKLAND.csv": [
+            {
+                "start_date": "1928/06",
+                "end_date": "1928/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_11_pt1-page-151.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-033.csv"
+        }
+    ]
+}

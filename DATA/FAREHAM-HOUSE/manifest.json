@@ -1,0 +1,78 @@
+{
+    "name": "FAREHAM-HOUSE",
+    "data": {
+        "FAREHAM-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-174.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-140.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-108.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "FAREHAM-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-133.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-133.csv",
+                "start_date": "1912/04",
+                "end_date": "1912/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-133.csv",
+                "start_date": "1912/12",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-133.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-174.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/13"
+            }
+        ]
+    },
+    "idr": {
+        "FAREHAM-HOUSE-2.csv": [
+            {
+                "start_date": "1934/02",
+                "end_date": "1934/02"
+            },
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_05_pt1-page-133.csv",
+            "start_date": "1912/03",
+            "end_date": "1912/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_05_pt1-page-133.csv",
+            "start_date": "1912/11",
+            "end_date": "1912/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_05_pt1-page-133.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

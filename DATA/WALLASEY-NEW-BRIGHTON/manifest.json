@@ -1,0 +1,58 @@
+{
+    "name": "WALLASEY-NEW-BRIGHTON",
+    "data": {
+        "WALLASEY-NEW-BRIGHTON-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-078.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-276.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-082.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "WALLASEY-NEW-BRIGHTON-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-081.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-118.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "WALLASEY-NEW-BRIGHTON.csv": [
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-176.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-079.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "WALLASEY-NEW-BRIGHTON-2.csv": [
+            {
+                "start_date": "1932/09",
+                "end_date": "1932/09"
+            },
+            {
+                "start_date": "1932/13",
+                "end_date": "1932/13"
+            }
+        ]
+    }
+}

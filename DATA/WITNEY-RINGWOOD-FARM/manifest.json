@@ -1,0 +1,27 @@
+{
+    "name": "WITNEY-RINGWOOD-FARM",
+    "data": {
+        "WITNEY-RINGWOOD-FARM.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-085.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt5-page-003.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-076.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-151.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

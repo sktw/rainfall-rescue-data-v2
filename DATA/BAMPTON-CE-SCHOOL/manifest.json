@@ -1,0 +1,30 @@
+{
+    "name": "BAMPTON-CE-SCHOOL",
+    "data": {
+        "BAMPTON-CE-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-144.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-146.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-084.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BAMPTON-CE-SCHOOL.csv": [
+            {
+                "start_date": "1938/04",
+                "end_date": "1938/04"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "NORTH-BRENTOR-LANGSTONE",
+    "data": {
+        "NORTH-BRENTOR-LANGSTONE.csv": [
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-180.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_10_pt1-page-251.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_10_pt1-page-251.csv",
+                "start_date": "1937/09",
+                "end_date": "1937/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_10_pt1-page-251.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-036.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-084.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "NORTH-BRENTOR-LANGSTONE.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            },
+            {
+                "start_date": "1957/08",
+                "end_date": "1957/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_10_pt1-page-251.csv",
+            "start_date": "1937/08",
+            "end_date": "1937/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_10_pt1-page-251.csv",
+            "start_date": "1937/12",
+            "end_date": "1937/13"
+        }
+    ]
+}

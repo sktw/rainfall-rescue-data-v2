@@ -1,0 +1,41 @@
+{
+    "name": "BENBECULA-AIRPORT",
+    "data": {
+        "BENBECULA-AIRPORT.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-112.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-112.csv",
+                "start_date": "1942/11",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-328.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BENBECULA-AIRPORT.csv": [
+            {
+                "start_date": "1955/09",
+                "end_date": "1955/09"
+            },
+            {
+                "start_date": "1956/04",
+                "end_date": "1956/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-112.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/10"
+        }
+    ]
+}

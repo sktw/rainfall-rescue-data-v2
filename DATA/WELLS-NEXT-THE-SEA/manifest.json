@@ -1,0 +1,22 @@
+{
+    "name": "WELLS-NEXT-THE-SEA",
+    "data": {
+        "WELLS-NEXT-THE-SEA.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-140.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-079.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "KEYNSHAM-WELLSWAY",
+    "data": {
+        "KEYNSHAM-WELLSWAY-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-182.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-145.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-213.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-213.csv",
+                "start_date": "1944/09",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-213.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-229.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-229.csv",
+                "start_date": "1953/10",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-229.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KEYNSHAM-WELLSWAY.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-102.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-059.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-213.csv",
+            "start_date": "1944/08",
+            "end_date": "1944/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-213.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-229.csv",
+            "start_date": "1953/08",
+            "end_date": "1953/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-229.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

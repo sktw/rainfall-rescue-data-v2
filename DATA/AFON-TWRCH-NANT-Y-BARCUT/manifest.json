@@ -1,0 +1,166 @@
+{
+    "name": "AFON-TWRCH-NANT-Y-BARCUT",
+    "data": {
+        "AFON-TWRCH-NANT-Y-BARCUT.csv": [
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+                "start_date": "1938/11",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+                "start_date": "1940/06",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+                "start_date": "1942/07",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+                "start_date": "1943/01",
+                "end_date": "1943/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+                "start_date": "1943/07",
+                "end_date": "1950/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+                "start_date": "1950/03",
+                "end_date": "1950/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+                "start_date": "1953/03",
+                "end_date": "1953/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+                "start_date": "1953/05",
+                "end_date": "1953/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+                "start_date": "1953/07",
+                "end_date": "1953/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+                "start_date": "1953/09",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+                "start_date": "1954/04",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "AFON-TWRCH-NANT-Y-BARCUT.csv": [
+            {
+                "start_date": "1942/02",
+                "end_date": "1942/05"
+            },
+            {
+                "start_date": "1942/11",
+                "end_date": "1942/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+            "start_date": "1938/10",
+            "end_date": "1938/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+            "start_date": "1940/05",
+            "end_date": "1940/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-003.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+            "start_date": "1942/06",
+            "end_date": "1942/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+            "start_date": "1943/06",
+            "end_date": "1943/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+            "start_date": "1950/02",
+            "end_date": "1950/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-073.csv",
+            "start_date": "1950/11",
+            "end_date": "1950/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+            "start_date": "1952/10",
+            "end_date": "1953/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+            "start_date": "1953/04",
+            "end_date": "1953/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+            "start_date": "1953/06",
+            "end_date": "1953/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+            "start_date": "1953/08",
+            "end_date": "1953/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-176.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/03"
+        }
+    ]
+}

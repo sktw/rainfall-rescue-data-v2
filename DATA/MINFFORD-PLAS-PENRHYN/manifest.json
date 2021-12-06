@@ -1,0 +1,107 @@
+{
+    "name": "MINFFORD-PLAS-PENRHYN",
+    "data": {
+        "MINFFORD-PLAS-PENRHYN.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_23_pt1-page-025.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_23_pt1-page-025.csv",
+                "start_date": "1939/03",
+                "end_date": "1939/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_23_pt1-page-025.csv",
+                "start_date": "1939/12",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_23_pt1-page-025.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+                "start_date": "1947/05",
+                "end_date": "1947/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+                "start_date": "1947/09",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+                "start_date": "1948/02",
+                "end_date": "1948/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+                "start_date": "1948/08",
+                "end_date": "1948/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "MINFFORD-PLAS-PENRHYN.csv": [
+            {
+                "start_date": "1932/01",
+                "end_date": "1932/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_23_pt1-page-025.csv",
+            "start_date": "1939/02",
+            "end_date": "1939/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_23_pt1-page-025.csv",
+            "start_date": "1939/11",
+            "end_date": "1939/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_23_pt1-page-025.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+            "start_date": "1947/03",
+            "end_date": "1947/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+            "start_date": "1947/07",
+            "end_date": "1947/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+            "start_date": "1947/13",
+            "end_date": "1948/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+            "start_date": "1948/07",
+            "end_date": "1948/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-098.csv",
+            "start_date": "1948/12",
+            "end_date": "1948/13"
+        }
+    ]
+}

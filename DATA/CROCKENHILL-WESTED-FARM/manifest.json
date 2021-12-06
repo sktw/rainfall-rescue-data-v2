@@ -34,6 +34,14 @@
             }
         ]
     },
+    "idr": {
+        "CROCKENHILL-WESTED-FARM.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
     "unused": [
         {
             "filename": "TYRain_1941-1950_03_pt1-page-193.csv",

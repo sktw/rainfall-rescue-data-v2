@@ -1,0 +1,37 @@
+{
+    "name": "KEMNAY-MANSE",
+    "data": {
+        "KEMNAY-MANSE-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-030.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-058.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "KEMNAY-MANSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-030.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-058.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_08_pt1-page-029.csv"
+        },
+        {
+            "filename": "TYRain_1870-1879_12_pt2-page-057.csv"
+        }
+    ]
+}

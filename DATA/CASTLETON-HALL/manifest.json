@@ -1,0 +1,25 @@
+{
+    "name": "CASTLETON-HALL",
+    "data": {
+        "CASTLETON-HALL.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt2-page-038.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "CASTLETON-HALL.csv": [
+            {
+                "start_date": "1877/11",
+                "end_date": "1877/11"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "HUTTON-CRANSWICK-THE-VICARAGE",
+    "data": {
+        "HUTTON-CRANSWICK-THE-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-120.csv",
+                "start_date": "1946/02",
+                "end_date": "1946/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-120.csv",
+                "start_date": "1946/05",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-120.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-207.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-120.csv",
+            "start_date": "1946/01",
+            "end_date": "1946/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-120.csv",
+            "start_date": "1946/04",
+            "end_date": "1946/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-120.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        }
+    ]
+}

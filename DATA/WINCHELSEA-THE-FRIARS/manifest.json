@@ -1,0 +1,69 @@
+{
+    "name": "WINCHELSEA-THE-FRIARS",
+    "data": {
+        "WINCHELSEA-THE-FRIARS.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-084.csv",
+                "start_date": "1870/01",
+                "end_date": "1873/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-084.csv",
+                "start_date": "1874/02",
+                "end_date": "1874/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-084.csv",
+                "start_date": "1875/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_02_pt2-page-118.csv",
+                "start_date": "1880/01",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_02_pt2-page-118.csv",
+                "start_date": "1884/01",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_02_pt2-page-118.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-164.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-200.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_02_pt2-page-118.csv",
+            "start_date": "1883/01",
+            "end_date": "1883/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_02_pt2-page-118.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        },
+        {
+            "filename": "TYRain_1870-1879_02_pt1-page-084.csv",
+            "start_date": "1874/01",
+            "end_date": "1874/01"
+        },
+        {
+            "filename": "TYRain_1870-1879_02_pt1-page-084.csv",
+            "start_date": "1874/13",
+            "end_date": "1874/13"
+        }
+    ]
+}

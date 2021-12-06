@@ -1,0 +1,30 @@
+{
+    "name": "LEICESTER-ANSTEY-PASTURES",
+    "data": {
+        "LEICESTER-ANSTEY-PASTURES.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-075.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-026.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_15_pt1-page-282.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LEICESTER-ANSTEY-PASTURES.csv": [
+            {
+                "start_date": "1914/07",
+                "end_date": "1914/07"
+            }
+        ]
+    }
+}

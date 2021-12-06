@@ -1,0 +1,44 @@
+{
+    "name": "GARSTANG-HOLME-HOUSE-BLEASDALE",
+    "data": {
+        "GARSTANG-HOLME-HOUSE-BLEASDALE.csv": [
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-011.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-282.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-049.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-049.csv",
+                "start_date": "1923/09",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-049.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_21_pt1-page-049.csv",
+            "start_date": "1923/08",
+            "end_date": "1923/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_21_pt1-page-049.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        }
+    ]
+}

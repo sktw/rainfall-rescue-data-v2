@@ -1,0 +1,20 @@
+{
+    "name": "PATNA-HOLE-HOUSE",
+    "data": {
+        "PATNA-HOLE-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_11_pt2-page-101.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "PATNA-HOLE-HOUSE.csv": [
+            {
+                "start_date": "1870/03",
+                "end_date": "1870/03"
+            }
+        ]
+    }
+}

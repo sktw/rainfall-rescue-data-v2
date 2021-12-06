@@ -1,0 +1,59 @@
+{
+    "name": "SKYE-LOCH-HARPORT-CARBOST",
+    "data": {
+        "SKYE-LOCH-HARPORT-CARBOST.csv": [
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-100.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-100.csv",
+                "start_date": "1942/02",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-100.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-315.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-315.csv",
+                "start_date": "1958/04",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-315.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-315.csv",
+            "start_date": "1958/03",
+            "end_date": "1958/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-315.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-100.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-100.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

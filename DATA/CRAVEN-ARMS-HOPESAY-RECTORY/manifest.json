@@ -1,0 +1,27 @@
+{
+    "name": "CRAVEN-ARMS-HOPESAY-RECTORY",
+    "data": {
+        "CRAVEN-ARMS-HOPESAY-RECTORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-015.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-252.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-267.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-083.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

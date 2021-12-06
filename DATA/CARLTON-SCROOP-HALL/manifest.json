@@ -1,0 +1,17 @@
+{
+    "name": "CARLTON-SCROOP-HALL",
+    "data": {
+        "CARLTON-SCROOP-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-084.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-039.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/13"
+            }
+        ]
+    }
+}

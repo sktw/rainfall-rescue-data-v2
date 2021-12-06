@@ -1,0 +1,89 @@
+{
+    "name": "WEYBRIDGE-FIELD-PLACE",
+    "data": {
+        "WEYBRIDGE-FIELD-PLACE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-192.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-245.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_2B_pt2-page-060.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_2B_pt2-page-060.csv",
+                "start_date": "1912/07",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_2B_pt2-page-060.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WEYBRIDGE-FIELD-PLACE.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-191.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-244.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-059.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-059.csv",
+                "start_date": "1912/07",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-059.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEYBRIDGE-FIELD-PLACE-2.csv": [
+            {
+                "start_date": "1915/13",
+                "end_date": "1915/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_2B_pt2-page-060.csv",
+            "start_date": "1912/06",
+            "end_date": "1912/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_2B_pt2-page-060.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_2B_pt2-page-059.csv",
+            "start_date": "1912/06",
+            "end_date": "1912/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_2B_pt2-page-059.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

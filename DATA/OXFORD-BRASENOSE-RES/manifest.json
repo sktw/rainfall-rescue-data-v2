@@ -1,0 +1,20 @@
+{
+    "name": "OXFORD-BRASENOSE-RES",
+    "data": {
+        "OXFORD-BRASENOSE-RES.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-021.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "OXFORD-BRASENOSE-RES.csv": [
+            {
+                "start_date": "1959/02",
+                "end_date": "1959/02"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "GRIMSBY-WESTLANDS",
+    "data": {
+        "GRIMSBY-WESTLANDS.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-097.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-172.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/13"
+            }
+        ]
+    }
+}

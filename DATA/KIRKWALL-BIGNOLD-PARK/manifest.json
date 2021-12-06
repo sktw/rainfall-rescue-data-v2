@@ -1,0 +1,22 @@
+{
+    "name": "KIRKWALL-BIGNOLD-PARK",
+    "data": {
+        "KIRKWALL-BIGNOLD-PARK.csv": [
+            {
+                "filename": "TYRain_1920-1930_34_pt1-page-085.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-207.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-249.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

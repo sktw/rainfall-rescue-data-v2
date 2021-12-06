@@ -1,0 +1,71 @@
+{
+    "name": "YORK-BURTON-CROFT",
+    "data": {
+        "YORK-BURTON-CROFT-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+                "start_date": "1903/11",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+                "start_date": "1904/01",
+                "end_date": "1906/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+                "start_date": "1906/11",
+                "end_date": "1906/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "YORK-BURTON-CROFT.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-091.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-106.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-230.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+            "start_date": "1903/10",
+            "end_date": "1903/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+            "start_date": "1906/10",
+            "end_date": "1906/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-219.csv",
+            "start_date": "1906/13",
+            "end_date": "1906/13"
+        }
+    ]
+}

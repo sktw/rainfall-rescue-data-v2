@@ -1,0 +1,37 @@
+{
+    "name": "MILLAND-HOUSE",
+    "data": {
+        "MILLAND-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-277.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-324.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "MILLAND-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-102.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt1-page-031.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "MILLAND-HOUSE-2.csv": [
+            {
+                "start_date": "1939/03",
+                "end_date": "1939/03"
+            }
+        ]
+    }
+}

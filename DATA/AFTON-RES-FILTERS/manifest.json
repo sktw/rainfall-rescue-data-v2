@@ -1,0 +1,63 @@
+{
+    "name": "AFTON-RES-FILTERS",
+    "data": {
+        "AFTON-RES-FILTERS-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-208.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-308.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "AFTON-RES-FILTERS-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-309.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-309.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "AFTON-RES-FILTERS-4.csv": [
+            {
+                "filename": "TYRain_1951-1960_26_pt1-page-310.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "AFTON-RES-FILTERS.csv": [
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-055.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-207.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "AFTON-RES-FILTERS-3.csv": [
+            {
+                "start_date": "1959/03",
+                "end_date": "1959/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_26_pt1-page-309.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/13"
+        }
+    ]
+}

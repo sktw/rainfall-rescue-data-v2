@@ -1,0 +1,44 @@
+{
+    "name": "ASHBY-DE-LA-ZOUCH-COLEORTON",
+    "data": {
+        "ASHBY-DE-LA-ZOUCH-COLEORTON.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-089.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-089.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-038.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-037.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-298.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-165.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_13_pt1-page-089.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        }
+    ]
+}

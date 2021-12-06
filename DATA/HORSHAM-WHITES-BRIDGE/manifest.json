@@ -1,0 +1,29 @@
+{
+    "name": "HORSHAM-WHITES-BRIDGE",
+    "data": {
+        "HORSHAM-WHITES-BRIDGE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-025.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HORSHAM-WHITES-BRIDGE.csv": [
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-111.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-062.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-025.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            }
+        ]
+    }
+}

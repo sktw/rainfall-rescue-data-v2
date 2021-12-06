@@ -8,11 +8,6 @@
                 "end_date": "1919/13"
             },
             {
-                "filename": "TYRain_1920-1930_04_pt1-page-144.csv",
-                "start_date": "1920/01",
-                "end_date": "1920/12"
-            },
-            {
                 "filename": "TYRain_1920-1930_04_pt1-page-145.csv",
                 "start_date": "1921/01",
                 "end_date": "1930/13"
@@ -46,11 +41,13 @@
             }
         ]
     },
-    "idr": {
+    "external": {
         "UCKFIELD-PILTDOWN-2.csv": [
             {
+                "filename": "TYRain_1910-1919_04_pt1-page-132.jpg",
+                "comment": "Sheet contains 1920's data, misfiled in 1910's",
                 "start_date": "1920/01",
-                "end_date": "1920/11"
+                "end_date": "1920/13"
             }
         ]
     }

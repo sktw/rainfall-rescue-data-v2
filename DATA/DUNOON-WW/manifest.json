@@ -1,0 +1,12 @@
+{
+    "name": "DUNOON-WW",
+    "data": {
+        "DUNOON-WW.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-270.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

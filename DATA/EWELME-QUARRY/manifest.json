@@ -1,0 +1,20 @@
+{
+    "name": "EWELME-QUARRY",
+    "data": {
+        "EWELME-QUARRY.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-055.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "EWELME-QUARRY.csv": [
+            {
+                "start_date": "1959/09",
+                "end_date": "1959/09"
+            }
+        ]
+    }
+}

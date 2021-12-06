@@ -1,0 +1,22 @@
+{
+    "name": "NORTH-CAVE-THE-CROFT",
+    "data": {
+        "NORTH-CAVE-THE-CROFT.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-009.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-195.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-060.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ]
+    }
+}

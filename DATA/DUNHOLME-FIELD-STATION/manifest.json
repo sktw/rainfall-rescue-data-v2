@@ -1,0 +1,17 @@
+{
+    "name": "DUNHOLME-FIELD-STATION",
+    "data": {
+        "DUNHOLME-FIELD-STATION.csv": [
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-230.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-232.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

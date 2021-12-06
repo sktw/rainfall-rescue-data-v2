@@ -1,0 +1,98 @@
+{
+    "name": "STEYNING-THE-CRESCENT",
+    "data": {
+        "STEYNING-THE-CRESCENT-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-057.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-057.csv",
+                "start_date": "1896/12",
+                "end_date": "1896/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-057.csv",
+                "start_date": "1897/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-068.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-097.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-109.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-109.csv",
+                "start_date": "1924/03",
+                "end_date": "1924/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-109.csv",
+                "start_date": "1924/10",
+                "end_date": "1924/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-109.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "STEYNING-THE-CRESCENT-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-052.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "STEYNING-THE-CRESCENT.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-057.csv",
+                "start_date": "1890/01",
+                "end_date": "1896/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_04_pt1-page-057.csv",
+            "start_date": "1896/11",
+            "end_date": "1896/11"
+        },
+        {
+            "filename": "TYRain_1890-1899_04_pt1-page-057.csv",
+            "start_date": "1896/13",
+            "end_date": "1896/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-109.csv",
+            "start_date": "1924/02",
+            "end_date": "1924/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-109.csv",
+            "start_date": "1924/09",
+            "end_date": "1924/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-109.csv",
+            "start_date": "1924/12",
+            "end_date": "1924/13"
+        }
+    ]
+}

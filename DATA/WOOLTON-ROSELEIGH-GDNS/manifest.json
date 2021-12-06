@@ -1,0 +1,34 @@
+{
+    "name": "WOOLTON-ROSELEIGH-GDNS",
+    "data": {
+        "WOOLTON-ROSELEIGH-GDNS-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-123.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-123.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-221.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-121.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "WOOLTON-ROSELEIGH-GDNS.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-123.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/13"
+            }
+        ]
+    }
+}

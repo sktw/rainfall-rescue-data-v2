@@ -42,6 +42,10 @@
     "idr": {
         "LEWES-LITTLE-DENE.csv": [
             {
+                "start_date": "1926/03",
+                "end_date": "1926/03"
+            },
+            {
                 "start_date": "1939/03",
                 "end_date": "1939/03"
             }

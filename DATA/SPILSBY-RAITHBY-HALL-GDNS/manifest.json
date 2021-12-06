@@ -1,0 +1,45 @@
+{
+    "name": "SPILSBY-RAITHBY-HALL-GDNS",
+    "data": {
+        "SPILSBY-RAITHBY-HALL-GDNS.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-154.csv",
+                "start_date": "1937/01",
+                "end_date": "1938/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-154.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-241.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/13"
+            }
+        ]
+    },
+    "idr": {
+        "SPILSBY-RAITHBY-HALL-GDNS.csv": [
+            {
+                "start_date": "1948/01",
+                "end_date": "1948/02"
+            },
+            {
+                "start_date": "1948/06",
+                "end_date": "1948/07"
+            },
+            {
+                "start_date": "1948/11",
+                "end_date": "1948/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-154.csv",
+            "start_date": "1938/12",
+            "end_date": "1938/13"
+        }
+    ]
+}

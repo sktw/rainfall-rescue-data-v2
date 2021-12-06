@@ -1,0 +1,38 @@
+{
+    "name": "MADELEY-CE-SCHOOL",
+    "data": {
+        "MADELEY-CE-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-008.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-314.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-116.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "MADELEY-CE-SCHOOL.csv": [
+            {
+                "start_date": "1925/13",
+                "end_date": "1925/13"
+            },
+            {
+                "start_date": "1926/13",
+                "end_date": "1926/13"
+            },
+            {
+                "start_date": "1939/02",
+                "end_date": "1939/03"
+            }
+        ]
+    }
+}

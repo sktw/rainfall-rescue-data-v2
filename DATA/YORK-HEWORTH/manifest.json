@@ -1,0 +1,32 @@
+{
+    "name": "YORK-HEWORTH",
+    "data": {
+        "YORK-HEWORTH.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-173.csv",
+                "start_date": "1863/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-193.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/04"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-194.csv",
+                "start_date": "1876/05",
+                "end_date": "1876/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-193.csv",
+                "start_date": "1876/13",
+                "end_date": "1876/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-194.csv",
+                "start_date": "1877/01",
+                "end_date": "1878/13"
+            }
+        ]
+    }
+}

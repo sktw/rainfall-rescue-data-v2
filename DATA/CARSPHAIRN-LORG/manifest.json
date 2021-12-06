@@ -1,0 +1,59 @@
+{
+    "name": "CARSPHAIRN-LORG",
+    "data": {
+        "CARSPHAIRN-LORG.csv": [
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-250.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+                "start_date": "1947/04",
+                "end_date": "1947/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+                "start_date": "1947/07",
+                "end_date": "1947/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+                "start_date": "1947/11",
+                "end_date": "1947/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+            "start_date": "1947/05",
+            "end_date": "1947/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+            "start_date": "1947/10",
+            "end_date": "1947/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_28_pt1-page-054.csv",
+            "start_date": "1947/12",
+            "end_date": "1947/13"
+        }
+    ]
+}

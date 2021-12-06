@@ -1,0 +1,17 @@
+{
+    "name": "SPILSBY-FORDINGTON-WW",
+    "data": {
+        "SPILSBY-FORDINGTON-WW.csv": [
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-243.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-239.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

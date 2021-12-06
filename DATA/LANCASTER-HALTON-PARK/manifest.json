@@ -1,0 +1,59 @@
+{
+    "name": "LANCASTER-HALTON-PARK",
+    "data": {
+        "LANCASTER-HALTON-PARK-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_18_pt1-page-263.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_18_pt1-page-263.csv",
+                "start_date": "1911/01",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_18_pt1-page-263.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-033.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LANCASTER-HALTON-PARK.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-152.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-128.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "LANCASTER-HALTON-PARK-2.csv": [
+            {
+                "start_date": "1914/09",
+                "end_date": "1914/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_18_pt1-page-263.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_18_pt1-page-263.csv",
+            "start_date": "1911/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

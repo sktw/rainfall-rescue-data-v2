@@ -1,0 +1,54 @@
+{
+    "name": "WITLEY-KING-GEORGE-V-SANATORIUM",
+    "data": {
+        "WITLEY-KING-GEORGE-V-SANATORIUM.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-216.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-211.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-219.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-171.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-204.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-204.csv",
+                "start_date": "1955/12",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-204.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_01_pt1-page-204.csv",
+            "start_date": "1955/11",
+            "end_date": "1955/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_01_pt1-page-204.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

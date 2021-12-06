@@ -1,0 +1,72 @@
+{
+    "name": "SKYE-TALLISKER",
+    "data": {
+        "SKYE-TALLISKER.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+                "start_date": "1941/11",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+                "start_date": "1942/01",
+                "end_date": "1949/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+                "start_date": "1949/09",
+                "end_date": "1949/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-312.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SKYE-TALLISKER.csv": [
+            {
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+            "start_date": "1941/10",
+            "end_date": "1941/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+            "start_date": "1949/07",
+            "end_date": "1949/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_32_pt1-page-098.csv",
+            "start_date": "1949/11",
+            "end_date": "1949/13"
+        }
+    ]
+}

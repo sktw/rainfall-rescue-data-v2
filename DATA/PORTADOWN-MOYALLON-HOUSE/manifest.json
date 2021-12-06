@@ -1,0 +1,39 @@
+{
+    "name": "PORTADOWN-MOYALLON-HOUSE",
+    "data": {
+        "PORTADOWN-MOYALLON-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-154.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_30_pt1-page-131.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-139.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-230.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-230.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-230.csv",
+            "start_date": "1939/12",
+            "end_date": "1939/13"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "PARKMORE-FOREST",
+    "data": {
+        "PARKMORE-FOREST.csv": [
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-096.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

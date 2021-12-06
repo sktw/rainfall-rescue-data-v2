@@ -1,0 +1,46 @@
+{
+    "name": "HAMPTON-POYLE-RECTORY",
+    "data": {
+        "HAMPTON-POYLE-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-031.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-031.csv",
+                "start_date": "1952/03",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-031.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HAMPTON-POYLE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-112.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-197.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-031.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-031.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        }
+    ]
+}

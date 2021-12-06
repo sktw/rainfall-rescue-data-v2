@@ -1,0 +1,43 @@
+{
+    "name": "TYNEHAM-HOUSE",
+    "data": {
+        "TYNEHAM-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-026.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_10_pt1-page-028.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-094.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_12_pt1-page-024.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "TYNEHAM-HOUSE.csv": [
+            {
+                "start_date": "1918/09",
+                "end_date": "1918/09"
+            },
+            {
+                "start_date": "1928/07",
+                "end_date": "1928/07"
+            },
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    }
+}

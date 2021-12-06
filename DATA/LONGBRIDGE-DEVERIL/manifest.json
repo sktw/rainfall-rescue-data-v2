@@ -1,0 +1,45 @@
+{
+    "name": "LONGBRIDGE-DEVERIL",
+    "data": {
+        "LONGBRIDGE-DEVERIL.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-198.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt3-page-014.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "LONGBRIDGE-DEVERIL.csv": [
+            {
+                "start_date": "1861/05",
+                "end_date": "1861/05"
+            },
+            {
+                "start_date": "1861/09",
+                "end_date": "1861/09"
+            },
+            {
+                "start_date": "1864/02",
+                "end_date": "1864/02"
+            },
+            {
+                "start_date": "1864/05",
+                "end_date": "1864/05"
+            },
+            {
+                "start_date": "1865/08",
+                "end_date": "1865/08"
+            },
+            {
+                "start_date": "1865/10",
+                "end_date": "1865/10"
+            }
+        ]
+    }
+}

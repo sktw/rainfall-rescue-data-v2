@@ -1,0 +1,37 @@
+{
+    "name": "GARSTON-DEPOT",
+    "data": {
+        "GARSTON-DEPOT.csv": [
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-217.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-116.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-117.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-012.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-105.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-141.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

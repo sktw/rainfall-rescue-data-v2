@@ -1,0 +1,24 @@
+{
+    "name": "STRATHCONAN-SCHOOL-HOUSE",
+    "data": {
+        "STRATHCONAN-SCHOOL-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-039.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-039.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_12_pt3-page-039.csv",
+            "start_date": "1876/13",
+            "end_date": "1876/13"
+        }
+    ]
+}

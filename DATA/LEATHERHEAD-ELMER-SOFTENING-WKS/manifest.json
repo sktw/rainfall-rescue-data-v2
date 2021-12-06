@@ -4,11 +4,6 @@
         "LEATHERHEAD-ELMER-SOFTENING-WKS-2.csv": [
             {
                 "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
-                "start_date": "1938/01",
-                "end_date": "1938/06"
-            },
-            {
-                "filename": "TYRain_1931-1940_02_pt1-page-128.csv",
                 "start_date": "1938/08",
                 "end_date": "1938/12"
             },
@@ -32,6 +27,11 @@
             {
                 "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
                 "start_date": "1920/01",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+                "start_date": "1922/01",
                 "end_date": "1927/06"
             },
             {
@@ -59,6 +59,11 @@
     "unused": [
         {
             "filename": "TYRain_1910-1919_2A_pt1-page-143.csv"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-132.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
         },
         {
             "filename": "TYRain_1920-1930_02_pt1-page-132.csv",

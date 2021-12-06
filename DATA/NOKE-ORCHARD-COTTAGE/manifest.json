@@ -1,0 +1,36 @@
+{
+    "name": "NOKE-ORCHARD-COTTAGE",
+    "data": {
+        "NOKE-ORCHARD-COTTAGE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-029.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "NOKE-ORCHARD-COTTAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_08_pt1-page-111.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_08_pt1-page-111.csv",
+                "start_date": "1949/08",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-029.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_08_pt1-page-111.csv",
+            "start_date": "1949/07",
+            "end_date": "1949/07"
+        }
+    ]
+}

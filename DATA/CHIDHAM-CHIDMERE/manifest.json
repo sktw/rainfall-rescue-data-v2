@@ -18,5 +18,13 @@
                 "end_date": "1960/13"
             }
         ]
+    },
+    "idr": {
+        "CHIDHAM-CHIDMERE.csv": [
+            {
+                "start_date": "1938/04",
+                "end_date": "1938/04"
+            }
+        ]
     }
 }

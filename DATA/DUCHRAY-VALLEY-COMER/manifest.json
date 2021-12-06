@@ -1,0 +1,71 @@
+{
+    "name": "DUCHRAY-VALLEY-COMER",
+    "data": {
+        "DUCHRAY-VALLEY-COMER-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-132.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DUCHRAY-VALLEY-COMER.csv": [
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-255.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-106.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-196.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-039.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-039.csv",
+                "start_date": "1944/02",
+                "end_date": "1944/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-039.csv",
+                "start_date": "1944/07",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-039.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-131.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_30_pt1-page-039.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_30_pt1-page-039.csv",
+            "start_date": "1944/04",
+            "end_date": "1944/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_30_pt1-page-039.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        }
+    ]
+}

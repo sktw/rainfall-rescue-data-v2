@@ -1,0 +1,49 @@
+{
+    "name": "GREAT-SALING-GROVE",
+    "data": {
+        "GREAT-SALING-GROVE.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/09"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-046.csv",
+                "start_date": "1886/11",
+                "end_date": "1886/11"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-046.csv",
+                "start_date": "1886/13",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-074.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-045.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-120.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_04_pt6-page-046.csv",
+            "start_date": "1886/10",
+            "end_date": "1886/10"
+        },
+        {
+            "filename": "TYRain_1880-1889_04_pt6-page-046.csv",
+            "start_date": "1886/12",
+            "end_date": "1886/12"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "SPILSBY-PARTNEY",
+    "data": {
+        "SPILSBY-PARTNEY-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-054.csv",
+                "start_date": "1875/01",
+                "end_date": "1878/01"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-055.csv",
+                "start_date": "1878/02",
+                "end_date": "1878/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-054.csv",
+                "start_date": "1878/13",
+                "end_date": "1878/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-055.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/05"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-054.csv",
+                "start_date": "1879/06",
+                "end_date": "1879/13"
+            }
+        ],
+        "SPILSBY-PARTNEY.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-051.csv",
+                "start_date": "1874/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-057.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/13"
+            }
+        ]
+    }
+}

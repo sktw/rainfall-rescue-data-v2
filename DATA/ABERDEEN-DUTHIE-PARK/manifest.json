@@ -1,0 +1,52 @@
+{
+    "name": "ABERDEEN-DUTHIE-PARK",
+    "data": {
+        "ABERDEEN-DUTHIE-PARK.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_25_pt1-page-153.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_25_pt1-page-153.csv",
+                "start_date": "1892/02",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_25_pt1-page-153.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-188.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-050.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABERDEEN-DUTHIE-PARK.csv": [
+            {
+                "start_date": "1893/13",
+                "end_date": "1893/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_25_pt1-page-153.csv",
+            "start_date": "1892/01",
+            "end_date": "1892/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_25_pt1-page-153.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        }
+    ]
+}

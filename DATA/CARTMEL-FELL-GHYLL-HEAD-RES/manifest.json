@@ -1,0 +1,29 @@
+{
+    "name": "CARTMEL-FELL-GHYLL-HEAD-RES",
+    "data": {
+        "CARTMEL-FELL-GHYLL-HEAD-RES-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-212.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CARTMEL-FELL-GHYLL-HEAD-RES.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-021.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-135.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-124.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

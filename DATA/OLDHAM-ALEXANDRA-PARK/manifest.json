@@ -1,0 +1,35 @@
+{
+    "name": "OLDHAM-ALEXANDRA-PARK",
+    "data": {
+        "OLDHAM-ALEXANDRA-PARK.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-081.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-264.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-159.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_17_pt1-page-182.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "OLDHAM-ALEXANDRA-PARK.csv": [
+            {
+                "start_date": "1958/06",
+                "end_date": "1958/06"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "SHEFFIELD-CHAPELTOWN",
+    "data": {
+        "SHEFFIELD-CHAPELTOWN.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-067.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-234.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-137.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/11"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-137.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-102.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-170.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_20_pt1-page-137.csv",
+            "start_date": "1901/12",
+            "end_date": "1901/13"
+        }
+    ]
+}

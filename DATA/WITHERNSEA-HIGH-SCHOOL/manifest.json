@@ -1,0 +1,49 @@
+{
+    "name": "WITHERNSEA-HIGH-SCHOOL",
+    "data": {
+        "WITHERNSEA-HIGH-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-128.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-216.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-216.csv",
+                "start_date": "1957/09",
+                "end_date": "1957/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-216.csv",
+                "start_date": "1957/11",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-216.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-216.csv",
+            "start_date": "1957/08",
+            "end_date": "1957/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-216.csv",
+            "start_date": "1957/10",
+            "end_date": "1957/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-216.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

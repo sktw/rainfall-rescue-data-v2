@@ -1,0 +1,25 @@
+{
+    "name": "FALKIRK-ARDENLEA",
+    "data": {
+        "FALKIRK-ARDENLEA.csv": [
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-109.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_26_pt1-page-230.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "FALKIRK-ARDENLEA.csv": [
+            {
+                "start_date": "1917/13",
+                "end_date": "1917/13"
+            }
+        ]
+    }
+}

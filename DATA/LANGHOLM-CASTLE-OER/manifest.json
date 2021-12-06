@@ -1,0 +1,52 @@
+{
+    "name": "LANGHOLM-CASTLE-OER",
+    "data": {
+        "LANGHOLM-CASTLE-OER.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-053.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-053.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-066.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/01"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-066.csv",
+                "start_date": "1909/03",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-137.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LANGHOLM-CASTLE-OER.csv": [
+            {
+                "start_date": "1909/11",
+                "end_date": "1909/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_27_pt1-page-066.csv",
+            "start_date": "1909/02",
+            "end_date": "1909/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_27_pt1-page-066.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

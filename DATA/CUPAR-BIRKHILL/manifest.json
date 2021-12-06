@@ -1,0 +1,22 @@
+{
+    "name": "CUPAR-BIRKHILL",
+    "data": {
+        "CUPAR-BIRKHILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_07_pt2-page-114.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-024.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-125.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

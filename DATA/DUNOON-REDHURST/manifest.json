@@ -1,0 +1,54 @@
+{
+    "name": "DUNOON-REDHURST",
+    "data": {
+        "DUNOON-REDHURST-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-208.csv",
+                "start_date": "1900/07",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-208.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-061.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-198.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "DUNOON-REDHURST.csv": [
+            {
+                "filename": "TYRain_1890-1899_24_pt1-page-173.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-208.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/06"
+            }
+        ]
+    },
+    "idr": {
+        "DUNOON-REDHURST-2.csv": [
+            {
+                "start_date": "1913/06",
+                "end_date": "1913/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_28_pt1-page-208.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        }
+    ]
+}

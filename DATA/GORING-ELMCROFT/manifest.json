@@ -1,0 +1,22 @@
+{
+    "name": "GORING-ELMCROFT",
+    "data": {
+        "GORING-ELMCROFT.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-153.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-143.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-233.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

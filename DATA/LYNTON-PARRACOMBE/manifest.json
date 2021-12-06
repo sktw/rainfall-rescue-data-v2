@@ -1,0 +1,35 @@
+{
+    "name": "LYNTON-PARRACOMBE",
+    "data": {
+        "LYNTON-PARRACOMBE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-111.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-133.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-184.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-086.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LYNTON-PARRACOMBE.csv": [
+            {
+                "start_date": "1912/06",
+                "end_date": "1912/06"
+            }
+        ]
+    }
+}

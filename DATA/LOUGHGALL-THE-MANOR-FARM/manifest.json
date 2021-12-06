@@ -1,0 +1,44 @@
+{
+    "name": "LOUGHGALL-THE-MANOR-FARM",
+    "data": {
+        "LOUGHGALL-THE-MANOR-FARM.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-024.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-024.csv",
+                "start_date": "1957/02",
+                "end_date": "1957/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-024.csv",
+                "start_date": "1957/05",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-024.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_31_pt1-page-024.csv",
+            "start_date": "1957/01",
+            "end_date": "1957/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_31_pt1-page-024.csv",
+            "start_date": "1957/04",
+            "end_date": "1957/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_31_pt1-page-024.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

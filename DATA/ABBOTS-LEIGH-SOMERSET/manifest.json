@@ -1,0 +1,73 @@
+{
+    "name": "ABBOTS-LEIGH-SOMERSET",
+    "data": {
+        "ABBOTS-LEIGH-SOMERSET-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-109.csv",
+                "start_date": "1904/04",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-109.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-066.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-066.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ABBOTS-LEIGH-SOMERSET-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-066.csv",
+                "start_date": "1911/10",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-066.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ABBOTS-LEIGH-SOMERSET.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-037.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-109.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-109.csv",
+            "start_date": "1904/03",
+            "end_date": "1904/03"
+        },
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-109.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-066.csv",
+            "start_date": "1911/09",
+            "end_date": "1911/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-066.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        }
+    ]
+}

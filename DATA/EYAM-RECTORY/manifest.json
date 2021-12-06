@@ -1,0 +1,24 @@
+{
+    "name": "EYAM-RECTORY",
+    "data": {
+        "EYAM-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-050.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "EYAM-RECTORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-066.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-012.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

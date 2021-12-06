@@ -1,0 +1,22 @@
+{
+    "name": "ELLINGHAM-BECCLES",
+    "data": {
+        "ELLINGHAM-BECCLES.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt5-page-009.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-116.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-094.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

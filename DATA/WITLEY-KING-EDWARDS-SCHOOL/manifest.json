@@ -1,0 +1,74 @@
+{
+    "name": "WITLEY-KING-EDWARDS-SCHOOL",
+    "data": {
+        "WITLEY-KING-EDWARDS-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-136.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-231.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-214.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+                "start_date": "1939/04",
+                "end_date": "1939/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+                "start_date": "1939/06",
+                "end_date": "1939/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+                "start_date": "1939/08",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+            "start_date": "1939/03",
+            "end_date": "1939/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+            "start_date": "1939/05",
+            "end_date": "1939/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+            "start_date": "1939/07",
+            "end_date": "1939/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-210.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

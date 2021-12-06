@@ -1,0 +1,81 @@
+{
+    "name": "SIBSEY-IVYDENE",
+    "data": {
+        "SIBSEY-IVYDENE.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-119.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-205.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "external": {
+        "SIBSEY-IVYDENE.csv": [
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1951",
+                "start_date": "1951/13",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1952",
+                "start_date": "1952/13",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1953",
+                "start_date": "1953/13",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1954",
+                "start_date": "1954/13",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1955",
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1956",
+                "start_date": "1956/13",
+                "end_date": "1956/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1957",
+                "start_date": "1957/13",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1958",
+                "start_date": "1958/13",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1959",
+                "start_date": "1959/13",
+                "end_date": "1959/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1951-1960_SIBSEY-IVYDENE-page-0.csv",
+                "comment": "Data from British Rainfall 1960",
+                "start_date": "1960/13",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

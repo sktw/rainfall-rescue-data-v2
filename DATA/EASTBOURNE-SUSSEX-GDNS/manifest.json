@@ -36,6 +36,14 @@
             }
         ]
     },
+    "idr": {
+        "EASTBOURNE-SUSSEX-GDNS.csv": [
+            {
+                "start_date": "1898/07",
+                "end_date": "1898/07"
+            }
+        ]
+    },
     "unused": [
         {
             "filename": "TYRain_1900-1909_04_pt1-page-149.csv",
