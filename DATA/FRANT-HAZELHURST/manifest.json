@@ -1,0 +1,46 @@
+{
+    "name": "FRANT-HAZELHURST",
+    "data": {
+        "FRANT-HAZELHURST-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-174.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-161.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-262.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-265.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-312.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "FRANT-HAZELHURST-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-210.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "FRANT-HAZELHURST.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-129.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "WINTERSLOW-ROCHE-COURT",
+    "data": {
+        "WINTERSLOW-ROCHE-COURT-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-061.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-115.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "WINTERSLOW-ROCHE-COURT-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-062.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-116.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "WINTERSLOW-ROCHE-COURT-4.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-238.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WINTERSLOW-ROCHE-COURT.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-036.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

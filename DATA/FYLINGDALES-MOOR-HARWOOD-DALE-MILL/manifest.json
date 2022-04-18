@@ -1,0 +1,17 @@
+{
+    "name": "FYLINGDALES-MOOR-HARWOOD-DALE-MILL",
+    "data": {
+        "FYLINGDALES-MOOR-HARWOOD-DALE-MILL.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-040.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-049.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/13"
+            }
+        ]
+    }
+}

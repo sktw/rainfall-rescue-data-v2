@@ -1,0 +1,49 @@
+{
+    "name": "CONTIN-KINNAHAIRD",
+    "data": {
+        "CONTIN-KINNAHAIRD.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_26_pt1-page-057.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_26_pt1-page-057.csv",
+                "start_date": "1896/01",
+                "end_date": "1898/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_26_pt1-page-057.csv",
+                "start_date": "1898/03",
+                "end_date": "1898/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_26_pt1-page-057.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-070.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_26_pt1-page-057.csv",
+            "start_date": "1895/01",
+            "end_date": "1895/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_26_pt1-page-057.csv",
+            "start_date": "1898/02",
+            "end_date": "1898/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_26_pt1-page-057.csv",
+            "start_date": "1898/13",
+            "end_date": "1898/13"
+        }
+    ]
+}

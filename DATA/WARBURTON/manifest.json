@@ -1,0 +1,24 @@
+{
+    "name": "WARBURTON",
+    "data": {
+        "WARBURTON.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt2-page-016.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "WARBURTON.csv": [
+            {
+                "start_date": "1868/09",
+                "end_date": "1868/09"
+            },
+            {
+                "start_date": "1869/09",
+                "end_date": "1869/09"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "THAME-CHILTERN-GROVE",
+    "data": {
+        "THAME-CHILTERN-GROVE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-151.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-151.csv",
+                "start_date": "1949/09",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-151.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-064.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "THAME-CHILTERN-GROVE.csv": [
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-151.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-151.csv",
+            "start_date": "1949/08",
+            "end_date": "1949/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-151.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        }
+    ]
+}

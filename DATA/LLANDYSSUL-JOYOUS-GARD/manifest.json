@@ -1,0 +1,20 @@
+{
+    "name": "LLANDYSSUL-JOYOUS-GARD",
+    "data": {
+        "LLANDYSSUL-JOYOUS-GARD.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-193.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANDYSSUL-JOYOUS-GARD.csv": [
+            {
+                "start_date": "1958/08",
+                "end_date": "1958/08"
+            }
+        ]
+    }
+}

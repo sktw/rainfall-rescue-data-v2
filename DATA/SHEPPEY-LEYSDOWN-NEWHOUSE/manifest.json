@@ -1,0 +1,46 @@
+{
+    "name": "SHEPPEY-LEYSDOWN-NEWHOUSE",
+    "data": {
+        "SHEPPEY-LEYSDOWN-NEWHOUSE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-076.csv",
+                "start_date": "1898/04",
+                "end_date": "1898/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-076.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-272.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "SHEPPEY-LEYSDOWN-NEWHOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-073.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-076.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_03_pt1-page-076.csv",
+            "start_date": "1898/03",
+            "end_date": "1898/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_03_pt1-page-076.csv",
+            "start_date": "1898/13",
+            "end_date": "1898/13"
+        }
+    ]
+}

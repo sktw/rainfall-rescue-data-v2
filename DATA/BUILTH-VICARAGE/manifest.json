@@ -1,0 +1,54 @@
+{
+    "name": "BUILTH-VICARAGE",
+    "data": {
+        "BUILTH-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-146.csv",
+                "start_date": "1880/01",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-146.csv",
+                "start_date": "1883/02",
+                "end_date": "1883/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-146.csv",
+                "start_date": "1884/01",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-146.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_13_pt1-page-146.csv",
+            "start_date": "1883/01",
+            "end_date": "1883/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_13_pt1-page-146.csv",
+            "start_date": "1883/13",
+            "end_date": "1883/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_13_pt1-page-146.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        }
+    ],
+    "external": {
+        "BUILTH-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-146.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/05"
+            }
+        ]
+    }
+}

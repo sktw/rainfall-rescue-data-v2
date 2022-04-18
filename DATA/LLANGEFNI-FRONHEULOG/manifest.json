@@ -1,0 +1,54 @@
+{
+    "name": "LLANGEFNI-FRONHEULOG",
+    "data": {
+        "LLANGEFNI-FRONHEULOG.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-088.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+                "start_date": "1939/04",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+            "start_date": "1939/01",
+            "end_date": "1939/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+            "start_date": "1940/02",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-135.csv",
+            "start_date": "1940/12",
+            "end_date": "1940/13"
+        }
+    ]
+}

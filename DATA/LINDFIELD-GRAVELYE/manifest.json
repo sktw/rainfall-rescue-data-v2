@@ -1,0 +1,41 @@
+{
+    "name": "LINDFIELD-GRAVELYE",
+    "data": {
+        "LINDFIELD-GRAVELYE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-143.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/13"
+            }
+        ],
+        "LINDFIELD-GRAVELYE-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-143.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-143.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-154.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LINDFIELD-GRAVELYE.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-094.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-118.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

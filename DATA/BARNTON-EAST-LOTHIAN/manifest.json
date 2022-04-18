@@ -1,0 +1,12 @@
+{
+    "name": "BARNTON-EAST-LOTHIAN",
+    "data": {
+        "BARNTON-EAST-LOTHIAN.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-048.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    }
+}

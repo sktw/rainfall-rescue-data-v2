@@ -1,0 +1,17 @@
+{
+    "name": "HAILSHAM-NORTH-STREET",
+    "data": {
+        "HAILSHAM-NORTH-STREET.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-197.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-237.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

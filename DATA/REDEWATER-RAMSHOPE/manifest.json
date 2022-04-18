@@ -1,0 +1,60 @@
+{
+    "name": "REDEWATER-RAMSHOPE",
+    "data": {
+        "REDEWATER-RAMSHOPE.csv": [
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-061.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-202.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_24_pt1-page-170.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-202.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-120.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "REDEWATER-RAMSHOPE.csv": [
+            {
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "start_date": "1924/13",
+                "end_date": "1924/13"
+            },
+            {
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            },
+            {
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            },
+            {
+                "start_date": "1934/13",
+                "end_date": "1934/13"
+            },
+            {
+                "start_date": "1936/13",
+                "end_date": "1936/13"
+            }
+        ]
+    }
+}

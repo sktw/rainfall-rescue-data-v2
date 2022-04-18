@@ -1,0 +1,44 @@
+{
+    "name": "MATLOCK-THE-GABLES",
+    "data": {
+        "MATLOCK-THE-GABLES-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-033.csv",
+                "start_date": "1889/08",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-117.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-079.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-287.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "MATLOCK-THE-GABLES.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt2-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-033.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/07"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-033.csv",
+                "start_date": "1889/13",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

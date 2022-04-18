@@ -1,0 +1,32 @@
+{
+    "name": "MARLOW-HURLEY-HOUSE",
+    "data": {
+        "MARLOW-HURLEY-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-188.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MARLOW-HURLEY-HOUSE.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-035.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-039.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARLOW-HURLEY-HOUSE.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    }
+}

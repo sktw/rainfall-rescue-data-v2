@@ -1,0 +1,84 @@
+{
+    "name": "PENMAENMAWR-COUNCIL-OFFICES",
+    "data": {
+        "PENMAENMAWR-COUNCIL-OFFICES.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-108.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-232.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+                "start_date": "1925/07",
+                "end_date": "1925/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+                "start_date": "1925/10",
+                "end_date": "1925/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+                "start_date": "1925/13",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+                "start_date": "1927/03",
+                "end_date": "1927/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+                "start_date": "1927/09",
+                "end_date": "1927/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+            "start_date": "1925/06",
+            "end_date": "1925/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+            "start_date": "1925/09",
+            "end_date": "1925/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+            "start_date": "1925/12",
+            "end_date": "1925/12"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+            "start_date": "1927/01",
+            "end_date": "1927/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+            "start_date": "1927/08",
+            "end_date": "1927/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-058.csv",
+            "start_date": "1927/12",
+            "end_date": "1927/13"
+        }
+    ]
+}

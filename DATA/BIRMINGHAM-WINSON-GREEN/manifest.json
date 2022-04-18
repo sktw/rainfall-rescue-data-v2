@@ -1,0 +1,19 @@
+{
+    "name": "BIRMINGHAM-WINSON-GREEN",
+    "data": {
+        "BIRMINGHAM-WINSON-GREEN-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt4-page-041.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BIRMINGHAM-WINSON-GREEN.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt4-page-040.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "RONALDKIRK-BALDER-HEAD",
+    "data": {
+        "RONALDKIRK-BALDER-HEAD.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-077.csv",
+                "start_date": "1875/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt2-page-069.csv",
+                "start_date": "1880/01",
+                "end_date": "1884/13"
+            }
+        ]
+    }
+}

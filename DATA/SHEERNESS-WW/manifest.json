@@ -1,0 +1,73 @@
+{
+    "name": "SHEERNESS-WW",
+    "data": {
+        "SHEERNESS-WW-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-029.csv",
+                "start_date": "1860/01",
+                "end_date": "1865/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-029.csv",
+                "start_date": "1865/04",
+                "end_date": "1865/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-029.csv",
+                "start_date": "1866/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "SHEERNESS-WW-3.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-028.csv",
+                "start_date": "1860/01",
+                "end_date": "1865/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-028.csv",
+                "start_date": "1866/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "SHEERNESS-WW-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-078.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "SHEERNESS-WW.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-118.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-208.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_01_pt2-page-029.csv",
+            "start_date": "1865/03",
+            "end_date": "1865/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1860-1869_01_pt2-page-029.csv",
+            "start_date": "1865/13",
+            "end_date": "1865/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-028.csv",
+            "start_date": "1865/13",
+            "end_date": "1865/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_03_pt1-page-097.csv"
+        }
+    ]
+}

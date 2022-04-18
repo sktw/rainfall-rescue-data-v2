@@ -1,0 +1,45 @@
+{
+    "name": "LITTLE-KIMBLE",
+    "data": {
+        "LITTLE-KIMBLE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_07_pt1-page-055.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_07_pt1-page-063.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-013.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "LITTLE-KIMBLE.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-078.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "LITTLE-KIMBLE-2.csv": [
+            {
+                "start_date": "1925/05",
+                "end_date": "1925/05"
+            },
+            {
+                "start_date": "1934/10",
+                "end_date": "1934/10"
+            },
+            {
+                "start_date": "1936/06",
+                "end_date": "1936/06"
+            }
+        ]
+    }
+}

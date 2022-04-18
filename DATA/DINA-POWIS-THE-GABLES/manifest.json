@@ -1,0 +1,20 @@
+{
+    "name": "DINA-POWIS-THE-GABLES",
+    "data": {
+        "DINA-POWIS-THE-GABLES.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-032.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "DINA-POWIS-THE-GABLES.csv": [
+            {
+                "start_date": "1955/01",
+                "end_date": "1955/01"
+            }
+        ]
+    }
+}

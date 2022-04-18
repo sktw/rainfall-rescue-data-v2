@@ -1,0 +1,17 @@
+{
+    "name": "WATH-UPON-DEARNE-WATH-WOOD-RES",
+    "data": {
+        "WATH-UPON-DEARNE-WATH-WOOD-RES.csv": [
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-090.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-106.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "COWBRIDGE-PWLLWY",
+    "data": {
+        "COWBRIDGE-PWLLWY.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-084.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-084.csv",
+                "start_date": "1949/02",
+                "end_date": "1949/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-084.csv",
+                "start_date": "1949/11",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-084.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-038.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-084.csv",
+            "start_date": "1949/01",
+            "end_date": "1949/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-084.csv",
+            "start_date": "1949/10",
+            "end_date": "1949/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-084.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        }
+    ]
+}

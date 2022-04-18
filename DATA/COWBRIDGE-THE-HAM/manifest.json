@@ -1,0 +1,51 @@
+{
+    "name": "COWBRIDGE-THE-HAM",
+    "data": {
+        "COWBRIDGE-THE-HAM.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_06_pt3-page-006.csv",
+                "start_date": "1860/01",
+                "end_date": "1864/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_06_pt3-page-006.csv",
+                "start_date": "1864/12",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt1-page-033.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-068.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "COWBRIDGE-THE-HAM.csv": [
+            {
+                "start_date": "1865/13",
+                "end_date": "1865/13"
+            },
+            {
+                "start_date": "1873/06",
+                "end_date": "1873/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_06_pt3-page-006.csv",
+            "start_date": "1864/11",
+            "end_date": "1864/11"
+        }
+    ]
+}

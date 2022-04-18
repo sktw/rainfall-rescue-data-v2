@@ -1,0 +1,24 @@
+{
+    "name": "DALNASPIDAL-LODGE",
+    "data": {
+        "DALNASPIDAL-LODGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-162.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-162.csv",
+                "start_date": "1920/09",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_32_pt1-page-162.csv",
+            "start_date": "1920/07",
+            "end_date": "1920/08"
+        }
+    ]
+}

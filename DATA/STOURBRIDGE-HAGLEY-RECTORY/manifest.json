@@ -1,0 +1,34 @@
+{
+    "name": "STOURBRIDGE-HAGLEY-RECTORY",
+    "data": {
+        "STOURBRIDGE-HAGLEY-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-131.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "STOURBRIDGE-HAGLEY-RECTORY.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-069.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-029.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-245.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-130.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

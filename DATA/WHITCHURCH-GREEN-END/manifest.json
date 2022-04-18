@@ -1,0 +1,39 @@
+{
+    "name": "WHITCHURCH-GREEN-END",
+    "data": {
+        "WHITCHURCH-GREEN-END.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-003.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/06"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-003.csv",
+                "start_date": "1888/08",
+                "end_date": "1888/10"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-003.csv",
+                "start_date": "1888/12",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-054.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_07_pt1-page-003.csv",
+            "start_date": "1888/07",
+            "end_date": "1888/07"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt1-page-003.csv",
+            "start_date": "1888/11",
+            "end_date": "1888/11"
+        }
+    ]
+}

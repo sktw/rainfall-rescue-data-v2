@@ -1,0 +1,25 @@
+{
+    "name": "SKIPTON-WOODLANDS",
+    "data": {
+        "SKIPTON-WOODLANDS.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_05_pt1-page-126.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-182.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "SKIPTON-WOODLANDS.csv": [
+            {
+                "start_date": "1867/10",
+                "end_date": "1867/10"
+            }
+        ]
+    }
+}

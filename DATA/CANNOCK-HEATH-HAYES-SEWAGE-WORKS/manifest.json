@@ -1,0 +1,52 @@
+{
+    "name": "CANNOCK-HEATH-HAYES-SEWAGE-WORKS",
+    "data": {
+        "CANNOCK-HEATH-HAYES-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-055.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_16_pt1-page-186.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_16_pt1-page-186.csv",
+                "start_date": "1946/06",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_16_pt1-page-186.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-047.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CANNOCK-HEATH-HAYES-SEWAGE-WORKS.csv": [
+            {
+                "start_date": "1944/09",
+                "end_date": "1944/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_16_pt1-page-186.csv",
+            "start_date": "1946/05",
+            "end_date": "1946/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_16_pt1-page-186.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        }
+    ]
+}

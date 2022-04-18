@@ -1,0 +1,101 @@
+{
+    "name": "LINDFIELD-THE-COMMON",
+    "data": {
+        "LINDFIELD-THE-COMMON.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_04_pt1-page-156.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-198.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-198.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-198.csv",
+                "start_date": "1940/11",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-142.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-142.csv",
+                "start_date": "1947/10",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-142.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "LINDFIELD-THE-COMMON.csv": [
+            {
+                "start_date": "1921/01",
+                "end_date": "1921/01"
+            },
+            {
+                "start_date": "1922/03",
+                "end_date": "1922/03"
+            },
+            {
+                "start_date": "1922/11",
+                "end_date": "1922/11"
+            },
+            {
+                "start_date": "1923/01",
+                "end_date": "1923/03"
+            },
+            {
+                "start_date": "1923/09",
+                "end_date": "1923/09"
+            },
+            {
+                "start_date": "1924/05",
+                "end_date": "1924/05"
+            },
+            {
+                "start_date": "1924/11",
+                "end_date": "1924/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-198.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-198.csv",
+            "start_date": "1940/10",
+            "end_date": "1940/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-198.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-142.csv",
+            "start_date": "1947/09",
+            "end_date": "1947/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-142.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

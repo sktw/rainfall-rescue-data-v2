@@ -1,0 +1,27 @@
+{
+    "name": "CARLISLE-SCOTBY",
+    "data": {
+        "CARLISLE-SCOTBY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt3-page-094.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "CARLISLE-SCOTBY.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-092.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "CARLISLE-SCOTBY-2.csv": [
+            {
+                "start_date": "1875/01",
+                "end_date": "1875/01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "WEST-DEREHAM",
+    "data": {
+        "WEST-DEREHAM.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-065.csv",
+                "start_date": "1870/01",
+                "end_date": "1871/06"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-065.csv",
+                "start_date": "1871/08",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-083.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/08"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-083.csv",
+                "start_date": "1881/10",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-083.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-065.csv",
+            "start_date": "1871/07",
+            "end_date": "1871/07"
+        },
+        {
+            "filename": "TYRain_1880-1889_04_pt5-page-083.csv",
+            "start_date": "1881/09",
+            "end_date": "1881/09"
+        },
+        {
+            "filename": "TYRain_1880-1889_04_pt5-page-083.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        }
+    ]
+}

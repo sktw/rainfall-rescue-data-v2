@@ -1,0 +1,42 @@
+{
+    "name": "BASLOW-TITHEACRE",
+    "data": {
+        "BASLOW-TITHEACRE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-144.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-153.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BASLOW-TITHEACRE.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-039.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-144.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-144.csv",
+                "start_date": "1944/13",
+                "end_date": "1944/13"
+            }
+        ]
+    },
+    "idr": {
+        "BASLOW-TITHEACRE.csv": [
+            {
+                "start_date": "1940/13",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

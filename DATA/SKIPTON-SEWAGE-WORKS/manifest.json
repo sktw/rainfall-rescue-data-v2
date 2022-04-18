@@ -1,0 +1,17 @@
+{
+    "name": "SKIPTON-SEWAGE-WORKS",
+    "data": {
+        "SKIPTON-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-089.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-210.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

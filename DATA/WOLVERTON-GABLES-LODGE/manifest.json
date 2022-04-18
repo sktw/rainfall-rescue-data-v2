@@ -1,0 +1,30 @@
+{
+    "name": "WOLVERTON-GABLES-LODGE",
+    "data": {
+        "WOLVERTON-GABLES-LODGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_07_pt1-page-123.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-134.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-073.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "WOLVERTON-GABLES-LODGE.csv": [
+            {
+                "start_date": "1928/11",
+                "end_date": "1928/11"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "TREFFGARNE-HALL",
+    "data": {
+        "TREFFGARNE-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-027.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-138.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "TREFFGARNE-HALL.csv": [
+            {
+                "start_date": "1919/11",
+                "end_date": "1919/11"
+            }
+        ]
+    }
+}

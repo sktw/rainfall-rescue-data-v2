@@ -1,0 +1,20 @@
+{
+    "name": "LLYN-ANAFON",
+    "data": {
+        "LLYN-ANAFON.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-271.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLYN-ANAFON.csv": [
+            {
+                "start_date": "1953/12",
+                "end_date": "1953/12"
+            }
+        ]
+    }
+}

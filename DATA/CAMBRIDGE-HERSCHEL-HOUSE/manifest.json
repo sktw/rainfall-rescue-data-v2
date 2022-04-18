@@ -1,0 +1,59 @@
+{
+    "name": "CAMBRIDGE-HERSCHEL-HOUSE",
+    "data": {
+        "CAMBRIDGE-HERSCHEL-HOUSE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_08_pt1-page-217.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_08_pt1-page-217.csv",
+                "start_date": "1912/02",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_08_pt1-page-217.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-095.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CAMBRIDGE-HERSCHEL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-198.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-216.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "CAMBRIDGE-HERSCHEL-HOUSE-2.csv": [
+            {
+                "start_date": "1918/09",
+                "end_date": "1918/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_08_pt1-page-217.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_08_pt1-page-217.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

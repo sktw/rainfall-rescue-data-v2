@@ -1,0 +1,56 @@
+{
+    "name": "SHALBOURNE",
+    "data": {
+        "SHALBOURNE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-243.csv",
+                "start_date": "1912/03",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-243.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "SHALBOURNE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-061.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-067.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-118.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-243.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-243.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-243.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/02"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-243.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

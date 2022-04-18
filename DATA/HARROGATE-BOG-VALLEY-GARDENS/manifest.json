@@ -1,0 +1,24 @@
+{
+    "name": "HARROGATE-BOG-VALLEY-GARDENS",
+    "data": {
+        "HARROGATE-BOG-VALLEY-GARDENS.csv": [
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-137.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/03"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-137.csv",
+                "start_date": "1897/05",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-137.csv",
+            "start_date": "1897/04",
+            "end_date": "1897/04"
+        }
+    ]
+}

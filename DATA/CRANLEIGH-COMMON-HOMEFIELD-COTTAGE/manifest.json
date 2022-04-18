@@ -1,0 +1,49 @@
+{
+    "name": "CRANLEIGH-COMMON-HOMEFIELD-COTTAGE",
+    "data": {
+        "CRANLEIGH-COMMON-HOMEFIELD-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-141.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-164.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-164.csv",
+                "start_date": "1909/11",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-237.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-223.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-220.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-164.csv",
+            "start_date": "1909/10",
+            "end_date": "1909/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-164.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

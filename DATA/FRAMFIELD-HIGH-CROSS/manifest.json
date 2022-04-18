@@ -1,0 +1,44 @@
+{
+    "name": "FRAMFIELD-HIGH-CROSS",
+    "data": {
+        "FRAMFIELD-HIGH-CROSS.csv": [
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-130.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-143.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-143.csv",
+                "start_date": "1929/05",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-143.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-187.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-143.csv",
+            "start_date": "1929/04",
+            "end_date": "1929/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-143.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        }
+    ]
+}

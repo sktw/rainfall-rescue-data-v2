@@ -1,0 +1,56 @@
+{
+    "name": "HAYES-SEWAGE-WORKS",
+    "data": {
+        "HAYES-SEWAGE-WORKS-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-135.csv",
+                "start_date": "1937/01",
+                "end_date": "1937/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-135.csv",
+                "start_date": "1937/05",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-135.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-028.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "HAYES-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-150.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-135.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-135.csv",
+                "start_date": "1938/01",
+                "end_date": "1938/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-135.csv",
+            "start_date": "1937/04",
+            "end_date": "1937/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-135.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

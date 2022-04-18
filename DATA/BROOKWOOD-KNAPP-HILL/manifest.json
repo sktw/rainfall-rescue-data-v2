@@ -1,0 +1,69 @@
+{
+    "name": "BROOKWOOD-KNAPP-HILL",
+    "data": {
+        "BROOKWOOD-KNAPP-HILL-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-069.csv",
+                "start_date": "1931/04",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-069.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-069.csv",
+                "start_date": "1940/09",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-272.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "BROOKWOOD-KNAPP-HILL.csv": [
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-069.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-324.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROOKWOOD-KNAPP-HILL.csv": [
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-069.csv",
+            "start_date": "1931/01",
+            "end_date": "1931/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-069.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-069.csv",
+            "start_date": "1940/07",
+            "end_date": "1940/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-069.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

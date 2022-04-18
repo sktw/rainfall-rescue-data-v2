@@ -1,0 +1,44 @@
+{
+    "name": "ILKLEY-CHERRY-BANK",
+    "data": {
+        "ILKLEY-CHERRY-BANK.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-083.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-083.csv",
+                "start_date": "1880/03",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-083.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-103.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-236.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_10_pt2-page-083.csv",
+            "start_date": "1880/02",
+            "end_date": "1880/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_10_pt2-page-083.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        }
+    ]
+}

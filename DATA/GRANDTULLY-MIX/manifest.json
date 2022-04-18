@@ -1,0 +1,81 @@
+{
+    "name": "GRANDTULLY-MIX",
+    "data": {
+        "GRANDTULLY-MIX-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-080.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-220.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-141.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/06"
+            }
+        ],
+        "GRANDTULLY-MIX-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-141.csv",
+                "start_date": "1924/09",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-141.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-129.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-010.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-010.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "GRANDTULLY-MIX.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-072.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "GRANDTULLY-MIX-2.csv": [
+            {
+                "start_date": "1919/01",
+                "end_date": "1919/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-010.csv",
+            "start_date": "1946/10",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_32_pt1-page-141.csv",
+            "start_date": "1924/07",
+            "end_date": "1924/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_32_pt1-page-141.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

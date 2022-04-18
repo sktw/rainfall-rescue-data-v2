@@ -1,0 +1,39 @@
+{
+    "name": "WELSHPOOL-BUTTINGTON-VIC",
+    "data": {
+        "WELSHPOOL-BUTTINGTON-VIC.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-171.csv",
+                "start_date": "1880/02",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-171.csv",
+                "start_date": "1881/01",
+                "end_date": "1886/07"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-171.csv",
+                "start_date": "1886/09",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-171.csv",
+            "start_date": "1880/01",
+            "end_date": "1880/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-171.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-171.csv",
+            "start_date": "1886/08",
+            "end_date": "1886/08"
+        }
+    ]
+}

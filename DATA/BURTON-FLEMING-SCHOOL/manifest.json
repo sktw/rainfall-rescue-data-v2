@@ -1,0 +1,38 @@
+{
+    "name": "BURTON-FLEMING-SCHOOL",
+    "data": {
+        "BURTON-FLEMING-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-134.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-277.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-225.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BURTON-FLEMING-SCHOOL.csv": [
+            {
+                "start_date": "1932/03",
+                "end_date": "1932/04"
+            },
+            {
+                "start_date": "1932/06",
+                "end_date": "1932/09"
+            },
+            {
+                "start_date": "1932/11",
+                "end_date": "1932/12"
+            }
+        ]
+    }
+}

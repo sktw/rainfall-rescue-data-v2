@@ -1,0 +1,47 @@
+{
+    "name": "SALISBURY-PLAIN-IMBER",
+    "data": {
+        "SALISBURY-PLAIN-IMBER.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt3-page-017.csv",
+                "start_date": "1860/01",
+                "end_date": "1866/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt3-page-017.csv",
+                "start_date": "1866/03",
+                "end_date": "1866/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt3-page-017.csv",
+                "start_date": "1866/11",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-032.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "SALISBURY-PLAIN-IMBER.csv": [
+            {
+                "start_date": "1866/07",
+                "end_date": "1866/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_02_pt3-page-017.csv",
+            "start_date": "1866/02",
+            "end_date": "1866/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1860-1869_02_pt3-page-017.csv",
+            "start_date": "1866/10",
+            "end_date": "1866/10"
+        }
+    ]
+}

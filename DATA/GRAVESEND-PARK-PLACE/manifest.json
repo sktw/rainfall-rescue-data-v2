@@ -1,0 +1,48 @@
+{
+    "name": "GRAVESEND-PARK-PLACE",
+    "data": {
+        "GRAVESEND-PARK-PLACE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-154.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/03"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-154.csv",
+                "start_date": "1883/09",
+                "end_date": "1889/13"
+            }
+        ],
+        "GRAVESEND-PARK-PLACE-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-290.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-274.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "GRAVESEND-PARK-PLACE.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-153.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-187.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_02_pt1-page-154.csv",
+            "start_date": "1883/04",
+            "end_date": "1883/08"
+        }
+    ]
+}

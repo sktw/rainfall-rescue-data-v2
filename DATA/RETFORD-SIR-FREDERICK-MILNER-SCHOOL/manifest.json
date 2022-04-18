@@ -1,0 +1,32 @@
+{
+    "name": "RETFORD-SIR-FREDERICK-MILNER-SCHOOL",
+    "data": {
+        "RETFORD-SIR-FREDERICK-MILNER-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-064.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-068.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "RETFORD-SIR-FREDERICK-MILNER-SCHOOL.csv": [
+            {
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-064.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

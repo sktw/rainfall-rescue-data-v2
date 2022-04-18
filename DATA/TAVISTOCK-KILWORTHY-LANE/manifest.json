@@ -1,0 +1,25 @@
+{
+    "name": "TAVISTOCK-KILWORTHY-LANE",
+    "data": {
+        "TAVISTOCK-KILWORTHY-LANE.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_05_pt2-page-023.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-019.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "TAVISTOCK-KILWORTHY-LANE.csv": [
+            {
+                "start_date": "1876/09",
+                "end_date": "1876/09"
+            }
+        ]
+    }
+}

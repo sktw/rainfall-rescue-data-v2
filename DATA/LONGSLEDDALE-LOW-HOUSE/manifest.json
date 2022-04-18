@@ -1,0 +1,25 @@
+{
+    "name": "LONGSLEDDALE-LOW-HOUSE",
+    "data": {
+        "LONGSLEDDALE-LOW-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_22_pt1-page-264.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-184.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "LONGSLEDDALE-LOW-HOUSE.csv": [
+            {
+                "start_date": "1919/01",
+                "end_date": "1919/01"
+            }
+        ]
+    }
+}

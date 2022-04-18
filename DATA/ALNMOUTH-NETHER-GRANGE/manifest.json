@@ -1,0 +1,24 @@
+{
+    "name": "ALNMOUTH-NETHER-GRANGE",
+    "data": {
+        "ALNMOUTH-NETHER-GRANGE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-193.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-220.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "ALNMOUTH-NETHER-GRANGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-192.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

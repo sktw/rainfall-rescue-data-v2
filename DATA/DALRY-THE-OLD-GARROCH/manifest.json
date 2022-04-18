@@ -1,0 +1,65 @@
+{
+    "name": "DALRY-THE-OLD-GARROCH",
+    "data": {
+        "DALRY-THE-OLD-GARROCH-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-025.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-083.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "DALRY-THE-OLD-GARROCH-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-020.csv",
+                "start_date": "1894/06",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-023.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "DALRY-THE-OLD-GARROCH-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-024.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-082.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "DALRY-THE-OLD-GARROCH.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-019.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-020.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/04"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-020.csv",
+                "start_date": "1894/13",
+                "end_date": "1894/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_23_pt1-page-020.csv",
+            "start_date": "1894/05",
+            "end_date": "1894/05"
+        }
+    ]
+}

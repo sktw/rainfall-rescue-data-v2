@@ -1,0 +1,124 @@
+{
+    "name": "HULL-WW-FARNDALE-SEVEN",
+    "data": {
+        "HULL-WW-FARNDALE-SEVEN.csv": [
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+                "start_date": "1941/11",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+                "start_date": "1942/01",
+                "end_date": "1943/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+                "start_date": "1943/07",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-030.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-030.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-030.csv",
+                "start_date": "1955/08",
+                "end_date": "1955/12"
+            }
+        ]
+    },
+    "idr": {
+        "HULL-WW-FARNDALE-SEVEN.csv": [
+            {
+                "start_date": "1942/01",
+                "end_date": "1942/03"
+            },
+            {
+                "start_date": "1945/02",
+                "end_date": "1945/05"
+            },
+            {
+                "start_date": "1952/05",
+                "end_date": "1952/06"
+            },
+            {
+                "start_date": "1952/09",
+                "end_date": "1952/10"
+            },
+            {
+                "start_date": "1955/02",
+                "end_date": "1955/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+            "start_date": "1941/10",
+            "end_date": "1941/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+            "start_date": "1943/06",
+            "end_date": "1943/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-207.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-030.csv",
+            "start_date": "1955/04",
+            "end_date": "1955/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-030.csv",
+            "start_date": "1955/07",
+            "end_date": "1955/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-030.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ],
+    "external": {
+        "HULL-WW-FARNDALE-SEVEN.csv": [
+            {
+                "filename": "MISSING_TYRain_1931-1940_HULL_WW_FARNDALE_SEVEN-page-0.csv",
+                "comment": "Data from British Rainfall 1939",
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1931-1940_HULL_WW_FARNDALE_SEVEN-page-0.csv",
+                "comment": "Data from British Rainfall 1940",
+                "start_date": "1940/13",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "HUTTONS-AMBO-MINSTER-HILL",
+    "data": {
+        "HUTTONS-AMBO-MINSTER-HILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-009.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-218.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/13"
+            }
+        ]
+    },
+    "idr": {
+        "HUTTONS-AMBO-MINSTER-HILL.csv": [
+            {
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "CHIPPING-CAMPDEN-HIDCOTE",
+    "data": {
+        "CHIPPING-CAMPDEN-HIDCOTE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-199.csv",
+                "start_date": "1908/12",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-199.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-088.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-210.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CHIPPING-CAMPDEN-HIDCOTE.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-190.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-199.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-199.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        }
+    ]
+}

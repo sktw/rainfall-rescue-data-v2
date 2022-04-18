@@ -1,0 +1,17 @@
+{
+    "name": "LEAMINGTON-BLACKDOWN-HILL",
+    "data": {
+        "LEAMINGTON-BLACKDOWN-HILL.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-052.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt4-page-012.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

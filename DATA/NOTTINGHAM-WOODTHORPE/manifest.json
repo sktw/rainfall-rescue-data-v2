@@ -1,0 +1,76 @@
+{
+    "name": "NOTTINGHAM-WOODTHORPE",
+    "data": {
+        "NOTTINGHAM-WOODTHORPE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-222.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-222.csv",
+                "start_date": "1935/03",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-222.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-035.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-034.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "NOTTINGHAM-WOODTHORPE.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt2-page-034.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-033.csv",
+                "start_date": "1890/02",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-033.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-198.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_14_pt1-page-033.csv",
+            "start_date": "1890/01",
+            "end_date": "1890/01"
+        },
+        {
+            "filename": "TYRain_1890-1899_14_pt1-page-033.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-222.csv",
+            "start_date": "1935/01",
+            "end_date": "1935/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-222.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

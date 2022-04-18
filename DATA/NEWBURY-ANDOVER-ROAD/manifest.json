@@ -1,0 +1,41 @@
+{
+    "name": "NEWBURY-ANDOVER-ROAD",
+    "data": {
+        "NEWBURY-ANDOVER-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-051.csv",
+                "start_date": "1928/06",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-051.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-051.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "NEWBURY-ANDOVER-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-046.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-051.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-051.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        }
+    ]
+}

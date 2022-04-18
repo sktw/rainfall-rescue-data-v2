@@ -1,0 +1,30 @@
+{
+    "name": "NAILSWORTH-THREE-CORNERS",
+    "data": {
+        "NAILSWORTH-THREE-CORNERS.csv": [
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-157.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-079.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_14_pt1-page-184.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "NAILSWORTH-THREE-CORNERS.csv": [
+            {
+                "start_date": "1942/01",
+                "end_date": "1942/01"
+            }
+        ]
+    }
+}

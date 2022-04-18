@@ -1,0 +1,207 @@
+{
+    "name": "BLACK-MOUNTAINS-TAREN-Y-ESGOB",
+    "data": {
+        "BLACK-MOUNTAINS-TAREN-Y-ESGOB-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-263.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-263.csv",
+                "start_date": "1916/04",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-263.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-TAREN-Y-ESGOB-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+                "start_date": "1914/04",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+                "start_date": "1915/01",
+                "end_date": "1916/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+                "start_date": "1916/04",
+                "end_date": "1916/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+                "start_date": "1916/12",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-TAREN-Y-ESGOB-4.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-265.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-265.csv",
+                "start_date": "1912/11",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-TAREN-Y-ESGOB-FEWMONTHSONLY.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-262.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-TAREN-Y-ESGOB-ONEMONTHONLY.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-261.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-TAREN-Y-ESGOB.csv": [
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-073.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+                "start_date": "1914/04",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+                "start_date": "1915/01",
+                "end_date": "1916/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+                "start_date": "1916/04",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+                "start_date": "1917/01",
+                "end_date": "1917/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+                "start_date": "1917/05",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-275.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "BLACK-MOUNTAINS-TAREN-Y-ESGOB.csv": [
+            {
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+            "start_date": "1914/03",
+            "end_date": "1914/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+            "start_date": "1916/02",
+            "end_date": "1916/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+            "start_date": "1917/03",
+            "end_date": "1917/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-260.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-263.csv",
+            "start_date": "1916/02",
+            "end_date": "1916/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-263.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+            "start_date": "1914/03",
+            "end_date": "1914/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+            "start_date": "1916/02",
+            "end_date": "1916/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+            "start_date": "1916/11",
+            "end_date": "1916/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-264.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-265.csv",
+            "start_date": "1912/10",
+            "end_date": "1912/10"
+        }
+    ]
+}

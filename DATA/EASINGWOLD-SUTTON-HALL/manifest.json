@@ -1,0 +1,17 @@
+{
+    "name": "EASINGWOLD-SUTTON-HALL",
+    "data": {
+        "EASINGWOLD-SUTTON-HALL.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-007.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-216.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "EGHAM-COOPERS-HILL",
+    "data": {
+        "EGHAM-COOPERS-HILL-POORDATA.csv": [
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-291.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-280.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "EGHAM-COOPERS-HILL.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-109.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-144.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-213.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-264.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

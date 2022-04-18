@@ -1,0 +1,39 @@
+{
+    "name": "BEDFORD-KIMBOLTON-ROAD",
+    "data": {
+        "BEDFORD-KIMBOLTON-ROAD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_08_pt1-page-055.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BEDFORD-KIMBOLTON-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-040.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BEDFORD-KIMBOLTON-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt2-page-027.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-105.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "BEDFORD-KIMBOLTON-ROAD-2.csv": [
+            {
+                "start_date": "1925/05",
+                "end_date": "1925/05"
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "name": "FOREST-OF-DEAN-SERRIDGE-LODGE",
+    "data": {
+        "FOREST-OF-DEAN-SERRIDGE-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1944/07",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1945/01",
+                "end_date": "1946/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1946/04",
+                "end_date": "1946/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1946/08",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1947/03",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-014.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FOREST-OF-DEAN-SERRIDGE-LODGE.csv": [
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1941/05",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1942/02",
+                "end_date": "1942/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1942/04",
+                "end_date": "1942/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1942/06",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+                "start_date": "1943/01",
+                "end_date": "1944/06"
+            }
+        ]
+    },
+    "idr": {
+        "FOREST-OF-DEAN-SERRIDGE-LODGE-2.csv": [
+            {
+                "start_date": "1956/06",
+                "end_date": "1956/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1941/13",
+            "end_date": "1942/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1942/03",
+            "end_date": "1942/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1942/05",
+            "end_date": "1942/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1946/03",
+            "end_date": "1946/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1946/07",
+            "end_date": "1946/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1946/13",
+            "end_date": "1947/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-167.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

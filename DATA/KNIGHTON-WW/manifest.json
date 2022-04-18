@@ -1,11 +1,23 @@
 {
     "name": "KNIGHTON-WW",
     "data": {
-        "KNIGHTON-WW.csv": [
+        "KNIGHTON-WW-2.csv": [
             {
                 "filename": "TYRain_1951-1960_03_pt1-page-239.csv",
                 "start_date": "1951/01",
                 "end_date": "1960/13"
+            }
+        ],
+        "KNIGHTON-WW.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-151.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-018.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
             }
         ]
     }

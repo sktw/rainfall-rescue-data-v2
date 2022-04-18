@@ -1,0 +1,22 @@
+{
+    "name": "BURY-ST-EDMUNDS-NORTHGATE-ST",
+    "data": {
+        "BURY-ST-EDMUNDS-NORTHGATE-ST.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-272.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-090.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-101.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

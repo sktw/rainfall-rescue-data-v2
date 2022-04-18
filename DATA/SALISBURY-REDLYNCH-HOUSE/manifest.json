@@ -1,0 +1,32 @@
+{
+    "name": "SALISBURY-REDLYNCH-HOUSE",
+    "data": {
+        "SALISBURY-REDLYNCH-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-161.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SALISBURY-REDLYNCH-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-126.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_10_pt1-page-237.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "SALISBURY-REDLYNCH-HOUSE.csv": [
+            {
+                "start_date": "1914/04",
+                "end_date": "1914/04"
+            }
+        ]
+    }
+}

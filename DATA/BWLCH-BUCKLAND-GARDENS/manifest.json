@@ -1,0 +1,35 @@
+{
+    "name": "BWLCH-BUCKLAND-GARDENS",
+    "data": {
+        "BWLCH-BUCKLAND-GARDENS.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-050.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_25_pt1-page-095.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-231.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-251.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ]
+    },
+    "idr": {
+        "BWLCH-BUCKLAND-GARDENS.csv": [
+            {
+                "start_date": "1904/13",
+                "end_date": "1904/13"
+            }
+        ]
+    }
+}

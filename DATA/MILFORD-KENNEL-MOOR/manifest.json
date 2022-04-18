@@ -1,0 +1,52 @@
+{
+    "name": "MILFORD-KENNEL-MOOR",
+    "data": {
+        "MILFORD-KENNEL-MOOR.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-236.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-183.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-183.csv",
+                "start_date": "1947/10",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-183.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-210.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MILFORD-KENNEL-MOOR.csv": [
+            {
+                "start_date": "1956/09",
+                "end_date": "1956/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-183.csv",
+            "start_date": "1947/08",
+            "end_date": "1947/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-183.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

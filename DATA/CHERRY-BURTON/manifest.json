@@ -1,0 +1,17 @@
+{
+    "name": "CHERRY-BURTON",
+    "data": {
+        "CHERRY-BURTON.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt1-page-022.csv",
+                "start_date": "1886/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-124.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

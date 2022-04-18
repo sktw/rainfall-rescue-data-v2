@@ -1,0 +1,30 @@
+{
+    "name": "HASTINGS-GUESTLING-RECTORY",
+    "data": {
+        "HASTINGS-GUESTLING-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_04_pt1-page-165.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-201.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-188.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "HASTINGS-GUESTLING-RECTORY.csv": [
+            {
+                "start_date": "1896/03",
+                "end_date": "1896/03"
+            }
+        ]
+    }
+}

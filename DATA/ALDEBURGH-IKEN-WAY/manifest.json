@@ -1,0 +1,44 @@
+{
+    "name": "ALDEBURGH-IKEN-WAY",
+    "data": {
+        "ALDEBURGH-IKEN-WAY.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-065.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-065.csv",
+                "start_date": "1938/03",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-065.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-237.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-145.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-065.csv",
+            "start_date": "1938/01",
+            "end_date": "1938/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-065.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
+}

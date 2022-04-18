@@ -1,0 +1,24 @@
+{
+    "name": "ANNALONG",
+    "data": {
+        "ANNALONG.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_13_pt2-page-095.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_13_pt2-page-095.csv",
+                "start_date": "1878/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_13_pt2-page-095.csv",
+            "start_date": "1877/13",
+            "end_date": "1877/13"
+        }
+    ]
+}

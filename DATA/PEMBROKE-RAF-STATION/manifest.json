@@ -1,0 +1,12 @@
+{
+    "name": "PEMBROKE-RAF-STATION",
+    "data": {
+        "PEMBROKE-RAF-STATION.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-127.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

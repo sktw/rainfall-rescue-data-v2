@@ -1,0 +1,44 @@
+{
+    "name": "WALTON-ON-THAMES-WW",
+    "data": {
+        "WALTON-ON-THAMES-WW.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-066.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-269.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-269.csv",
+                "start_date": "1947/04",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-269.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-267.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-269.csv",
+            "start_date": "1947/03",
+            "end_date": "1947/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-269.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

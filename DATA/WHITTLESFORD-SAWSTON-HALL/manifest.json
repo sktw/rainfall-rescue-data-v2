@@ -1,0 +1,27 @@
+{
+    "name": "WHITTLESFORD-SAWSTON-HALL",
+    "data": {
+        "WHITTLESFORD-SAWSTON-HALL.csv": [
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-031.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-180.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-202.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-079.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

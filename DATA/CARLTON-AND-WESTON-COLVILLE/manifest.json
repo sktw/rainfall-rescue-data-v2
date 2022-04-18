@@ -1,0 +1,29 @@
+{
+    "name": "CARLTON-AND-WESTON-COLVILLE",
+    "data": {
+        "CARLTON-AND-WESTON-COLVILLE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-175.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-189.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CARLTON-AND-WESTON-COLVILLE.csv": [
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-107.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-175.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            }
+        ]
+    }
+}

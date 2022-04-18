@@ -1,0 +1,19 @@
+{
+    "name": "CROUCH-END-FAIRFIELD-ROAD",
+    "data": {
+        "CROUCH-END-FAIRFIELD-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-135.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "CROUCH-END-FAIRFIELD-ROAD.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-136.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "BROUGHTON-NEWSHAM-HOUSE",
+    "data": {
+        "BROUGHTON-NEWSHAM-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-273.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_21_pt1-page-040.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_18A_pt1-page-070.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-178.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROUGHTON-NEWSHAM-HOUSE.csv": [
+            {
+                "start_date": "1924/05",
+                "end_date": "1924/05"
+            },
+            {
+                "start_date": "1933/02",
+                "end_date": "1933/02"
+            }
+        ]
+    }
+}

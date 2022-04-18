@@ -1,0 +1,162 @@
+{
+    "name": "HERTFORD-COLE-GREEN",
+    "data": {
+        "HERTFORD-COLE-GREEN.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-004.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+                "start_date": "1948/09",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+                "start_date": "1949/01",
+                "end_date": "1949/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+                "start_date": "1949/10",
+                "end_date": "1949/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+                "start_date": "1949/12",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1952/04",
+                "end_date": "1952/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1952/07",
+                "end_date": "1952/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1952/11",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1953/01",
+                "end_date": "1957/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1957/12",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1958/04",
+                "end_date": "1958/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "HERTFORD-COLE-GREEN.csv": [
+            {
+                "start_date": "1946/05",
+                "end_date": "1946/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+            "start_date": "1948/08",
+            "end_date": "1948/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+            "start_date": "1949/09",
+            "end_date": "1949/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+            "start_date": "1949/11",
+            "end_date": "1949/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_07_pt1-page-172.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1952/03",
+            "end_date": "1952/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1952/05",
+            "end_date": "1952/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1952/09",
+            "end_date": "1952/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1957/11",
+            "end_date": "1957/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1958/03",
+            "end_date": "1958/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-173.csv",
+            "start_date": "1958/12",
+            "end_date": "1958/13"
+        }
+    ]
+}

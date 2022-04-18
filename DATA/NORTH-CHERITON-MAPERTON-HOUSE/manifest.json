@@ -1,0 +1,64 @@
+{
+    "name": "NORTH-CHERITON-MAPERTON-HOUSE",
+    "data": {
+        "NORTH-CHERITON-MAPERTON-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-185.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-185.csv",
+                "start_date": "1912/03",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-185.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-036.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-036.csv",
+                "start_date": "1920/09",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-036.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-281.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-185.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/02"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-185.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-036.csv",
+            "start_date": "1920/07",
+            "end_date": "1920/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-036.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        }
+    ]
+}

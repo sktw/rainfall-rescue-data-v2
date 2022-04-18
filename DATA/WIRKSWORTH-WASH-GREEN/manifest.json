@@ -1,0 +1,39 @@
+{
+    "name": "WIRKSWORTH-WASH-GREEN",
+    "data": {
+        "WIRKSWORTH-WASH-GREEN.csv": [
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-133.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-133.csv",
+                "start_date": "1948/02",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-133.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-144.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-133.csv",
+            "start_date": "1948/01",
+            "end_date": "1948/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-133.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        }
+    ]
+}

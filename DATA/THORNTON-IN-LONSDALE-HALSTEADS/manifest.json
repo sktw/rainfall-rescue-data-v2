@@ -1,0 +1,24 @@
+{
+    "name": "THORNTON-IN-LONSDALE-HALSTEADS",
+    "data": {
+        "THORNTON-IN-LONSDALE-HALSTEADS-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "THORNTON-IN-LONSDALE-HALSTEADS.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-221.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-004.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

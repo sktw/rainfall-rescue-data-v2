@@ -1,0 +1,17 @@
+{
+    "name": "CHESHUNT-NURSERIES",
+    "data": {
+        "CHESHUNT-NURSERIES.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt3-page-034.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

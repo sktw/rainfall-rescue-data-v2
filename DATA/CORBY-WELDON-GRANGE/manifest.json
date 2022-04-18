@@ -1,0 +1,22 @@
+{
+    "name": "CORBY-WELDON-GRANGE",
+    "data": {
+        "CORBY-WELDON-GRANGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-233.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-087.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-098.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

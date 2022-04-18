@@ -1,0 +1,47 @@
+{
+    "name": "BASLOW-OVER-END",
+    "data": {
+        "BASLOW-OVER-END.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_18_pt1-page-069.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-040.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-040.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-040.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "BASLOW-OVER-END.csv": [
+            {
+                "start_date": "1928/01",
+                "end_date": "1928/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-040.csv",
+            "start_date": "1933/02",
+            "end_date": "1933/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-040.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
+}

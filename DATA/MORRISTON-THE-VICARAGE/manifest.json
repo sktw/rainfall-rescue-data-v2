@@ -1,0 +1,56 @@
+{
+    "name": "MORRISTON-THE-VICARAGE",
+    "data": {
+        "MORRISTON-THE-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-016.csv",
+                "start_date": "1910/01",
+                "end_date": "1917/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-016.csv",
+                "start_date": "1918/08",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-016.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-015.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-015.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "MORRISTON-THE-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-015.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-016.csv",
+            "start_date": "1918/01",
+            "end_date": "1918/07"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-016.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-015.csv",
+            "start_date": "1929/11",
+            "end_date": "1929/13"
+        }
+    ]
+}

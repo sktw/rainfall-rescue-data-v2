@@ -1,0 +1,39 @@
+{
+    "name": "LANGSETT-MOOR-EWDEN-HEIGHT-B",
+    "data": {
+        "LANGSETT-MOOR-EWDEN-HEIGHT-B.csv": [
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-238.csv",
+                "start_date": "1890/01",
+                "end_date": "1896/07"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-238.csv",
+                "start_date": "1896/09",
+                "end_date": "1896/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-238.csv",
+                "start_date": "1897/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-129.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-238.csv",
+            "start_date": "1896/08",
+            "end_date": "1896/08"
+        },
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-238.csv",
+            "start_date": "1896/13",
+            "end_date": "1896/13"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "WOKING-THE-GREEN",
+    "data": {
+        "WOKING-THE-GREEN.csv": [
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-039.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-299.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-045.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-256.csv",
+                "start_date": "1941/05",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-256.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "WOKING-THE-GREEN.csv": [
+            {
+                "start_date": "1942/13",
+                "end_date": "1942/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-256.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-256.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

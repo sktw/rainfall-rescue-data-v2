@@ -18,5 +18,13 @@
                 "end_date": "1950/13"
             }
         ]
+    },
+    "idr": {
+        "TAIN-ARDLARACH.csv": [
+            {
+                "start_date": "1942/11",
+                "end_date": "1942/11"
+            }
+        ]
     }
 }

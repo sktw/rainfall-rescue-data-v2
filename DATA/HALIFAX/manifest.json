@@ -1,0 +1,12 @@
+{
+    "name": "HALIFAX",
+    "data": {
+        "HALIFAX.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-020.csv",
+                "start_date": "1720/01",
+                "end_date": "1729/13"
+            }
+        ]
+    }
+}

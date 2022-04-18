@@ -1,0 +1,47 @@
+{
+    "name": "WEST-CALDER-WESTWOOD",
+    "data": {
+        "WEST-CALDER-WESTWOOD.csv": [
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-263.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-078.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-078.csv",
+                "start_date": "1957/07",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-078.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEST-CALDER-WESTWOOD.csv": [
+            {
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_26_pt1-page-078.csv",
+            "start_date": "1957/06",
+            "end_date": "1957/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_26_pt1-page-078.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

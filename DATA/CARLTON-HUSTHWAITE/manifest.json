@@ -1,0 +1,24 @@
+{
+    "name": "CARLTON-HUSTHWAITE",
+    "data": {
+        "CARLTON-HUSTHWAITE.csv": [
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-275.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-164.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-164.csv",
+            "start_date": "1927/10",
+            "end_date": "1927/13"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "ST-LEONARDS-BRANKSOME-ROAD",
+    "data": {
+        "ST-LEONARDS-BRANKSOME-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-162.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-231.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-196.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-236.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

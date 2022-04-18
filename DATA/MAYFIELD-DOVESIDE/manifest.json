@@ -1,0 +1,29 @@
+{
+    "name": "MAYFIELD-DOVESIDE",
+    "data": {
+        "MAYFIELD-DOVESIDE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_15_pt1-page-070.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_15_pt1-page-120.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "MAYFIELD-DOVESIDE.csv": [
+            {
+                "start_date": "1911/13",
+                "end_date": "1911/13"
+            },
+            {
+                "start_date": "1920/13",
+                "end_date": "1920/13"
+            }
+        ]
+    }
+}

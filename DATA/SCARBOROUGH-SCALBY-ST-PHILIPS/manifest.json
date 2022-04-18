@@ -1,0 +1,87 @@
+{
+    "name": "SCARBOROUGH-SCALBY-ST-PHILIPS",
+    "data": {
+        "SCARBOROUGH-SCALBY-ST-PHILIPS.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-041.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-046.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            }
+        ]
+    },
+    "external": {
+        "SCARBOROUGH-SCALBY-ST-PHILIPS.csv": [
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1920",
+                "start_date": "1920/13",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1921",
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1922",
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1923",
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1924",
+                "start_date": "1924/13",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1925",
+                "start_date": "1925/13",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1926",
+                "start_date": "1926/13",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1927",
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1928",
+                "start_date": "1928/13",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1929",
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_SCALBY_ST_PHILIPS-page-0.csv",
+                "comment": "Data from British Rainfall 1930",
+                "start_date": "1930/13",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

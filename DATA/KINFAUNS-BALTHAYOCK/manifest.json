@@ -1,0 +1,46 @@
+{
+    "name": "KINFAUNS-BALTHAYOCK",
+    "data": {
+        "KINFAUNS-BALTHAYOCK-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-242.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-242.csv",
+                "start_date": "1919/12",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-173.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-161.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "KINFAUNS-BALTHAYOCK.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-152.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_27_pt1-page-242.csv",
+            "start_date": "1919/11",
+            "end_date": "1919/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_27_pt1-page-242.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "GARSDALE",
+    "data": {
+        "GARSDALE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-023.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-067.csv"
+        }
+    ]
+}

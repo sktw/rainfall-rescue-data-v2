@@ -1,0 +1,47 @@
+{
+    "name": "BRUSHFORD-RECTORY",
+    "data": {
+        "BRUSHFORD-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_13_pt1-page-228.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_13_pt1-page-228.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-099.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-015.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-139.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRUSHFORD-RECTORY.csv": [
+            {
+                "start_date": "1916/10",
+                "end_date": "1916/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_13_pt1-page-228.csv",
+            "start_date": "1911/12",
+            "end_date": "1911/13"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "EDINBURGH-UNIVERSITY-FULTON-LAB",
+    "data": {
+        "EDINBURGH-UNIVERSITY-FULTON-LAB-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-195.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_25_pt1-page-303.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_30_pt1-page-059.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "EDINBURGH-UNIVERSITY-FULTON-LAB.csv": [
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-196.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-302.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_30_pt1-page-058.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_24_pt1-page-113.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "EDINBURGH-UNIVERSITY-FULTON-LAB-2.csv": [
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/06"
+            }
+        ],
+        "EDINBURGH-UNIVERSITY-FULTON-LAB.csv": [
+            {
+                "start_date": "1923/09",
+                "end_date": "1923/09"
+            }
+        ]
+    }
+}

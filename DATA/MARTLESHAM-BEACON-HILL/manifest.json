@@ -1,0 +1,25 @@
+{
+    "name": "MARTLESHAM-BEACON-HILL",
+    "data": {
+        "MARTLESHAM-BEACON-HILL.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-217.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_08_pt1-page-129.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARTLESHAM-BEACON-HILL.csv": [
+            {
+                "start_date": "1951/13",
+                "end_date": "1951/13"
+            }
+        ]
+    }
+}

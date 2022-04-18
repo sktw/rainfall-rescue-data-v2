@@ -1,0 +1,29 @@
+{
+    "name": "KENCOT-RECTORY",
+    "data": {
+        "KENCOT-RECTORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-143.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-146.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-146.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-146.csv",
+            "start_date": "1922/11",
+            "end_date": "1922/13"
+        }
+    ]
+}

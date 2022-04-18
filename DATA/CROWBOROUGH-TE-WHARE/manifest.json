@@ -1,0 +1,64 @@
+{
+    "name": "CROWBOROUGH-TE-WHARE",
+    "data": {
+        "CROWBOROUGH-TE-WHARE.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-221.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-179.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+                "start_date": "1927/04",
+                "end_date": "1927/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+                "start_date": "1927/07",
+                "end_date": "1927/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+                "start_date": "1927/10",
+                "end_date": "1927/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+            "start_date": "1927/03",
+            "end_date": "1927/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+            "start_date": "1927/06",
+            "end_date": "1927/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+            "start_date": "1927/09",
+            "end_date": "1927/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-252.csv",
+            "start_date": "1927/12",
+            "end_date": "1927/13"
+        }
+    ]
+}

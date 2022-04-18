@@ -1,0 +1,29 @@
+{
+    "name": "CRUMMOCK-LAKE",
+    "data": {
+        "CRUMMOCK-LAKE.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-145.csv",
+                "start_date": "1840/01",
+                "end_date": "1844/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-145.csv",
+                "start_date": "1845/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-271.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt1-page-145.csv",
+            "start_date": "1844/13",
+            "end_date": "1844/13"
+        }
+    ]
+}

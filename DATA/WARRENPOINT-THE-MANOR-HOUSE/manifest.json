@@ -1,0 +1,51 @@
+{
+    "name": "WARRENPOINT-THE-MANOR-HOUSE",
+    "data": {
+        "WARRENPOINT-THE-MANOR-HOUSE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_30_pt1-page-116.csv",
+                "start_date": "1912/05",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_30_pt1-page-116.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-113.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "WARRENPOINT-THE-MANOR-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-143.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_30_pt1-page-116.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_30_pt1-page-116.csv",
+                "start_date": "1913/05",
+                "end_date": "1913/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_30_pt1-page-116.csv",
+            "start_date": "1912/04",
+            "end_date": "1912/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_30_pt1-page-116.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

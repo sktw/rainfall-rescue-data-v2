@@ -1,0 +1,41 @@
+{
+    "name": "WEST-TOFTS",
+    "data": {
+        "WEST-TOFTS-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-044.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-044.csv",
+                "start_date": "1960/03",
+                "end_date": "1960/12"
+            }
+        ],
+        "WEST-TOFTS.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-141.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-063.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_09_pt1-page-044.csv",
+            "start_date": "1960/02",
+            "end_date": "1960/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_09_pt1-page-044.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

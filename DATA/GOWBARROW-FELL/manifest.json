@@ -1,0 +1,39 @@
+{
+    "name": "GOWBARROW-FELL",
+    "data": {
+        "GOWBARROW-FELL.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-034.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-040.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/01"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-040.csv",
+                "start_date": "1876/03",
+                "end_date": "1876/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-040.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_09_pt3-page-040.csv",
+            "start_date": "1876/02",
+            "end_date": "1876/02"
+        },
+        {
+            "filename": "TYRain_1870-1879_09_pt3-page-040.csv",
+            "start_date": "1876/13",
+            "end_date": "1876/13"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "EAST-BRIDGFORD",
+    "data": {
+        "EAST-BRIDGFORD-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-124.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-124.csv",
+                "start_date": "1928/02",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-124.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-196.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "EAST-BRIDGFORD.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt1-page-010.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt2-page-005.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_08_pt2-page-005.csv",
+            "start_date": "1880/01",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-124.csv",
+            "start_date": "1928/01",
+            "end_date": "1928/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-124.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-008.csv"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "AUSTWICK-LEIGH-HOUSE",
+    "data": {
+        "AUSTWICK-LEIGH-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-003.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/04"
+            }
+        ],
+        "AUSTWICK-LEIGH-HOUSE-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-003.csv",
+                "start_date": "1933/10",
+                "end_date": "1933/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-003.csv",
+                "start_date": "1939/05",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-003.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-195.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "AUSTWICK-LEIGH-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-009.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-065.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "AUSTWICK-LEIGH-HOUSE-2.csv": [
+            {
+                "start_date": "1933/11",
+                "end_date": "1933/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_18B_pt1-page-003.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

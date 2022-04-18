@@ -1,0 +1,39 @@
+{
+    "name": "TRING-VICARAGE",
+    "data": {
+        "TRING-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-002.csv",
+                "start_date": "1892/05",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-177.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "TRING-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt3-page-056.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-002.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/05"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-002.csv",
+                "start_date": "1892/13",
+                "end_date": "1892/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-002.csv",
+                "start_date": "1897/01",
+                "end_date": "1897/13"
+            }
+        ]
+    }
+}

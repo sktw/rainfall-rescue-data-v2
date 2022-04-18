@@ -1,0 +1,22 @@
+{
+    "name": "FALSTONE-RECTORY",
+    "data": {
+        "FALSTONE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-195.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-166.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-193.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

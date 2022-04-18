@@ -1,0 +1,17 @@
+{
+    "name": "MABLETHORPE",
+    "data": {
+        "MABLETHORPE.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-078.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-157.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            }
+        ]
+    }
+}

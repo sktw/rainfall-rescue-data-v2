@@ -1,0 +1,52 @@
+{
+    "name": "PARKSTONE-ST-OSMUNDS-ROAD",
+    "data": {
+        "PARKSTONE-ST-OSMUNDS-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_10_pt1-page-063.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_10_pt1-page-063.csv",
+                "start_date": "1925/06",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_10_pt1-page-063.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-134.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_12_pt1-page-062.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "PARKSTONE-ST-OSMUNDS-ROAD.csv": [
+            {
+                "start_date": "1926/01",
+                "end_date": "1926/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_10_pt1-page-063.csv",
+            "start_date": "1925/05",
+            "end_date": "1925/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_10_pt1-page-063.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        }
+    ]
+}

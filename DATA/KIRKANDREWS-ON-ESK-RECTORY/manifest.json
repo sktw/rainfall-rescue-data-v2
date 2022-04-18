@@ -1,0 +1,29 @@
+{
+    "name": "KIRKANDREWS-ON-ESK-RECTORY",
+    "data": {
+        "KIRKANDREWS-ON-ESK-RECTORY.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-103.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-039.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/11"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-039.csv",
+                "start_date": "1887/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_12_pt1-page-039.csv",
+            "start_date": "1886/12",
+            "end_date": "1886/13"
+        }
+    ]
+}

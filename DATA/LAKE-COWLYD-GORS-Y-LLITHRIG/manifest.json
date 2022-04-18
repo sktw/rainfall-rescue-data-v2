@@ -1,0 +1,142 @@
+{
+    "name": "LAKE-COWLYD-GORS-Y-LLITHRIG",
+    "data": {
+        "LAKE-COWLYD-GORS-Y-LLITHRIG.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-126.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-193.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-193.csv",
+                "start_date": "1918/12",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-193.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1920/10",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1921/01",
+                "end_date": "1921/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1921/08",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1922/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1927/02",
+                "end_date": "1927/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1927/04",
+                "end_date": "1927/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1927/12",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-064.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-141.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAKE-COWLYD-GORS-Y-LLITHRIG.csv": [
+            {
+                "start_date": "1924/13",
+                "end_date": "1924/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1920/09",
+            "end_date": "1920/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1921/07",
+            "end_date": "1921/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1927/01",
+            "end_date": "1927/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1927/03",
+            "end_date": "1927/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1927/11",
+            "end_date": "1927/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-009.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_24_pt1-page-193.csv",
+            "start_date": "1918/11",
+            "end_date": "1918/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_24_pt1-page-193.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        }
+    ]
+}

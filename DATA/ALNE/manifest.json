@@ -1,0 +1,54 @@
+{
+    "name": "ALNE",
+    "data": {
+        "ALNE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-004.csv",
+                "start_date": "1951/01",
+                "end_date": "1959/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-004.csv",
+                "start_date": "1959/05",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-004.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ALNE.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-082.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-005.csv",
+                "start_date": "1910/01",
+                "end_date": "1915/13"
+            }
+        ]
+    },
+    "idr": {
+        "ALNE.csv": [
+            {
+                "start_date": "1912/03",
+                "end_date": "1912/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-004.csv",
+            "start_date": "1959/03",
+            "end_date": "1959/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-004.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

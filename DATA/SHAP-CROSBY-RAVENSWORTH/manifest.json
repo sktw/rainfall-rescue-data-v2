@@ -1,0 +1,17 @@
+{
+    "name": "SHAP-CROSBY-RAVENSWORTH",
+    "data": {
+        "SHAP-CROSBY-RAVENSWORTH.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-123.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt4-page-054.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

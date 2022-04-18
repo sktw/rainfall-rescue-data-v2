@@ -1,0 +1,25 @@
+{
+    "name": "PRESTEIGN-ST-DAVIDS",
+    "data": {
+        "PRESTEIGN-ST-DAVIDS.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-015.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-011.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "PRESTEIGN-ST-DAVIDS.csv": [
+            {
+                "start_date": "1919/03",
+                "end_date": "1919/03"
+            }
+        ]
+    }
+}

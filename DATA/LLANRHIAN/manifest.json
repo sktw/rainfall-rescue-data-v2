@@ -1,0 +1,24 @@
+{
+    "name": "LLANRHIAN",
+    "data": {
+        "LLANRHIAN-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-131.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LLANRHIAN.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-129.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-033.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

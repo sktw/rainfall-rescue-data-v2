@@ -1,0 +1,30 @@
+{
+    "name": "SOUTH-MOLTON-CASTLE-HILL-SCHOOL",
+    "data": {
+        "SOUTH-MOLTON-CASTLE-HILL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-148.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-155.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-110.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOUTH-MOLTON-CASTLE-HILL-SCHOOL.csv": [
+            {
+                "start_date": "1910/11",
+                "end_date": "1910/11"
+            }
+        ]
+    }
+}

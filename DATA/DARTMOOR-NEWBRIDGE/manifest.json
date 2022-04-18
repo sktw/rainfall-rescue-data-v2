@@ -1,0 +1,210 @@
+{
+    "name": "DARTMOOR-NEWBRIDGE",
+    "data": {
+        "DARTMOOR-NEWBRIDGE.csv": [
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1931/07",
+                "end_date": "1931/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1931/11",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1932/01",
+                "end_date": "1935/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1935/04",
+                "end_date": "1935/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1935/07",
+                "end_date": "1935/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1936/01",
+                "end_date": "1936/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+                "start_date": "1947/04",
+                "end_date": "1947/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+                "start_date": "1948/01",
+                "end_date": "1948/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+                "start_date": "1948/05",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+                "start_date": "1952/09",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+                "start_date": "1953/01",
+                "end_date": "1957/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+                "start_date": "1957/07",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "DARTMOOR-NEWBRIDGE.csv": [
+            {
+                "start_date": "1936/01",
+                "end_date": "1936/03"
+            },
+            {
+                "start_date": "1941/01",
+                "end_date": "1941/02"
+            },
+            {
+                "start_date": "1941/11",
+                "end_date": "1941/12"
+            },
+            {
+                "start_date": "1942/01",
+                "end_date": "1942/02"
+            },
+            {
+                "start_date": "1946/01",
+                "end_date": "1946/02"
+            },
+            {
+                "start_date": "1946/08",
+                "end_date": "1946/09"
+            },
+            {
+                "start_date": "1950/11",
+                "end_date": "1950/12"
+            },
+            {
+                "start_date": "1951/11",
+                "end_date": "1951/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+            "start_date": "1931/06",
+            "end_date": "1931/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+            "start_date": "1931/10",
+            "end_date": "1931/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+            "start_date": "1935/03",
+            "end_date": "1935/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+            "start_date": "1935/06",
+            "end_date": "1935/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+            "start_date": "1935/09",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-246.csv",
+            "start_date": "1936/11",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+            "start_date": "1947/01",
+            "end_date": "1947/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+            "start_date": "1947/12",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+            "start_date": "1948/03",
+            "end_date": "1948/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-035.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+            "start_date": "1952/08",
+            "end_date": "1952/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+            "start_date": "1957/06",
+            "end_date": "1957/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-065.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "BIRMINGHAM-GRAVELLY-HILL",
+    "data": {
+        "BIRMINGHAM-GRAVELLY-HILL-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-163.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-163.csv",
+                "start_date": "1909/02",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-239.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-118.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BIRMINGHAM-GRAVELLY-HILL.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-163.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_16_pt1-page-163.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

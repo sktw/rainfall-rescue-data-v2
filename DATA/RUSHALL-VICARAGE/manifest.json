@@ -1,0 +1,34 @@
+{
+    "name": "RUSHALL-VICARAGE",
+    "data": {
+        "RUSHALL-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-002.csv",
+                "start_date": "1870/01",
+                "end_date": "1874/02"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-002.csv",
+                "start_date": "1874/04",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-003.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-110.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-002.csv",
+            "start_date": "1874/03",
+            "end_date": "1874/03"
+        }
+    ]
+}

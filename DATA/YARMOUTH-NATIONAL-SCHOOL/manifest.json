@@ -1,0 +1,46 @@
+{
+    "name": "YARMOUTH-NATIONAL-SCHOOL",
+    "data": {
+        "YARMOUTH-NATIONAL-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-012.csv",
+                "start_date": "1888/08",
+                "end_date": "1888/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-012.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-014.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-150.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "YARMOUTH-NATIONAL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-012.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_03_pt1-page-012.csv",
+            "start_date": "1888/07",
+            "end_date": "1888/07"
+        },
+        {
+            "filename": "TYRain_1880-1889_03_pt1-page-012.csv",
+            "start_date": "1888/13",
+            "end_date": "1888/13"
+        }
+    ]
+}

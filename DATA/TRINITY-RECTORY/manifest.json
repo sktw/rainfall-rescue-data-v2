@@ -1,0 +1,66 @@
+{
+    "name": "TRINITY-RECTORY",
+    "data": {
+        "TRINITY-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+                "start_date": "1924/10",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+                "start_date": "1925/01",
+                "end_date": "1929/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+                "start_date": "1929/10",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-179.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "TRINITY-RECTORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-029.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+            "start_date": "1924/09",
+            "end_date": "1924/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+            "start_date": "1929/09",
+            "end_date": "1929/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-137.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        }
+    ]
+}

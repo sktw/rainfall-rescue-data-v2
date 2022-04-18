@@ -1,0 +1,12 @@
+{
+    "name": "BRECKNOCK-THE-BARRACKS",
+    "data": {
+        "BRECKNOCK-THE-BARRACKS.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-210.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

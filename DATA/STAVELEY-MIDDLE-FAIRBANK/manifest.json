@@ -1,0 +1,32 @@
+{
+    "name": "STAVELEY-MIDDLE-FAIRBANK",
+    "data": {
+        "STAVELEY-MIDDLE-FAIRBANK-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-183.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "STAVELEY-MIDDLE-FAIRBANK.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-086.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt4-page-017.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "STAVELEY-MIDDLE-FAIRBANK.csv": [
+            {
+                "start_date": "1870/13",
+                "end_date": "1870/13"
+            }
+        ]
+    }
+}

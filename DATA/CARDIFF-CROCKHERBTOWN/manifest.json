@@ -1,0 +1,51 @@
+{
+    "name": "CARDIFF-CROCKHERBTOWN",
+    "data": {
+        "CARDIFF-CROCKHERBTOWN-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-049.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "CARDIFF-CROCKHERBTOWN-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-045.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-060.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-056.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CARDIFF-CROCKHERBTOWN.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-009.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-011.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-048.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "LOCH-EIL-CONAGLEN",
+    "data": {
+        "LOCH-EIL-CONAGLEN-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-083.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-181.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-EIL-CONAGLEN.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-045.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_24_pt1-page-147.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

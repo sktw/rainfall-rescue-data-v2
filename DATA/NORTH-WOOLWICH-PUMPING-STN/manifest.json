@@ -1,0 +1,40 @@
+{
+    "name": "NORTH-WOOLWICH-PUMPING-STN",
+    "data": {
+        "NORTH-WOOLWICH-PUMPING-STN.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-134.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-129.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_01_pt1-page-098.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_01_pt1-page-067.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_01_pt1-page-051.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "NORTH-WOOLWICH-PUMPING-STN.csv": [
+            {
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            }
+        ]
+    }
+}

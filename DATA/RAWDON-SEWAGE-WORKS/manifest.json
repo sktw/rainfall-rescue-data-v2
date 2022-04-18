@@ -1,0 +1,59 @@
+{
+    "name": "RAWDON-SEWAGE-WORKS",
+    "data": {
+        "RAWDON-SEWAGE-WORKS.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_21_pt1-page-281.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_21_pt1-page-281.csv",
+                "start_date": "1944/05",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_21_pt1-page-281.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-062.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-062.csv",
+                "start_date": "1952/02",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-062.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_21_pt1-page-281.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_21_pt1-page-281.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-062.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-062.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        }
+    ]
+}

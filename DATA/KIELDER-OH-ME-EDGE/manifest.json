@@ -1,0 +1,69 @@
+{
+    "name": "KIELDER-OH-ME-EDGE",
+    "data": {
+        "KIELDER-OH-ME-EDGE.csv": [
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-108.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+                "start_date": "1953/05",
+                "end_date": "1953/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+                "start_date": "1953/08",
+                "end_date": "1953/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+                "start_date": "1953/11",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+                "start_date": "1954/02",
+                "end_date": "1954/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+            "start_date": "1953/02",
+            "end_date": "1953/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+            "start_date": "1953/07",
+            "end_date": "1953/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+            "start_date": "1953/10",
+            "end_date": "1953/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+            "start_date": "1953/13",
+            "end_date": "1954/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-231.csv",
+            "start_date": "1954/11",
+            "end_date": "1954/13"
+        }
+    ]
+}

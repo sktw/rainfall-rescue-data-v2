@@ -1,0 +1,29 @@
+{
+    "name": "BOLTON-BY-BOWLAND-BOLTON-HALL",
+    "data": {
+        "BOLTON-BY-BOWLAND-BOLTON-HALL-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-210.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-210.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-017.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BOLTON-BY-BOWLAND-BOLTON-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-210.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/13"
+            }
+        ]
+    }
+}

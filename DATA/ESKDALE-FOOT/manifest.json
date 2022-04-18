@@ -1,0 +1,24 @@
+{
+    "name": "ESKDALE-FOOT",
+    "data": {
+        "ESKDALE-FOOT.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-122.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "ESKDALE-FOOT.csv": [
+            {
+                "start_date": "1846/08",
+                "end_date": "1846/08"
+            },
+            {
+                "start_date": "1848/10",
+                "end_date": "1848/10"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "WINKLEIGH-PLACES",
+    "data": {
+        "WINKLEIGH-PLACES.csv": [
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-038.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-071.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

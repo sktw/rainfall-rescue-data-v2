@@ -1,0 +1,44 @@
+{
+    "name": "WYE-BILTING-HOUSE",
+    "data": {
+        "WYE-BILTING-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-048.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-116.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-041.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-041.csv",
+                "start_date": "1914/07",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-041.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_03_pt1-page-041.csv",
+            "start_date": "1914/06",
+            "end_date": "1914/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_03_pt1-page-041.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        }
+    ]
+}

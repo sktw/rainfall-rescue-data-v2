@@ -1,0 +1,303 @@
+{
+    "name": "BLACK-MOUNTAINS-PEN-Y-MANLLWYN",
+    "data": {
+        "BLACK-MOUNTAINS-PEN-Y-MANLLWYN-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1911/10",
+                "end_date": "1913/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1914/04",
+                "end_date": "1914/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1914/08",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1915/03",
+                "end_date": "1915/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1915/06",
+                "end_date": "1915/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1916/01",
+                "end_date": "1916/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1916/04",
+                "end_date": "1916/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1916/10",
+                "end_date": "1916/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1916/12",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-PEN-Y-MANLLWYN-FEWMONTHSONLY.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-267.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-267.csv",
+                "start_date": "1912/05",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-PEN-Y-MANLLWYN-FEWMONTHSONLY2.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-268.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-268.csv",
+                "start_date": "1912/05",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLACK-MOUNTAINS-PEN-Y-MANLLWYN.csv": [
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-071.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1911/04",
+                "end_date": "1911/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1912/04",
+                "end_date": "1912/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1912/09",
+                "end_date": "1912/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1913/01",
+                "end_date": "1913/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1913/04",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1914/04",
+                "end_date": "1914/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1915/04",
+                "end_date": "1915/04"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1915/06",
+                "end_date": "1915/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1916/01",
+                "end_date": "1916/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1916/04",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1917/02",
+                "end_date": "1917/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1917/05",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-274.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ]
+    },
+    "idr": {
+        "BLACK-MOUNTAINS-PEN-Y-MANLLWYN-2.csv": [
+            {
+                "start_date": "1913/13",
+                "end_date": "1913/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1911/09",
+            "end_date": "1911/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1914/01",
+            "end_date": "1914/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1914/07",
+            "end_date": "1914/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1914/13",
+            "end_date": "1915/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1915/05",
+            "end_date": "1915/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1915/11",
+            "end_date": "1915/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1916/02",
+            "end_date": "1916/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1916/09",
+            "end_date": "1916/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1916/11",
+            "end_date": "1916/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_23_pt1-page-259.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1911/02",
+            "end_date": "1911/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1911/12",
+            "end_date": "1912/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1912/08",
+            "end_date": "1912/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1912/11",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1913/03",
+            "end_date": "1913/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1913/13",
+            "end_date": "1914/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1914/12",
+            "end_date": "1915/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1915/05",
+            "end_date": "1915/05"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1915/13",
+            "end_date": "1915/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1916/02",
+            "end_date": "1916/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1916/13",
+            "end_date": "1917/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1917/03",
+            "end_date": "1917/04"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-258.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-267.csv",
+            "start_date": "1912/04",
+            "end_date": "1912/04"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-268.csv",
+            "start_date": "1912/04",
+            "end_date": "1912/04"
+        }
+    ]
+}

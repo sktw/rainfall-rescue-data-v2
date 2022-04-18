@@ -1,0 +1,22 @@
+{
+    "name": "ASHBURTON-CATOR-COURT",
+    "data": {
+        "ASHBURTON-CATOR-COURT.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-056.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-057.csv",
+                "start_date": "1878/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-045.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

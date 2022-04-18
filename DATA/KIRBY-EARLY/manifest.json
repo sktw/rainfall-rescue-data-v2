@@ -1,0 +1,20 @@
+{
+    "name": "KIRBY-EARLY",
+    "data": {
+        "KIRBY-EARLY.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-018.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "KIRBY-EARLY.csv": [
+            {
+                "start_date": "1842/13",
+                "end_date": "1842/13"
+            }
+        ]
+    }
+}

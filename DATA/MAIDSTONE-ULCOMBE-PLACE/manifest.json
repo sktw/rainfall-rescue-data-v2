@@ -1,0 +1,39 @@
+{
+    "name": "MAIDSTONE-ULCOMBE-PLACE",
+    "data": {
+        "MAIDSTONE-ULCOMBE-PLACE.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-175.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/05"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-175.csv",
+                "start_date": "1909/07",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-182.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-173.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_03_pt1-page-175.csv",
+            "start_date": "1909/06",
+            "end_date": "1909/06"
+        },
+        {
+            "filename": "TYRain_1900-1909_03_pt1-page-175.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

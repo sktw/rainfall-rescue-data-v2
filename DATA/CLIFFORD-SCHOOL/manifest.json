@@ -1,0 +1,86 @@
+{
+    "name": "CLIFFORD-SCHOOL",
+    "data": {
+        "CLIFFORD-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-210.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-037.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+                "start_date": "1953/05",
+                "end_date": "1953/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+                "start_date": "1953/10",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+                "start_date": "1954/01",
+                "end_date": "1956/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+                "start_date": "1956/08",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CLIFFORD-SCHOOL.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            },
+            {
+                "start_date": "1956/05",
+                "end_date": "1956/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+            "start_date": "1953/04",
+            "end_date": "1953/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+            "start_date": "1953/06",
+            "end_date": "1953/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+            "start_date": "1956/07",
+            "end_date": "1956/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_13_pt1-page-131.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

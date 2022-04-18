@@ -1,0 +1,49 @@
+{
+    "name": "CREWKERNE-MEREFIELD-HOUSE",
+    "data": {
+        "CREWKERNE-MEREFIELD-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-146.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-006.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CREWKERNE-MEREFIELD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-099.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-147.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-147.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-147.csv",
+            "start_date": "1914/04",
+            "end_date": "1914/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-147.csv",
+            "start_date": "1914/12",
+            "end_date": "1914/12"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-007.csv"
+        }
+    ]
+}

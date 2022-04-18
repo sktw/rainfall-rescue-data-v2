@@ -1,0 +1,44 @@
+{
+    "name": "IPSWICH-DALEACRE",
+    "data": {
+        "IPSWICH-DALEACRE.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-046.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-215.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-215.csv",
+                "start_date": "1947/10",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-215.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-128.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-215.csv",
+            "start_date": "1947/09",
+            "end_date": "1947/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-215.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

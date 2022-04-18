@@ -1,0 +1,22 @@
+{
+    "name": "HASSOCKS-WILMINGTON-LODGE",
+    "data": {
+        "HASSOCKS-WILMINGTON-LODGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-114.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-159.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-111.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "BRISTOL-TYNDALLS-PARK",
+    "data": {
+        "BRISTOL-TYNDALLS-PARK-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-215.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-215.csv",
+                "start_date": "1929/07",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-215.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-134.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BRISTOL-TYNDALLS-PARK.csv": [
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-215.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/05"
+            }
+        ]
+    },
+    "idr": {
+        "BRISTOL-TYNDALLS-PARK-2.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-215.csv",
+            "start_date": "1929/06",
+            "end_date": "1929/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-215.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        }
+    ]
+}

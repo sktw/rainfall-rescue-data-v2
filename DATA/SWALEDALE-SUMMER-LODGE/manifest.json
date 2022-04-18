@@ -1,0 +1,34 @@
+{
+    "name": "SWALEDALE-SUMMER-LODGE",
+    "data": {
+        "SWALEDALE-SUMMER-LODGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-038.csv",
+                "start_date": "1875/02",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-038.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-035.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_08_pt3-page-038.csv",
+            "start_date": "1875/01",
+            "end_date": "1875/01"
+        },
+        {
+            "filename": "TYRain_1870-1879_08_pt3-page-038.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        }
+    ]
+}

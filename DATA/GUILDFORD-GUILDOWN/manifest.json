@@ -1,0 +1,53 @@
+{
+    "name": "GUILDFORD-GUILDOWN",
+    "data": {
+        "GUILDFORD-GUILDOWN-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-171.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-215.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "GUILDFORD-GUILDOWN-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-126.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "GUILDFORD-GUILDOWN.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-099.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-099.csv",
+                "start_date": "1871/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-125.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-171.csv",
+                "start_date": "1890/01",
+                "end_date": "1895/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_01_pt2-page-099.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        }
+    ]
+}

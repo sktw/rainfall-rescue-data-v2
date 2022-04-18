@@ -1,0 +1,29 @@
+{
+    "name": "SCOTS-GAP-ROTHLEY-LAKE",
+    "data": {
+        "SCOTS-GAP-ROTHLEY-LAKE.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-127.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-127.csv",
+                "start_date": "1892/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-032.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_18_pt1-page-127.csv",
+            "start_date": "1891/13",
+            "end_date": "1891/13"
+        }
+    ]
+}

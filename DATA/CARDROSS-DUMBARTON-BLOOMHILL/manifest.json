@@ -1,0 +1,20 @@
+{
+    "name": "CARDROSS-DUMBARTON-BLOOMHILL",
+    "data": {
+        "CARDROSS-DUMBARTON-BLOOMHILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_07_pt2-page-024.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "CARDROSS-DUMBARTON-BLOOMHILL.csv": [
+            {
+                "start_date": "1869/10",
+                "end_date": "1869/10"
+            }
+        ]
+    }
+}

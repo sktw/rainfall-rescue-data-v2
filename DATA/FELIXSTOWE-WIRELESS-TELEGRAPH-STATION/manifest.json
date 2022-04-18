@@ -1,0 +1,34 @@
+{
+    "name": "FELIXSTOWE-WIRELESS-TELEGRAPH-STATION",
+    "data": {
+        "FELIXSTOWE-WIRELESS-TELEGRAPH-STATION.csv": [
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-199.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-199.csv",
+                "start_date": "1908/04",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-214.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-033.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_09_pt1-page-199.csv",
+            "start_date": "1908/01",
+            "end_date": "1908/03"
+        }
+    ]
+}

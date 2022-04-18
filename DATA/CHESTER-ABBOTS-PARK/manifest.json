@@ -1,0 +1,71 @@
+{
+    "name": "CHESTER-ABBOTS-PARK",
+    "data": {
+        "CHESTER-ABBOTS-PARK-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+                "start_date": "1913/02",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+                "start_date": "1914/01",
+                "end_date": "1916/04"
+            }
+        ],
+        "CHESTER-ABBOTS-PARK.csv": [
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+                "start_date": "1916/05",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-085.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-085.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+            "start_date": "1913/01",
+            "end_date": "1913/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-183.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_19_pt1-page-085.csv",
+            "start_date": "1927/11",
+            "end_date": "1927/13"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "BEDFORD-RESERVOIR",
+    "data": {
+        "BEDFORD-RESERVOIR-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-045.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BEDFORD-RESERVOIR.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-044.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

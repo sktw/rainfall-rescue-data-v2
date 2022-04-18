@@ -1,0 +1,43 @@
+{
+    "name": "LLANERCH-ST-ASAPH",
+    "data": {
+        "LLANERCH-ST-ASAPH-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-065.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "LLANERCH-ST-ASAPH-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-066.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "LLANERCH-ST-ASAPH-4.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-299.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-051.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "LLANERCH-ST-ASAPH.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-089.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-064.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

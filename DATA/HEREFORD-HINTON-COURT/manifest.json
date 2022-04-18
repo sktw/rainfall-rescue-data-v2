@@ -1,0 +1,49 @@
+{
+    "name": "HEREFORD-HINTON-COURT",
+    "data": {
+        "HEREFORD-HINTON-COURT.csv": [
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-019.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-019.csv",
+                "start_date": "1901/01",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-019.csv",
+                "start_date": "1902/01",
+                "end_date": "1902/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-019.csv",
+                "start_date": "1903/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-176.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_15_pt1-page-019.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_15_pt1-page-019.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_15_pt1-page-019.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        }
+    ]
+}

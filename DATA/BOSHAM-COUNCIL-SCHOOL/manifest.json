@@ -1,0 +1,51 @@
+{
+    "name": "BOSHAM-COUNCIL-SCHOOL",
+    "data": {
+        "BOSHAM-COUNCIL-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-044.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-012.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-012.csv",
+                "start_date": "1943/03",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-012.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BOSHAM-COUNCIL-SCHOOL.csv": [
+            {
+                "start_date": "1934/01",
+                "end_date": "1934/01"
+            },
+            {
+                "start_date": "1934/13",
+                "end_date": "1934/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-012.csv",
+            "start_date": "1943/01",
+            "end_date": "1943/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-012.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

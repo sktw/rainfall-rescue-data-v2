@@ -1,0 +1,22 @@
+{
+    "name": "WINDERMERE-FELLFOOT",
+    "data": {
+        "WINDERMERE-FELLFOOT.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-211.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-212.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-128.csv"
+        }
+    ]
+}

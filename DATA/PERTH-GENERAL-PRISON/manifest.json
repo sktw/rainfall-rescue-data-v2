@@ -1,0 +1,17 @@
+{
+    "name": "PERTH-GENERAL-PRISON",
+    "data": {
+        "PERTH-GENERAL-PRISON.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-059.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-157.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

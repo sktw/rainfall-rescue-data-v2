@@ -1,0 +1,29 @@
+{
+    "name": "CHALFONT-ST-GILES-THE-STONE",
+    "data": {
+        "CHALFONT-ST-GILES-THE-STONE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_07_pt1-page-042.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-104.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CHALFONT-ST-GILES-THE-STONE.csv": [
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-041.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-105.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

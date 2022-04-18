@@ -1,0 +1,44 @@
+{
+    "name": "CHESTERFIELD-BRIMINGTON-HALL",
+    "data": {
+        "CHESTERFIELD-BRIMINGTON-HALL.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt3-page-059.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt3-page-059.csv",
+                "start_date": "1889/02",
+                "end_date": "1889/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt3-page-059.csv",
+                "start_date": "1889/06",
+                "end_date": "1889/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-155.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_08_pt3-page-059.csv",
+            "start_date": "1889/01",
+            "end_date": "1889/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_08_pt3-page-059.csv",
+            "start_date": "1889/04",
+            "end_date": "1889/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_08_pt3-page-059.csv",
+            "start_date": "1889/13",
+            "end_date": "1889/13"
+        }
+    ]
+}

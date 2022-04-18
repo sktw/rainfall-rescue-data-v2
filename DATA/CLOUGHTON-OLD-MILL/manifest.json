@@ -1,0 +1,34 @@
+{
+    "name": "CLOUGHTON-OLD-MILL",
+    "data": {
+        "CLOUGHTON-OLD-MILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-048.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-048.csv",
+                "start_date": "1956/02",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-048.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_22_pt1-page-048.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_22_pt1-page-048.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

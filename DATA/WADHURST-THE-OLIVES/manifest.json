@@ -1,0 +1,22 @@
+{
+    "name": "WADHURST-THE-OLIVES",
+    "data": {
+        "WADHURST-THE-OLIVES.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-185.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-172.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-239.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

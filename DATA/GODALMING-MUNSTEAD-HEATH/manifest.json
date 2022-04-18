@@ -1,0 +1,89 @@
+{
+    "name": "GODALMING-MUNSTEAD-HEATH",
+    "data": {
+        "GODALMING-MUNSTEAD-HEATH-2.csv": [
+            {
+                "filename": "MISFILED_TYRain_1910-1919_2A_pt1-page-256.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-234.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-181.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-181.csv",
+                "start_date": "1943/09",
+                "end_date": "1943/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-181.csv",
+                "start_date": "1943/11",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-181.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-208.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GODALMING-MUNSTEAD-HEATH.csv": [
+            {
+                "filename": "MISFILED_TYRain_1910-1919_2A_pt1-page-256.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "MISFILED_TYRain_1910-1919_2A_pt1-page-256.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "GODALMING-MUNSTEAD-HEATH-2.csv": [
+            {
+                "start_date": "1927/01",
+                "end_date": "1928/13"
+            },
+            {
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "GODALMING-MUNSTEAD-HEATH.csv": [
+            {
+                "start_date": "1923/01",
+                "end_date": "1926/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-181.csv",
+            "start_date": "1943/08",
+            "end_date": "1943/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-181.csv",
+            "start_date": "1943/10",
+            "end_date": "1943/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-181.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

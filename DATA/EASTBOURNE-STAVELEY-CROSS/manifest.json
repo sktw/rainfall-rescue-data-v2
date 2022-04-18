@@ -1,0 +1,39 @@
+{
+    "name": "EASTBOURNE-STAVELEY-CROSS",
+    "data": {
+        "EASTBOURNE-STAVELEY-CROSS.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-152.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/06"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-152.csv",
+                "start_date": "1901/08",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-152.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-242.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_04_pt1-page-152.csv",
+            "start_date": "1901/07",
+            "end_date": "1901/07"
+        },
+        {
+            "filename": "TYRain_1900-1909_04_pt1-page-152.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        }
+    ]
+}

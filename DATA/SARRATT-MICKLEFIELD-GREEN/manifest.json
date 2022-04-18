@@ -1,0 +1,99 @@
+{
+    "name": "SARRATT-MICKLEFIELD-GREEN",
+    "data": {
+        "SARRATT-MICKLEFIELD-GREEN.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-255.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-255.csv",
+                "start_date": "1927/07",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-255.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-253.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+                "start_date": "1943/03",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+                "start_date": "1944/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+                "start_date": "1947/07",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+                "start_date": "1950/03",
+                "end_date": "1950/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-255.csv",
+            "start_date": "1927/05",
+            "end_date": "1927/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-255.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+            "start_date": "1943/02",
+            "end_date": "1943/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+            "start_date": "1950/02",
+            "end_date": "1950/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-116.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

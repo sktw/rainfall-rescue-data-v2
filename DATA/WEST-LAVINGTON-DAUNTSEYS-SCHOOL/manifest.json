@@ -1,0 +1,67 @@
+{
+    "name": "WEST-LAVINGTON-DAUNTSEYS-SCHOOL",
+    "data": {
+        "WEST-LAVINGTON-DAUNTSEYS-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-157.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-269.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_11_pt1-page-129.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_11_pt1-page-129.csv",
+                "start_date": "1942/01",
+                "end_date": "1943/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_11_pt1-page-129.csv",
+                "start_date": "1943/09",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_11_pt1-page-129.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-088.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEST-LAVINGTON-DAUNTSEYS-SCHOOL.csv": [
+            {
+                "start_date": "1949/13",
+                "end_date": "1949/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_11_pt1-page-129.csv",
+            "start_date": "1941/12",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_11_pt1-page-129.csv",
+            "start_date": "1943/08",
+            "end_date": "1943/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_11_pt1-page-129.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

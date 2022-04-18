@@ -1,0 +1,76 @@
+{
+    "name": "EPSOM-COLLEGE",
+    "data": {
+        "EPSOM-COLLEGE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-137.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-139.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-139.csv",
+                "start_date": "1938/10",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-139.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-104.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-104.csv",
+                "start_date": "1950/10",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-155.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "EPSOM-COLLEGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-081.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-099.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-139.csv",
+            "start_date": "1938/07",
+            "end_date": "1938/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-139.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-104.csv",
+            "start_date": "1950/08",
+            "end_date": "1950/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-104.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

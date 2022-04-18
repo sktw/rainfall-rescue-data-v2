@@ -1,0 +1,17 @@
+{
+    "name": "BOWNESS-THE-CRAIG",
+    "data": {
+        "BOWNESS-THE-CRAIG.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt2-page-007.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-301.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    }
+}

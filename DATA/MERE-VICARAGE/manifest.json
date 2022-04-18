@@ -1,0 +1,36 @@
+{
+    "name": "MERE-VICARAGE",
+    "data": {
+        "MERE-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-164.csv",
+                "start_date": "1909/05",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-193.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "MERE-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-029.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-164.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_10_pt1-page-164.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

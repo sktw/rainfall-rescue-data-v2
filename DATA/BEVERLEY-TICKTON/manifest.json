@@ -1,0 +1,17 @@
+{
+    "name": "BEVERLEY-TICKTON",
+    "data": {
+        "BEVERLEY-TICKTON.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-014.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt1-page-021.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/13"
+            }
+        ]
+    }
+}

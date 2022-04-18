@@ -1,0 +1,19 @@
+{
+    "name": "GUISBOROUGH-SKELTON-RES",
+    "data": {
+        "GUISBOROUGH-SKELTON-RES-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-062.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "GUISBOROUGH-SKELTON-RES.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-061.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "COTTINGHAM-GRANGE",
+    "data": {
+        "COTTINGHAM-GRANGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_17_pt1-page-133.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/12"
+            }
+        ],
+        "COTTINGHAM-GRANGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-132.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_17_pt1-page-133.csv",
+            "start_date": "1899/13",
+            "end_date": "1899/13"
+        }
+    ]
+}

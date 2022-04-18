@@ -1,0 +1,39 @@
+{
+    "name": "DUNBAR-BELHAVEN-HILL",
+    "data": {
+        "DUNBAR-BELHAVEN-HILL.csv": [
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-171.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-171.csv",
+                "start_date": "1924/02",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-171.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_24_pt1-page-057.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_29_pt1-page-171.csv",
+            "start_date": "1924/01",
+            "end_date": "1924/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_29_pt1-page-171.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

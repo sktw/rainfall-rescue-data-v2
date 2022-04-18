@@ -1,0 +1,22 @@
+{
+    "name": "KIRKLISTON-NEWLISTON",
+    "data": {
+        "KIRKLISTON-NEWLISTON.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-113.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-008.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_30_pt1-page-077.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

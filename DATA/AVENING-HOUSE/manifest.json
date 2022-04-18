@@ -1,0 +1,64 @@
+{
+    "name": "AVENING-HOUSE",
+    "data": {
+        "AVENING-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-189.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-033.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-033.csv",
+                "start_date": "1919/03",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-154.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-154.csv",
+                "start_date": "1923/02",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-154.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-074.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_14_pt1-page-033.csv",
+            "start_date": "1919/02",
+            "end_date": "1919/02"
+        },
+        {
+            "filename": "TYRain_1910-1919_14_pt1-page-033.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-154.csv",
+            "start_date": "1923/01",
+            "end_date": "1923/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-154.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        }
+    ]
+}

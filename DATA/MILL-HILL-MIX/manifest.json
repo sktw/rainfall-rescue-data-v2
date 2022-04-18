@@ -1,0 +1,119 @@
+{
+    "name": "MILL-HILL-MIX",
+    "data": {
+        "MILL-HILL-MIX-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+                "start_date": "1920/02",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+                "start_date": "1921/01",
+                "end_date": "1922/02"
+            }
+        ],
+        "MILL-HILL-MIX-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-175.csv",
+                "start_date": "1913/10",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-175.csv",
+                "start_date": "1914/01",
+                "end_date": "1914/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+                "start_date": "1922/04",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-185.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "MILL-HILL-MIX-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-140.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-175.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/08"
+            }
+        ],
+        "MILL-HILL-MIX-5.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-141.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-176.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "MILL-HILL-MIX-6.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-175.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-188.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "MILL-HILL-MIX.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-174.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_06_pt1-page-175.csv",
+            "start_date": "1913/09",
+            "end_date": "1913/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_06_pt1-page-175.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+            "start_date": "1922/03",
+            "end_date": "1922/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-185.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

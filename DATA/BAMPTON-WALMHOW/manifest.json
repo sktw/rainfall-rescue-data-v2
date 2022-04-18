@@ -1,0 +1,25 @@
+{
+    "name": "BAMPTON-WALMHOW",
+    "data": {
+        "BAMPTON-WALMHOW.csv": [
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-119.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-037.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "BAMPTON-WALMHOW.csv": [
+            {
+                "start_date": "1939/02",
+                "end_date": "1939/02"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "MICKLETON-BANK-HOUSE",
+    "data": {
+        "MICKLETON-BANK-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-201.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-201.csv",
+                "start_date": "1905/13",
+                "end_date": "1905/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-201.csv",
+                "start_date": "1907/12",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-201.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-090.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_13_pt1-page-211.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "MICKLETON-BANK-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-201.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/10"
+            }
+        ]
+    },
+    "idr": {
+        "MICKLETON-BANK-HOUSE-2.csv": [
+            {
+                "start_date": "1920/03",
+                "end_date": "1920/03"
+            },
+            {
+                "start_date": "1928/13",
+                "end_date": "1928/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-201.csv",
+            "start_date": "1907/11",
+            "end_date": "1907/11"
+        },
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-201.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
+}

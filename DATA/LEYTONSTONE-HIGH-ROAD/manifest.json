@@ -1,0 +1,34 @@
+{
+    "name": "LEYTONSTONE-HIGH-ROAD",
+    "data": {
+        "LEYTONSTONE-HIGH-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-005.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-134.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-137.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-137.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-137.csv",
+            "start_date": "1939/11",
+            "end_date": "1939/13"
+        }
+    ]
+}

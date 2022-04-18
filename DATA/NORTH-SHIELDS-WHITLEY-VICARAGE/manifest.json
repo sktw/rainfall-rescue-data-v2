@@ -1,0 +1,36 @@
+{
+    "name": "NORTH-SHIELDS-WHITLEY-VICARAGE",
+    "data": {
+        "NORTH-SHIELDS-WHITLEY-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/11"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-026.csv",
+                "start_date": "1870/13",
+                "end_date": "1879/13"
+            }
+        ],
+        "NORTH-SHIELDS-WHITLEY-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-055.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-025.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_09_pt2-page-026.csv",
+            "start_date": "1870/12",
+            "end_date": "1870/12"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "name": "BROMLEY-SUNDRIDGE-AVENUE",
+    "data": {
+        "BROMLEY-SUNDRIDGE-AVENUE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-178.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "BROMLEY-SUNDRIDGE-AVENUE-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-252.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-252.csv",
+                "start_date": "1921/09",
+                "end_date": "1921/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-252.csv",
+                "start_date": "1929/07",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-252.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-331.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-200.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "BROMLEY-SUNDRIDGE-AVENUE.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-252.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/05"
+            }
+        ]
+    },
+    "idr": {
+        "BROMLEY-SUNDRIDGE-AVENUE-3.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ],
+        "BROMLEY-SUNDRIDGE-AVENUE.csv": [
+            {
+                "start_date": "1921/10",
+                "end_date": "1921/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-252.csv",
+            "start_date": "1929/06",
+            "end_date": "1929/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-252.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        }
+    ]
+}

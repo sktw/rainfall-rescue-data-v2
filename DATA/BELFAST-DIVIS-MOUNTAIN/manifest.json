@@ -1,0 +1,19 @@
+{
+    "name": "BELFAST-DIVIS-MOUNTAIN",
+    "data": {
+        "BELFAST-DIVIS-MOUNTAIN-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-237.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BELFAST-DIVIS-MOUNTAIN.csv": [
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-238.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

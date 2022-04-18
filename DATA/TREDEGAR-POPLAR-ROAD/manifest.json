@@ -1,0 +1,25 @@
+{
+    "name": "TREDEGAR-POPLAR-ROAD",
+    "data": {
+        "TREDEGAR-POPLAR-ROAD.csv": [
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-123.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-010.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "TREDEGAR-POPLAR-ROAD.csv": [
+            {
+                "start_date": "1941/13",
+                "end_date": "1941/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "SEEND-FERRUM-TOWERS",
+    "data": {
+        "SEEND-FERRUM-TOWERS.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-173.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-267.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-281.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-138.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-138.csv",
+                "start_date": "1943/05",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-138.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_11_pt1-page-138.csv",
+            "start_date": "1943/04",
+            "end_date": "1943/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_11_pt1-page-138.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

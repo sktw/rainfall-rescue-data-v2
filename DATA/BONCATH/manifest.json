@@ -1,0 +1,61 @@
+{
+    "name": "BONCATH",
+    "data": {
+        "BONCATH-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-122.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BONCATH.csv": [
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+                "start_date": "1920/04",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+                "start_date": "1921/01",
+                "end_date": "1924/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+                "start_date": "1924/10",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+            "start_date": "1920/03",
+            "end_date": "1920/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+            "start_date": "1924/09",
+            "end_date": "1924/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-124.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

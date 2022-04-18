@@ -1,0 +1,37 @@
+{
+    "name": "NEWNHAM-ON-SEVERN",
+    "data": {
+        "NEWNHAM-ON-SEVERN.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-006.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-137.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/12"
+            }
+        ]
+    },
+    "idr": {
+        "NEWNHAM-ON-SEVERN.csv": [
+            {
+                "start_date": "1895/03",
+                "end_date": "1895/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-137.csv",
+            "start_date": "1899/13",
+            "end_date": "1899/13"
+        }
+    ]
+}

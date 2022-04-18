@@ -1,0 +1,37 @@
+{
+    "name": "TREBOROUGH-SMINHAYS-FARM",
+    "data": {
+        "TREBOROUGH-SMINHAYS-FARM.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-186.csv",
+                "start_date": "1951/06",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-186.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "TREBOROUGH-SMINHAYS-FARM.csv": [
+            {
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_12_pt1-page-186.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_12_pt1-page-186.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "HUNGERFORD-KINTBURY",
+    "data": {
+        "HUNGERFORD-KINTBURY.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-185.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-032.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

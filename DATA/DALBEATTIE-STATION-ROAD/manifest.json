@@ -1,0 +1,25 @@
+{
+    "name": "DALBEATTIE-STATION-ROAD",
+    "data": {
+        "DALBEATTIE-STATION-ROAD.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-023.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_23_pt1-page-027.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "DALBEATTIE-STATION-ROAD.csv": [
+            {
+                "start_date": "1895/13",
+                "end_date": "1895/13"
+            }
+        ]
+    }
+}

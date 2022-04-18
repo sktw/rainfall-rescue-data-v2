@@ -1,0 +1,17 @@
+{
+    "name": "RYDAL",
+    "data": {
+        "RYDAL.csv": [
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-242.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-154.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

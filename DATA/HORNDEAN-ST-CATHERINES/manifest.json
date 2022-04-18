@@ -1,0 +1,22 @@
+{
+    "name": "HORNDEAN-ST-CATHERINES",
+    "data": {
+        "HORNDEAN-ST-CATHERINES.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-048.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-071.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-072.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

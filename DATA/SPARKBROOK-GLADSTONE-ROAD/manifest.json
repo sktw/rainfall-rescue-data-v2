@@ -1,0 +1,38 @@
+{
+    "name": "SPARKBROOK-GLADSTONE-ROAD",
+    "data": {
+        "SPARKBROOK-GLADSTONE-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_13_pt1-page-046.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "SPARKBROOK-GLADSTONE-ROAD.csv": [
+            {
+                "start_date": "1890/09",
+                "end_date": "1890/09"
+            },
+            {
+                "start_date": "1892/03",
+                "end_date": "1892/03"
+            },
+            {
+                "start_date": "1899/09",
+                "end_date": "1899/09"
+            }
+        ]
+    },
+    "external": {
+        "SPARKBROOK-GLADSTONE-ROAD.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-046.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1900/01",
+                "end_date": "1900/06"
+            }
+        ]
+    }
+}

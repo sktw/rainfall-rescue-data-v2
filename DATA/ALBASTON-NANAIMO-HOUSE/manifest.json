@@ -1,0 +1,69 @@
+{
+    "name": "ALBASTON-NANAIMO-HOUSE",
+    "data": {
+        "ALBASTON-NANAIMO-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-277.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-277.csv",
+                "start_date": "1913/04",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-277.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-121.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-121.csv",
+                "start_date": "1922/02",
+                "end_date": "1922/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-121.csv",
+                "start_date": "1922/05",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-121.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-277.csv",
+            "start_date": "1913/01",
+            "end_date": "1913/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-277.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-121.csv",
+            "start_date": "1922/01",
+            "end_date": "1922/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-121.csv",
+            "start_date": "1922/04",
+            "end_date": "1922/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-121.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

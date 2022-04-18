@@ -1,0 +1,25 @@
+{
+    "name": "HARROW-ON-THE-HILL",
+    "data": {
+        "HARROW-ON-THE-HILL.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-089.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt1-page-069.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "HARROW-ON-THE-HILL.csv": [
+            {
+                "start_date": "1870/04",
+                "end_date": "1870/04"
+            }
+        ]
+    }
+}

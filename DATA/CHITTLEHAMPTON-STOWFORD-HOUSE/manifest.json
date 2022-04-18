@@ -1,0 +1,31 @@
+{
+    "name": "CHITTLEHAMPTON-STOWFORD-HOUSE",
+    "data": {
+        "CHITTLEHAMPTON-STOWFORD-HOUSE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_15_pt1-page-017.csv",
+                "start_date": "1950/10",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-049.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CHITTLEHAMPTON-STOWFORD-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_15_pt1-page-017.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_15_pt1-page-017.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

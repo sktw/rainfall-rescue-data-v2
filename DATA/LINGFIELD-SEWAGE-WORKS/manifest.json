@@ -1,0 +1,54 @@
+{
+    "name": "LINGFIELD-SEWAGE-WORKS",
+    "data": {
+        "LINGFIELD-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-017.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-017.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-015.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-062.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-062.csv",
+                "start_date": "1956/03",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-062.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-017.csv",
+            "start_date": "1938/12",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_01_pt1-page-062.csv",
+            "start_date": "1956/02",
+            "end_date": "1956/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_01_pt1-page-062.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

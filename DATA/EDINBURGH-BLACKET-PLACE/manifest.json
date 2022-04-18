@@ -1,0 +1,22 @@
+{
+    "name": "EDINBURGH-BLACKET-PLACE",
+    "data": {
+        "EDINBURGH-BLACKET-PLACE.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-141.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-148.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-182.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

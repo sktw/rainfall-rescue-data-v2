@@ -1,0 +1,29 @@
+{
+    "name": "LEINTWARDINE",
+    "data": {
+        "LEINTWARDINE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-233.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-124.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-252.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "LEINTWARDINE.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-167.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    }
+}

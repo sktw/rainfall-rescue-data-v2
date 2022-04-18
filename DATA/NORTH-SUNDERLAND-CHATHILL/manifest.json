@@ -1,0 +1,12 @@
+{
+    "name": "NORTH-SUNDERLAND-CHATHILL",
+    "data": {
+        "NORTH-SUNDERLAND-CHATHILL.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-081.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

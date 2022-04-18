@@ -1,0 +1,39 @@
+{
+    "name": "WEST-HORSLEY-WOODCOTE-LODGE",
+    "data": {
+        "WEST-HORSLEY-WOODCOTE-LODGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-179.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-227.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-022.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-022.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-275.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_2B_pt2-page-022.csv",
+            "start_date": "1914/11",
+            "end_date": "1914/13"
+        }
+    ]
+}

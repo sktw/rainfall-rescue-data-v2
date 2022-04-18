@@ -1,0 +1,30 @@
+{
+    "name": "DEVIZES-HIGHCLERE",
+    "data": {
+        "DEVIZES-HIGHCLERE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_10_pt1-page-176.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-272.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-285.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "DEVIZES-HIGHCLERE.csv": [
+            {
+                "start_date": "1917/08",
+                "end_date": "1917/08"
+            }
+        ]
+    }
+}

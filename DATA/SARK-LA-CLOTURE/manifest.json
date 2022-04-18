@@ -1,0 +1,12 @@
+{
+    "name": "SARK-LA-CLOTURE",
+    "data": {
+        "SARK-LA-CLOTURE.csv": [
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-059.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

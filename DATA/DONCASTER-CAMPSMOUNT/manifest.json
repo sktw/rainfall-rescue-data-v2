@@ -1,0 +1,25 @@
+{
+    "name": "DONCASTER-CAMPSMOUNT",
+    "data": {
+        "DONCASTER-CAMPSMOUNT.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-096.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-173.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "DONCASTER-CAMPSMOUNT.csv": [
+            {
+                "start_date": "1881/06",
+                "end_date": "1881/07"
+            }
+        ]
+    }
+}

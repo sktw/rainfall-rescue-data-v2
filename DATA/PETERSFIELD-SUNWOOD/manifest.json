@@ -1,0 +1,82 @@
+{
+    "name": "PETERSFIELD-SUNWOOD",
+    "data": {
+        "PETERSFIELD-SUNWOOD.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-099.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-099.csv",
+                "start_date": "1906/13",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-099.csv",
+                "start_date": "1907/10",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-099.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_05_pt1-page-211.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-248.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-248.csv",
+                "start_date": "1920/05",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-248.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "PETERSFIELD-SUNWOOD.csv": [
+            {
+                "start_date": "1913/02",
+                "end_date": "1913/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_05_pt1-page-099.csv",
+            "start_date": "1906/10",
+            "end_date": "1906/12"
+        },
+        {
+            "filename": "TYRain_1900-1909_05_pt1-page-099.csv",
+            "start_date": "1907/01",
+            "end_date": "1907/09"
+        },
+        {
+            "filename": "TYRain_1900-1909_05_pt1-page-099.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-248.csv",
+            "start_date": "1920/04",
+            "end_date": "1920/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-248.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        }
+    ]
+}

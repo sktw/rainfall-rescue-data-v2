@@ -1,0 +1,71 @@
+{
+    "name": "WOODBURY-OAKHAYES",
+    "data": {
+        "WOODBURY-OAKHAYES.csv": [
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-060.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_11_pt1-page-098.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-165.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-182.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-182.csv",
+                "start_date": "1953/08",
+                "end_date": "1953/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-182.csv",
+                "start_date": "1954/02",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-182.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WOODBURY-OAKHAYES.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            },
+            {
+                "start_date": "1947/13",
+                "end_date": "1947/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-182.csv",
+            "start_date": "1953/07",
+            "end_date": "1953/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-182.csv",
+            "start_date": "1953/10",
+            "end_date": "1954/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-182.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

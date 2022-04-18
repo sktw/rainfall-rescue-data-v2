@@ -1,0 +1,46 @@
+{
+    "name": "GLOUCESTER-HEMPSTED",
+    "data": {
+        "GLOUCESTER-HEMPSTED-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_13_pt1-page-053.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_13_pt1-page-053.csv",
+                "start_date": "1959/04",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_13_pt1-page-053.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GLOUCESTER-HEMPSTED.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-169.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-163.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_13_pt1-page-053.csv",
+            "start_date": "1959/01",
+            "end_date": "1959/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_13_pt1-page-053.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

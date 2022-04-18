@@ -1,0 +1,46 @@
+{
+    "name": "BEDALE-SNAPE-ENDOWED-SCHOOL",
+    "data": {
+        "BEDALE-SNAPE-ENDOWED-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-315.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-315.csv",
+                "start_date": "1938/10",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-315.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "BEDALE-SNAPE-ENDOWED-SCHOOL.csv": [
+            {
+                "start_date": "1939/02",
+                "end_date": "1939/02"
+            },
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_19_pt1-page-315.csv",
+            "start_date": "1938/09",
+            "end_date": "1938/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_19_pt1-page-315.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
+}

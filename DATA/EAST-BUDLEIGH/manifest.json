@@ -1,0 +1,32 @@
+{
+    "name": "EAST-BUDLEIGH",
+    "data": {
+        "EAST-BUDLEIGH.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-108.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-096.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-118.csv",
+                "start_date": "1890/01",
+                "end_date": "1896/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-117.csv",
+                "start_date": "1897/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-114.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

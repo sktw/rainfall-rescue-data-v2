@@ -1,0 +1,29 @@
+{
+    "name": "CANTERBURY-ST-THOMAS-HILL",
+    "data": {
+        "CANTERBURY-ST-THOMAS-HILL-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-239.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-073.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CANTERBURY-ST-THOMAS-HILL.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-238.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-064.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

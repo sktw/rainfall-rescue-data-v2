@@ -1,0 +1,17 @@
+{
+    "name": "STOKESLEY-BILSDALE-PRIORY",
+    "data": {
+        "STOKESLEY-BILSDALE-PRIORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-034.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-015.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/13"
+            }
+        ]
+    }
+}

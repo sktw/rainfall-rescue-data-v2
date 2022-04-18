@@ -1,0 +1,36 @@
+{
+    "name": "BRAMPTON-CROFT-HOUSE",
+    "data": {
+        "BRAMPTON-CROFT-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-287.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ],
+        "BRAMPTON-CROFT-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-288.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-102.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRAMPTON-CROFT-HOUSE.csv": [
+            {
+                "start_date": "1855/05",
+                "end_date": "1855/05"
+            },
+            {
+                "start_date": "1855/07",
+                "end_date": "1855/07"
+            }
+        ]
+    }
+}

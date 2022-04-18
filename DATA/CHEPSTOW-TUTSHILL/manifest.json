@@ -1,0 +1,24 @@
+{
+    "name": "CHEPSTOW-TUTSHILL",
+    "data": {
+        "CHEPSTOW-TUTSHILL-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-133.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "CHEPSTOW-TUTSHILL.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-001.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-003.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "STONY-STRATFORD-CALVERTON-RECTORY",
+    "data": {
+        "STONY-STRATFORD-CALVERTON-RECTORY.csv": [
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-294.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-294.csv",
+                "start_date": "1957/10",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-294.csv",
+            "start_date": "1957/08",
+            "end_date": "1957/09"
+        }
+    ]
+}

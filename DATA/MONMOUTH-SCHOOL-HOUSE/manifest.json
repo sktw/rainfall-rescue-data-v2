@@ -1,0 +1,47 @@
+{
+    "name": "MONMOUTH-SCHOOL-HOUSE",
+    "data": {
+        "MONMOUTH-SCHOOL-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_19_pt1-page-035.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_19_pt1-page-035.csv",
+                "start_date": "1893/02",
+                "end_date": "1893/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_19_pt1-page-035.csv",
+                "start_date": "1894/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-110.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "MONMOUTH-SCHOOL-HOUSE.csv": [
+            {
+                "start_date": "1894/13",
+                "end_date": "1894/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_19_pt1-page-035.csv",
+            "start_date": "1893/01",
+            "end_date": "1893/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_19_pt1-page-035.csv",
+            "start_date": "1893/13",
+            "end_date": "1893/13"
+        }
+    ]
+}

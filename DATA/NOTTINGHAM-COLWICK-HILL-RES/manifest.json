@@ -1,0 +1,35 @@
+{
+    "name": "NOTTINGHAM-COLWICK-HILL-RES",
+    "data": {
+        "NOTTINGHAM-COLWICK-HILL-RES.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-142.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-215.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_18_pt1-page-026.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-028.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "NOTTINGHAM-COLWICK-HILL-RES.csv": [
+            {
+                "start_date": "1941/13",
+                "end_date": "1941/13"
+            }
+        ]
+    }
+}

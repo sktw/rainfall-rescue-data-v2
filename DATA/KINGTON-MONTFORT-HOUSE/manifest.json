@@ -1,0 +1,78 @@
+{
+    "name": "KINGTON-MONTFORT-HOUSE",
+    "data": {
+        "KINGTON-MONTFORT-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-092.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/05"
+            }
+        ],
+        "KINGTON-MONTFORT-HOUSE-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-092.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-092.csv",
+                "start_date": "1927/06",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-092.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-226.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-226.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-226.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-053.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_13_pt1-page-144.csv",
+                "start_date": "1951/01",
+                "end_date": "1959/13"
+            }
+        ],
+        "KINGTON-MONTFORT-HOUSE.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-093.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_13_pt1-page-226.csv",
+            "start_date": "1933/02",
+            "end_date": "1933/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_13_pt1-page-226.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_14_pt1-page-092.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        }
+    ]
+}

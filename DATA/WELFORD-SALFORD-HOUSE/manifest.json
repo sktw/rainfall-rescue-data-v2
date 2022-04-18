@@ -1,0 +1,44 @@
+{
+    "name": "WELFORD-SALFORD-HOUSE",
+    "data": {
+        "WELFORD-SALFORD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-177.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-004.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-005.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-005.csv",
+                "start_date": "1913/04",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-005.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-005.csv",
+            "start_date": "1913/03",
+            "end_date": "1913/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-005.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        }
+    ]
+}

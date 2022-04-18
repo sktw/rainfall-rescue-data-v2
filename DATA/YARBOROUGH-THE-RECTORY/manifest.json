@@ -1,0 +1,17 @@
+{
+    "name": "YARBOROUGH-THE-RECTORY",
+    "data": {
+        "YARBOROUGH-THE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-195.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-155.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            }
+        ]
+    }
+}

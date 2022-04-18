@@ -1,0 +1,24 @@
+{
+    "name": "BERKHAMPSTED-NORTHCHURCH",
+    "data": {
+        "BERKHAMPSTED-NORTHCHURCH-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-260.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-285.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BERKHAMPSTED-NORTHCHURCH.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-020.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

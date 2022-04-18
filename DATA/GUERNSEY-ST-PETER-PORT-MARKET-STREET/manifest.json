@@ -1,0 +1,35 @@
+{
+    "name": "GUERNSEY-ST-PETER-PORT-MARKET-STREET",
+    "data": {
+        "GUERNSEY-ST-PETER-PORT-MARKET-STREET.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-207.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-040.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-154.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_23_pt1-page-192.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "GUERNSEY-ST-PETER-PORT-MARKET-STREET.csv": [
+            {
+                "start_date": "1935/02",
+                "end_date": "1935/02"
+            }
+        ]
+    }
+}

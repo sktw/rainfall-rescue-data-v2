@@ -1,0 +1,17 @@
+{
+    "name": "CATTERICK-MET-OFFICE",
+    "data": {
+        "CATTERICK-MET-OFFICE.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-327.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-180.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            }
+        ]
+    }
+}

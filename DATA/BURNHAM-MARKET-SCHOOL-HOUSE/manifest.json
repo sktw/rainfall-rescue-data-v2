@@ -1,0 +1,36 @@
+{
+    "name": "BURNHAM-MARKET-SCHOOL-HOUSE",
+    "data": {
+        "BURNHAM-MARKET-SCHOOL-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-031.csv",
+                "start_date": "1955/09",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-031.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BURNHAM-MARKET-SCHOOL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-078.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-031.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_09_pt1-page-031.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

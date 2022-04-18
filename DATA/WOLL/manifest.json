@@ -1,0 +1,17 @@
+{
+    "name": "WOLL",
+    "data": {
+        "WOLL.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-077.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-078.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            }
+        ]
+    }
+}

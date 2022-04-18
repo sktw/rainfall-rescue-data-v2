@@ -1,0 +1,39 @@
+{
+    "name": "GRAYS-CONNAUGHT-AVENUE-DEPOT",
+    "data": {
+        "GRAYS-CONNAUGHT-AVENUE-DEPOT.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-033.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-146.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-146.csv",
+                "start_date": "1953/02",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-146.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-146.csv",
+            "start_date": "1953/01",
+            "end_date": "1953/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-146.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

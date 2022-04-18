@@ -1,0 +1,17 @@
+{
+    "name": "GERRARDS-CROSS-MILL-LANE",
+    "data": {
+        "GERRARDS-CROSS-MILL-LANE.csv": [
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-046.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-268.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

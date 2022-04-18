@@ -1,0 +1,22 @@
+{
+    "name": "GUISBOROUGH-GRAMMAR-SCHOOL",
+    "data": {
+        "GUISBOROUGH-GRAMMAR-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-240.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-061.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_22_pt1-page-053.csv"
+        }
+    ]
+}

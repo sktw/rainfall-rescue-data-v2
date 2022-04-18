@@ -1,0 +1,168 @@
+{
+    "name": "WOLDINGHAM-RES",
+    "data": {
+        "WOLDINGHAM-RES-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-035.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-042.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-031.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+                "start_date": "1956/08",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+                "start_date": "1957/01",
+                "end_date": "1959/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+                "start_date": "1959/05",
+                "end_date": "1959/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+                "start_date": "1959/11",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "WOLDINGHAM-RES.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-036.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-036.csv",
+                "start_date": "1919/07",
+                "end_date": "1919/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-036.csv",
+                "start_date": "1919/10",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+                "start_date": "1920/08",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+                "start_date": "1921/01",
+                "end_date": "1927/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+                "start_date": "1927/08",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "WOLDINGHAM-RES-2.csv": [
+            {
+                "start_date": "1960/04",
+                "end_date": "1960/04"
+            },
+            {
+                "start_date": "1960/11",
+                "end_date": "1960/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+            "start_date": "1956/07",
+            "end_date": "1956/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+            "start_date": "1959/04",
+            "end_date": "1959/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+            "start_date": "1959/09",
+            "end_date": "1959/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_01_pt1-page-079.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-036.csv",
+            "start_date": "1919/04",
+            "end_date": "1919/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-036.csv",
+            "start_date": "1919/09",
+            "end_date": "1919/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-036.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+            "start_date": "1920/07",
+            "end_date": "1920/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+            "start_date": "1927/07",
+            "end_date": "1927/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-034.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        }
+    ]
+}

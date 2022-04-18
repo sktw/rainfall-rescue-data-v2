@@ -1,0 +1,24 @@
+{
+    "name": "LEOMINSTER-LEYSTERS",
+    "data": {
+        "LEOMINSTER-LEYSTERS-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-103.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LEOMINSTER-LEYSTERS.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_03_pt2-page-070.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-033.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

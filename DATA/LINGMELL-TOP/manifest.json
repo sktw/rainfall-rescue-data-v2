@@ -1,0 +1,61 @@
+{
+    "name": "LINGMELL-TOP",
+    "data": {
+        "LINGMELL-TOP.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-124.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-255.csv",
+                "start_date": "1850/01",
+                "end_date": "1851/12"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-255.csv",
+                "start_date": "1852/01",
+                "end_date": "1852/12"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-255.csv",
+                "start_date": "1853/01",
+                "end_date": "1853/12"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-255.csv",
+                "start_date": "1854/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "LINGMELL-TOP.csv": [
+            {
+                "start_date": "1850/04",
+                "end_date": "1850/04"
+            },
+            {
+                "start_date": "1850/12",
+                "end_date": "1850/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-255.csv",
+            "start_date": "1851/13",
+            "end_date": "1851/13"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-255.csv",
+            "start_date": "1852/13",
+            "end_date": "1852/13"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-255.csv",
+            "start_date": "1853/13",
+            "end_date": "1853/13"
+        }
+    ]
+}

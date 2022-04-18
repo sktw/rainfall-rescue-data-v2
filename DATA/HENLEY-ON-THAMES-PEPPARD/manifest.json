@@ -1,0 +1,38 @@
+{
+    "name": "HENLEY-ON-THAMES-PEPPARD",
+    "data": {
+        "HENLEY-ON-THAMES-PEPPARD.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_07_pt1-page-145.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_07_pt1-page-235.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-207.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "HENLEY-ON-THAMES-PEPPARD.csv": [
+            {
+                "start_date": "1911/10",
+                "end_date": "1911/10"
+            },
+            {
+                "start_date": "1919/09",
+                "end_date": "1919/09"
+            },
+            {
+                "start_date": "1919/12",
+                "end_date": "1919/12"
+            }
+        ]
+    }
+}

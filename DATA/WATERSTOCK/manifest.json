@@ -1,0 +1,30 @@
+{
+    "name": "WATERSTOCK",
+    "data": {
+        "WATERSTOCK.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-172.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-170.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-268.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "WATERSTOCK.csv": [
+            {
+                "start_date": "1908/13",
+                "end_date": "1908/13"
+            }
+        ]
+    }
+}

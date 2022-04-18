@@ -1,0 +1,51 @@
+{
+    "name": "SOYLAND-MOOR-WAYSTONE-DRAIN",
+    "data": {
+        "SOYLAND-MOOR-WAYSTONE-DRAIN.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-027.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_21_pt1-page-178.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-187.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-187.csv",
+                "start_date": "1960/03",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "idr": {
+        "SOYLAND-MOOR-WAYSTONE-DRAIN.csv": [
+            {
+                "start_date": "1944/06",
+                "end_date": "1944/06"
+            },
+            {
+                "start_date": "1952/01",
+                "end_date": "1952/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-187.csv",
+            "start_date": "1960/02",
+            "end_date": "1960/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-187.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

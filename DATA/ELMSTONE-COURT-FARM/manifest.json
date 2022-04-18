@@ -1,0 +1,81 @@
+{
+    "name": "ELMSTONE-COURT-FARM",
+    "data": {
+        "ELMSTONE-COURT-FARM-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-066.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-062.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-062.csv",
+                "start_date": "1953/12",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-062.csv",
+                "start_date": "1954/01",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-062.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ELMSTONE-COURT-FARM.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-173.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-066.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-066.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-066.csv",
+                "start_date": "1945/13",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-066.csv",
+                "start_date": "1947/03",
+                "end_date": "1947/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-066.csv",
+                "start_date": "1947/13",
+                "end_date": "1947/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-062.csv",
+            "start_date": "1953/11",
+            "end_date": "1953/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-062.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-062.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

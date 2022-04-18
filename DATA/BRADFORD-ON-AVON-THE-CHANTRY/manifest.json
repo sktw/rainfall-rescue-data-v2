@@ -1,0 +1,27 @@
+{
+    "name": "BRADFORD-ON-AVON-THE-CHANTRY",
+    "data": {
+        "BRADFORD-ON-AVON-THE-CHANTRY.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-010.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-012.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-185.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-167.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

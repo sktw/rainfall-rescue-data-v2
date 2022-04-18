@@ -1,0 +1,41 @@
+{
+    "name": "KILLYLEAGH-PRIMARY-SCHOOL",
+    "data": {
+        "KILLYLEAGH-PRIMARY-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1941-1950_33_pt1-page-187.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-039.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "KILLYLEAGH-PRIMARY-SCHOOL.csv": [
+            {
+                "start_date": "1954/06",
+                "end_date": "1954/06"
+            },
+            {
+                "start_date": "1955/03",
+                "end_date": "1955/03"
+            },
+            {
+                "start_date": "1955/05",
+                "end_date": "1955/05"
+            },
+            {
+                "start_date": "1955/10",
+                "end_date": "1955/10"
+            },
+            {
+                "start_date": "1958/06",
+                "end_date": "1958/06"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "HORSELL-LINDISAYE",
+    "data": {
+        "HORSELL-LINDISAYE-SPARSE-WEEKLY.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-185.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-239.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-046.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "HORSELL-LINDISAYE.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-184.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-238.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-045.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "HORSELL-LINDISAYE-SPARSE-WEEKLY.csv": [
+            {
+                "start_date": "1911/13",
+                "end_date": "1911/13"
+            },
+            {
+                "start_date": "1913/13",
+                "end_date": "1913/13"
+            }
+        ]
+    }
+}

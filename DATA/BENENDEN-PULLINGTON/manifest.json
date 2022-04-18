@@ -1,0 +1,71 @@
+{
+    "name": "BENENDEN-PULLINGTON",
+    "data": {
+        "BENENDEN-PULLINGTON-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-084.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-006.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-006.csv",
+                "start_date": "1913/11",
+                "end_date": "1913/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-006.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BENENDEN-PULLINGTON.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-008.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_03_pt1-page-013.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_03_pt1-page-013.csv",
+                "start_date": "1891/06",
+                "end_date": "1891/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_03_pt1-page-013.csv",
+                "start_date": "1892/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_03_pt1-page-013.csv",
+            "start_date": "1891/05",
+            "end_date": "1891/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_03_pt1-page-013.csv",
+            "start_date": "1891/13",
+            "end_date": "1891/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_03_pt1-page-006.csv",
+            "start_date": "1913/10",
+            "end_date": "1913/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_03_pt1-page-006.csv",
+            "start_date": "1913/12",
+            "end_date": "1913/13"
+        }
+    ]
+}

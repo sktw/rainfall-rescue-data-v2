@@ -1,0 +1,17 @@
+{
+    "name": "SHIPLAKE-CRESCENT-KEY",
+    "data": {
+        "SHIPLAKE-CRESCENT-KEY.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-210.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-130.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

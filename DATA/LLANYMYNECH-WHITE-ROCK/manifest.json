@@ -1,0 +1,49 @@
+{
+    "name": "LLANYMYNECH-WHITE-ROCK",
+    "data": {
+        "LLANYMYNECH-WHITE-ROCK.csv": [
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-190.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-050.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-050.csv",
+                "start_date": "1952/05",
+                "end_date": "1952/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-050.csv",
+                "start_date": "1952/12",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-050.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-050.csv",
+            "start_date": "1952/04",
+            "end_date": "1952/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-050.csv",
+            "start_date": "1952/10",
+            "end_date": "1952/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-050.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        }
+    ]
+}

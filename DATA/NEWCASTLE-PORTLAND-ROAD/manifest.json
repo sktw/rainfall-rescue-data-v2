@@ -1,0 +1,30 @@
+{
+    "name": "NEWCASTLE-PORTLAND-ROAD",
+    "data": {
+        "NEWCASTLE-PORTLAND-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt4-page-016.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-098.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-095.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "NEWCASTLE-PORTLAND-ROAD.csv": [
+            {
+                "start_date": "1887/08",
+                "end_date": "1887/08"
+            }
+        ]
+    }
+}

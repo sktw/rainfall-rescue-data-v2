@@ -1,0 +1,63 @@
+{
+    "name": "EAST-MOLESEY-PALACE-ROAD",
+    "data": {
+        "EAST-MOLESEY-PALACE-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-119.csv",
+                "start_date": "1899/08",
+                "end_date": "1899/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-151.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/04"
+            }
+        ],
+        "EAST-MOLESEY-PALACE-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-151.csv",
+                "start_date": "1900/06",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-151.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "EAST-MOLESEY-PALACE-ROAD.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-099.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-119.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_02_pt1-page-119.csv",
+            "start_date": "1899/07",
+            "end_date": "1899/07"
+        },
+        {
+            "filename": "TYRain_1890-1899_02_pt1-page-119.csv",
+            "start_date": "1899/13",
+            "end_date": "1899/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-151.csv",
+            "start_date": "1900/05",
+            "end_date": "1900/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-151.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        }
+    ]
+}

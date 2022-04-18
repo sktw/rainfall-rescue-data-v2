@@ -1,0 +1,29 @@
+{
+    "name": "KENDAL-NATLAND",
+    "data": {
+        "KENDAL-NATLAND-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_21_pt1-page-048.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-021.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "KENDAL-NATLAND.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt5-page-004.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_21_pt1-page-046.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

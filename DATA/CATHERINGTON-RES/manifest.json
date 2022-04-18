@@ -1,0 +1,137 @@
+{
+    "name": "CATHERINGTON-RES",
+    "data": {
+        "CATHERINGTON-RES.csv": [
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-161.csv",
+                "start_date": "1931/04",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-161.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1941/07",
+                "end_date": "1941/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1941/09",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1942/01",
+                "end_date": "1942/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1942/07",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1943/01",
+                "end_date": "1944/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1944/05",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-066.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-066.csv",
+                "start_date": "1954/07",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-066.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CATHERINGTON-RES.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-161.csv",
+            "start_date": "1931/01",
+            "end_date": "1931/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-161.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+            "start_date": "1941/06",
+            "end_date": "1941/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+            "start_date": "1941/08",
+            "end_date": "1941/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+            "start_date": "1942/06",
+            "end_date": "1942/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+            "start_date": "1944/04",
+            "end_date": "1944/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-125.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_04_pt1-page-066.csv",
+            "start_date": "1954/05",
+            "end_date": "1954/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_04_pt1-page-066.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

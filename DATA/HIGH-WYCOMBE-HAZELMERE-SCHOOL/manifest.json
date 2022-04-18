@@ -1,0 +1,114 @@
+{
+    "name": "HIGH-WYCOMBE-HAZELMERE-SCHOOL",
+    "data": {
+        "HIGH-WYCOMBE-HAZELMERE-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-098.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-098.csv",
+                "start_date": "1925/09",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-098.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1931/03",
+                "end_date": "1931/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1931/07",
+                "end_date": "1931/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1931/09",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1932/01",
+                "end_date": "1936/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1936/07",
+                "end_date": "1936/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1936/09",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-051.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-098.csv",
+            "start_date": "1925/08",
+            "end_date": "1925/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-098.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+            "start_date": "1931/02",
+            "end_date": "1931/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+            "start_date": "1931/05",
+            "end_date": "1931/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+            "start_date": "1931/08",
+            "end_date": "1931/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+            "start_date": "1936/05",
+            "end_date": "1936/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+            "start_date": "1936/08",
+            "end_date": "1936/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-110.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        }
+    ]
+}

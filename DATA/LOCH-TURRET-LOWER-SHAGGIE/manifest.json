@@ -1,0 +1,184 @@
+{
+    "name": "LOCH-TURRET-LOWER-SHAGGIE",
+    "data": {
+        "LOCH-TURRET-LOWER-SHAGGIE.csv": [
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-308.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-308.csv",
+                "start_date": "1949/13",
+                "end_date": "1949/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-308.csv",
+                "start_date": "1950/02",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1951/06",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1951/10",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1952/09",
+                "end_date": "1952/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1953/06",
+                "end_date": "1953/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1953/11",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1954/06",
+                "end_date": "1954/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1955/12",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1956/01",
+                "end_date": "1956/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1956/04",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1957/01",
+                "end_date": "1958/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1958/09",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1960/03",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+                "start_date": "1960/05",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_30_pt1-page-308.csv",
+            "start_date": "1949/12",
+            "end_date": "1949/12"
+        },
+        {
+            "filename": "TYRain_1941-1950_30_pt1-page-308.csv",
+            "start_date": "1950/01",
+            "end_date": "1950/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1952/11",
+            "end_date": "1953/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1953/07",
+            "end_date": "1953/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1954/07",
+            "end_date": "1955/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1955/06",
+            "end_date": "1955/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1956/02",
+            "end_date": "1956/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1958/07",
+            "end_date": "1958/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1960/01",
+            "end_date": "1960/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-122.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/04"
+        }
+    ]
+}

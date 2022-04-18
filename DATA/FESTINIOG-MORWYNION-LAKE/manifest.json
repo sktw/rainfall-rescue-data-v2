@@ -1,0 +1,29 @@
+{
+    "name": "FESTINIOG-MORWYNION-LAKE",
+    "data": {
+        "FESTINIOG-MORWYNION-LAKE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-105.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-207.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FESTINIOG-MORWYNION-LAKE.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-168.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-179.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

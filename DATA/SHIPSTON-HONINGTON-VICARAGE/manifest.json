@@ -1,0 +1,29 @@
+{
+    "name": "SHIPSTON-HONINGTON-VICARAGE",
+    "data": {
+        "SHIPSTON-HONINGTON-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-211.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "SHIPSTON-HONINGTON-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-223.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-212.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-165.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

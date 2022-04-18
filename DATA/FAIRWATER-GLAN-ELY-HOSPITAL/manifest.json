@@ -1,0 +1,99 @@
+{
+    "name": "FAIRWATER-GLAN-ELY-HOSPITAL",
+    "data": {
+        "FAIRWATER-GLAN-ELY-HOSPITAL.csv": [
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-060.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-060.csv",
+                "start_date": "1929/11",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-060.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+                "start_date": "1934/06",
+                "end_date": "1934/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+                "start_date": "1934/11",
+                "end_date": "1934/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+                "start_date": "1940/05",
+                "end_date": "1940/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+                "start_date": "1940/08",
+                "end_date": "1940/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-060.csv",
+            "start_date": "1929/10",
+            "end_date": "1929/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-060.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-060.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+            "start_date": "1934/01",
+            "end_date": "1934/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+            "start_date": "1934/09",
+            "end_date": "1934/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+            "start_date": "1934/12",
+            "end_date": "1934/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+            "start_date": "1940/02",
+            "end_date": "1940/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+            "start_date": "1940/07",
+            "end_date": "1940/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-196.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

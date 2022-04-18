@@ -1,0 +1,56 @@
+{
+    "name": "SLEIGHTS-BROOK-PARK",
+    "data": {
+        "SLEIGHTS-BROOK-PARK-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+                "start_date": "1917/05",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/06"
+            }
+        ],
+        "SLEIGHTS-BROOK-PARK.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-069.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+                "start_date": "1910/01",
+                "end_date": "1917/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+                "start_date": "1919/08",
+                "end_date": "1919/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+            "start_date": "1917/04",
+            "end_date": "1917/04"
+        },
+        {
+            "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+            "start_date": "1919/07",
+            "end_date": "1919/07"
+        },
+        {
+            "filename": "TYRain_1910-1919_21_pt1-page-045.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        }
+    ]
+}

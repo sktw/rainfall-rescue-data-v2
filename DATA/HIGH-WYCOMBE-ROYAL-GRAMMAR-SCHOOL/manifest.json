@@ -1,0 +1,162 @@
+{
+    "name": "HIGH-WYCOMBE-ROYAL-GRAMMAR-SCHOOL",
+    "data": {
+        "HIGH-WYCOMBE-ROYAL-GRAMMAR-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-088.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-088.csv",
+                "start_date": "1919/09",
+                "end_date": "1919/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1920/02",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1921/01",
+                "end_date": "1922/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1922/09",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1923/01",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1924/01",
+                "end_date": "1924/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1924/09",
+                "end_date": "1924/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1924/11",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1925/01",
+                "end_date": "1927/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1927/10",
+                "end_date": "1927/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1927/12",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1928/01",
+                "end_date": "1928/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_07_pt1-page-089.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HIGH-WYCOMBE-ROYAL-GRAMMAR-SCHOOL.csv": [
+            {
+                "start_date": "1931/10",
+                "end_date": "1931/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-088.csv",
+            "start_date": "1919/07",
+            "end_date": "1919/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-088.csv",
+            "start_date": "1919/10",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1922/08",
+            "end_date": "1922/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1924/08",
+            "end_date": "1924/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1924/10",
+            "end_date": "1924/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1927/08",
+            "end_date": "1927/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1927/11",
+            "end_date": "1927/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-080.csv",
+            "start_date": "1928/10",
+            "end_date": "1928/13"
+        }
+    ]
+}

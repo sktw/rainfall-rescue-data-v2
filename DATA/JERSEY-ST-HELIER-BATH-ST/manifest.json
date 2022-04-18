@@ -1,0 +1,12 @@
+{
+    "name": "JERSEY-ST-HELIER-BATH-ST",
+    "data": {
+        "JERSEY-ST-HELIER-BATH-ST.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-034.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    }
+}

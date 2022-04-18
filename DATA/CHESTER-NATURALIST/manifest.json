@@ -1,0 +1,12 @@
+{
+    "name": "CHESTER-NATURALIST",
+    "data": {
+        "CHESTER-NATURALIST.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-170.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ]
+    }
+}

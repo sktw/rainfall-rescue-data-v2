@@ -1,0 +1,74 @@
+{
+    "name": "THORNTON-LE-MOOR-PASTURE-HOUSE",
+    "data": {
+        "THORNTON-LE-MOOR-PASTURE-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+                "start_date": "1924/05",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+                "start_date": "1925/01",
+                "end_date": "1926/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+                "start_date": "1926/11",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "THORNTON-LE-MOOR-PASTURE-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_20_pt1-page-226.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-195.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/13"
+            }
+        ]
+    },
+    "idr": {
+        "THORNTON-LE-MOOR-PASTURE-HOUSE.csv": [
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+            "start_date": "1924/03",
+            "end_date": "1924/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+            "start_date": "1926/10",
+            "end_date": "1926/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-192.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        }
+    ]
+}

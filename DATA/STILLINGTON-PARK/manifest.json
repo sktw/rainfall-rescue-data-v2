@@ -1,0 +1,59 @@
+{
+    "name": "STILLINGTON-PARK",
+    "data": {
+        "STILLINGTON-PARK.csv": [
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-081.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-110.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-110.csv",
+                "start_date": "1935/02",
+                "end_date": "1935/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-110.csv",
+                "start_date": "1935/11",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-110.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-016.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-108.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-110.csv",
+            "start_date": "1935/01",
+            "end_date": "1935/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-110.csv",
+            "start_date": "1935/06",
+            "end_date": "1935/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-110.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

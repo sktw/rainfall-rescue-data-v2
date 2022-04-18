@@ -1,0 +1,47 @@
+{
+    "name": "ONECOTE-NEW-MIXON-HAY",
+    "data": {
+        "ONECOTE-NEW-MIXON-HAY.csv": [
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-242.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-107.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-107.csv",
+                "start_date": "1959/02",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-107.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "ONECOTE-NEW-MIXON-HAY.csv": [
+            {
+                "start_date": "1947/06",
+                "end_date": "1947/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-107.csv",
+            "start_date": "1959/01",
+            "end_date": "1959/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-107.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "SPILSBY-WELTON-LE-MARSH-RECTORY",
+    "data": {
+        "SPILSBY-WELTON-LE-MARSH-RECTORY.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt1-page-053.csv",
+                "start_date": "1864/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-052.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/13"
+            }
+        ]
+    }
+}

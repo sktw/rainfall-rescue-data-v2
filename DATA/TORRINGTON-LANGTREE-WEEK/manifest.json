@@ -1,0 +1,24 @@
+{
+    "name": "TORRINGTON-LANGTREE-WEEK",
+    "data": {
+        "TORRINGTON-LANGTREE-WEEK-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt4-page-021.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "TORRINGTON-LANGTREE-WEEK.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt4-page-020.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-129.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

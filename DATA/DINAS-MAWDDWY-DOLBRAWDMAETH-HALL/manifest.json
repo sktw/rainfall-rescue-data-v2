@@ -1,0 +1,94 @@
+{
+    "name": "DINAS-MAWDDWY-DOLBRAWDMAETH-HALL",
+    "data": {
+        "DINAS-MAWDDWY-DOLBRAWDMAETH-HALL.csv": [
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1924/10",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1925/01",
+                "end_date": "1925/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1926/01",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1928/02",
+                "end_date": "1928/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1928/04",
+                "end_date": "1928/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1928/06",
+                "end_date": "1928/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1928/09",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1924/09",
+            "end_date": "1924/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1925/10",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1928/01",
+            "end_date": "1928/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1928/03",
+            "end_date": "1928/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1928/05",
+            "end_date": "1928/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1928/08",
+            "end_date": "1928/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-200.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        }
+    ]
+}

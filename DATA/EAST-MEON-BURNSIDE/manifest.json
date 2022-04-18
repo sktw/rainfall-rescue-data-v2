@@ -1,0 +1,46 @@
+{
+    "name": "EAST-MEON-BURNSIDE",
+    "data": {
+        "EAST-MEON-BURNSIDE.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-216.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-216.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-181.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-141.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "EAST-MEON-BURNSIDE.csv": [
+            {
+                "start_date": "1923/11",
+                "end_date": "1923/11"
+            },
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_05_pt1-page-216.csv",
+            "start_date": "1927/11",
+            "end_date": "1927/13"
+        }
+    ]
+}

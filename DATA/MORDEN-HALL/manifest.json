@@ -1,0 +1,41 @@
+{
+    "name": "MORDEN-HALL",
+    "data": {
+        "MORDEN-HALL-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-136.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-136.csv",
+                "start_date": "1945/11",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-181.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MORDEN-HALL.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-170.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-128.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-136.csv",
+            "start_date": "1945/10",
+            "end_date": "1945/10"
+        }
+    ]
+}

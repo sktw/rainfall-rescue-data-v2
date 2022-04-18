@@ -1,0 +1,79 @@
+{
+    "name": "SPENNYMOOR-TUDHOE-ST-CHARLES-SCHOOL",
+    "data": {
+        "SPENNYMOOR-TUDHOE-ST-CHARLES-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-128.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-128.csv",
+                "start_date": "1936/06",
+                "end_date": "1936/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-128.csv",
+                "start_date": "1936/12",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-128.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-031.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-031.csv",
+                "start_date": "1945/05",
+                "end_date": "1945/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-031.csv",
+                "start_date": "1945/10",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-031.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-128.csv",
+            "start_date": "1936/02",
+            "end_date": "1936/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-128.csv",
+            "start_date": "1936/08",
+            "end_date": "1936/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-128.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_23_pt1-page-031.csv",
+            "start_date": "1945/03",
+            "end_date": "1945/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_23_pt1-page-031.csv",
+            "start_date": "1945/07",
+            "end_date": "1945/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_23_pt1-page-031.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

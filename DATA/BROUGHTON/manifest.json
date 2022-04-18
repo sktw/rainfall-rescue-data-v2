@@ -1,0 +1,61 @@
+{
+    "name": "BROUGHTON",
+    "data": {
+        "BROUGHTON-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+                "start_date": "1921/07",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+                "start_date": "1922/01",
+                "end_date": "1929/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+                "start_date": "1929/07",
+                "end_date": "1930/13"
+            }
+        ],
+        "BROUGHTON.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-007.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-099.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+                "start_date": "1929/08",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+            "start_date": "1921/06",
+            "end_date": "1921/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-121.csv",
+            "start_date": "1929/06",
+            "end_date": "1929/06"
+        }
+    ]
+}

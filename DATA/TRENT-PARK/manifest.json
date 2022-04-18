@@ -1,0 +1,69 @@
+{
+    "name": "TRENT-PARK",
+    "data": {
+        "TRENT-PARK.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-154.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-168.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-213.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-213.csv",
+                "start_date": "1938/10",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-213.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-084.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-084.csv",
+                "start_date": "1942/10",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-084.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-213.csv",
+            "start_date": "1938/09",
+            "end_date": "1938/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-213.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-084.csv",
+            "start_date": "1942/09",
+            "end_date": "1942/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-084.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

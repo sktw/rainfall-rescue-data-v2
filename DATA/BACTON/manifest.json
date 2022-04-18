@@ -1,0 +1,25 @@
+{
+    "name": "BACTON",
+    "data": {
+        "BACTON.csv": [
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-167.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_09_pt1-page-250.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "BACTON.csv": [
+            {
+                "start_date": "1911/09",
+                "end_date": "1911/09"
+            }
+        ]
+    }
+}

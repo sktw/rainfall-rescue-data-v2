@@ -1,0 +1,92 @@
+{
+    "name": "SLAIDBURN-STOCKS",
+    "data": {
+        "SLAIDBURN-STOCKS-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-094.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-028.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_20_pt1-page-212.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-192.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SLAIDBURN-STOCKS-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-029.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-216.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-197.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SLAIDBURN-STOCKS-4.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-194.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SLAIDBURN-STOCKS-5.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-195.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SLAIDBURN-STOCKS-6.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-196.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SLAIDBURN-STOCKS-7.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-198.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SLAIDBURN-STOCKS.csv": [
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-093.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-027.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "SLAIDBURN-STOCKS-2.csv": [
+            {
+                "start_date": "1941/02",
+                "end_date": "1941/02"
+            }
+        ]
+    }
+}

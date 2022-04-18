@@ -1,0 +1,107 @@
+{
+    "name": "ENFIELD-CHASE",
+    "data": {
+        "ENFIELD-CHASE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-090.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-063.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/06"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-063.csv",
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-063.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "ENFIELD-CHASE-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-088.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_01_pt2-page-061.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_01_pt2-page-061.csv",
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_01_pt2-page-061.csv",
+                "start_date": "1889/09",
+                "end_date": "1889/13"
+            }
+        ],
+        "ENFIELD-CHASE-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-062.csv",
+                "start_date": "1882/01",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-062.csv",
+                "start_date": "1885/07",
+                "end_date": "1889/13"
+            }
+        ],
+        "ENFIELD-CHASE-5.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-063.csv",
+                "start_date": "1882/01",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-063.csv",
+                "start_date": "1885/07",
+                "end_date": "1889/13"
+            }
+        ],
+        "ENFIELD-CHASE-6.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_01_pt2-page-061.csv",
+                "start_date": "1882/10",
+                "end_date": "1882/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_01_pt2-page-061.csv",
+                "start_date": "1885/07",
+                "end_date": "1889/13"
+            }
+        ],
+        "ENFIELD-CHASE.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-089.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-062.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/06"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-062.csv",
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-062.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

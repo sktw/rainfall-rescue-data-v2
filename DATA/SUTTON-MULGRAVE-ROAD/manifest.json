@@ -1,0 +1,41 @@
+{
+    "name": "SUTTON-MULGRAVE-ROAD",
+    "data": {
+        "SUTTON-MULGRAVE-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-160.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-117.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "SUTTON-MULGRAVE-ROAD.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-078.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-092.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_02_pt1-page-107.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_02_pt1-page-107.csv",
+            "start_date": "1899/13",
+            "end_date": "1899/13"
+        }
+    ]
+}

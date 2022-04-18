@@ -1,0 +1,12 @@
+{
+    "name": "DARLINGTON-ELM-FIELD",
+    "data": {
+        "DARLINGTON-ELM-FIELD.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-227.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    }
+}

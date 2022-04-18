@@ -1,0 +1,78 @@
+{
+    "name": "NORTHWOOD-MOOR-PARK",
+    "data": {
+        "NORTHWOOD-MOOR-PARK-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-228.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "NORTHWOOD-MOOR-PARK-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+                "start_date": "1937/09",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-095.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "NORTHWOOD-MOOR-PARK.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-223.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+                "start_date": "1935/10",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+                "start_date": "1936/01",
+                "end_date": "1937/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+            "start_date": "1935/08",
+            "end_date": "1935/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+            "start_date": "1937/08",
+            "end_date": "1937/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-227.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

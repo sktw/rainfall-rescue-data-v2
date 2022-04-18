@@ -1,0 +1,73 @@
+{
+    "name": "TONBRIDGE-BROOKLANDS",
+    "data": {
+        "TONBRIDGE-BROOKLANDS-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-160.csv",
+                "start_date": "1905/12",
+                "end_date": "1905/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-160.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-165.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-164.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/07"
+            }
+        ],
+        "TONBRIDGE-BROOKLANDS-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-164.csv",
+                "start_date": "1923/09",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-164.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "TONBRIDGE-BROOKLANDS.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-100.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_03_pt1-page-160.csv",
+            "start_date": "1905/11",
+            "end_date": "1905/11"
+        },
+        {
+            "filename": "TYRain_1900-1909_03_pt1-page-160.csv",
+            "start_date": "1905/13",
+            "end_date": "1905/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-164.csv",
+            "start_date": "1923/08",
+            "end_date": "1923/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-164.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        }
+    ]
+}

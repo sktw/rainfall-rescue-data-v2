@@ -1,0 +1,51 @@
+{
+    "name": "KINBRACE-BORROBOL",
+    "data": {
+        "KINBRACE-BORROBOL-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-210.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-145.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KINBRACE-BORROBOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_30_pt1-page-111.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_30_pt1-page-111.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-180.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-180.csv",
+                "start_date": "1911/12",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_30_pt1-page-111.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_28_pt1-page-180.csv",
+            "start_date": "1911/11",
+            "end_date": "1911/11"
+        }
+    ]
+}

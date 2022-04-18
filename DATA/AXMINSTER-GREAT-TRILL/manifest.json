@@ -1,0 +1,25 @@
+{
+    "name": "AXMINSTER-GREAT-TRILL",
+    "data": {
+        "AXMINSTER-GREAT-TRILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt4-page-105.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-126.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "AXMINSTER-GREAT-TRILL.csv": [
+            {
+                "start_date": "1887/09",
+                "end_date": "1887/09"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "HUTTON-MAGNA-VICARAGE",
+    "data": {
+        "HUTTON-MAGNA-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-050.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-067.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-040.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/13"
+            }
+        ]
+    },
+    "idr": {
+        "HUTTON-MAGNA-VICARAGE.csv": [
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/06"
+            }
+        ]
+    }
+}

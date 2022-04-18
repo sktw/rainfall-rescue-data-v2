@@ -1,0 +1,54 @@
+{
+    "name": "YATTON-PUMPING-STN",
+    "data": {
+        "YATTON-PUMPING-STN.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-223.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-275.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-275.csv",
+                "start_date": "1943/03",
+                "end_date": "1943/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-275.csv",
+                "start_date": "1943/12",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-275.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-062.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-275.csv",
+            "start_date": "1943/02",
+            "end_date": "1943/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-275.csv",
+            "start_date": "1943/11",
+            "end_date": "1943/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-275.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "CROFT-DALTON-ON-TEES",
+    "data": {
+        "CROFT-DALTON-ON-TEES.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-061.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_24_pt1-page-039.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/13"
+            }
+        ]
+    },
+    "idr": {
+        "CROFT-DALTON-ON-TEES.csv": [
+            {
+                "start_date": "1921/04",
+                "end_date": "1921/04"
+            }
+        ]
+    }
+}

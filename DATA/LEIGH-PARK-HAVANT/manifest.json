@@ -1,0 +1,17 @@
+{
+    "name": "LEIGH-PARK-HAVANT",
+    "data": {
+        "LEIGH-PARK-HAVANT.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt3-page-025.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-028.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

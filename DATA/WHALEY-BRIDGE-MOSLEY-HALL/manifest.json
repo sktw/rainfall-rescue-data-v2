@@ -1,0 +1,24 @@
+{
+    "name": "WHALEY-BRIDGE-MOSLEY-HALL",
+    "data": {
+        "WHALEY-BRIDGE-MOSLEY-HALL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-222.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WHALEY-BRIDGE-MOSLEY-HALL.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-223.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-005.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

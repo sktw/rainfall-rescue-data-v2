@@ -1,0 +1,72 @@
+{
+    "name": "LLANBEBLIG-CEFN-RHOS",
+    "data": {
+        "LLANBEBLIG-CEFN-RHOS.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-040.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-040.csv",
+                "start_date": "1929/03",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-040.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-091.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-168.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-168.csv",
+                "start_date": "1945/03",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-168.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANBEBLIG-CEFN-RHOS.csv": [
+            {
+                "start_date": "1920/12",
+                "end_date": "1920/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-040.csv",
+            "start_date": "1929/02",
+            "end_date": "1929/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-040.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-168.csv",
+            "start_date": "1945/02",
+            "end_date": "1945/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-168.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

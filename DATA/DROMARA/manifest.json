@@ -1,0 +1,79 @@
+{
+    "name": "DROMARA",
+    "data": {
+        "DROMARA.csv": [
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-219.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_33_pt1-page-200.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_33_pt1-page-200.csv",
+                "start_date": "1950/10",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+                "start_date": "1959/02",
+                "end_date": "1959/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+                "start_date": "1959/04",
+                "end_date": "1959/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+                "start_date": "1959/08",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_33_pt1-page-200.csv",
+            "start_date": "1950/07",
+            "end_date": "1950/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_33_pt1-page-200.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+            "start_date": "1959/01",
+            "end_date": "1959/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+            "start_date": "1959/03",
+            "end_date": "1959/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+            "start_date": "1959/06",
+            "end_date": "1959/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_31_pt1-page-051.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

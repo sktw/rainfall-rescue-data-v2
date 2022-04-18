@@ -1,0 +1,41 @@
+{
+    "name": "SOUTH-HANNINGFIELD-PEADOWNS",
+    "data": {
+        "SOUTH-HANNINGFIELD-PEADOWNS-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-207.csv",
+                "start_date": "1924/08",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-207.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-229.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "SOUTH-HANNINGFIELD-PEADOWNS.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-084.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-207.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-207.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

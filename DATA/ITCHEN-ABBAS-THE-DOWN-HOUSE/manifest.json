@@ -1,0 +1,76 @@
+{
+    "name": "ITCHEN-ABBAS-THE-DOWN-HOUSE",
+    "data": {
+        "ITCHEN-ABBAS-THE-DOWN-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-155.csv",
+                "start_date": "1948/10",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-155.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-092.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-092.csv",
+                "start_date": "1955/02",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-092.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ITCHEN-ABBAS-THE-DOWN-HOUSE.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-242.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-202.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-155.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-155.csv",
+                "start_date": "1949/01",
+                "end_date": "1949/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-155.csv",
+            "start_date": "1948/09",
+            "end_date": "1948/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-155.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_04_pt1-page-092.csv",
+            "start_date": "1954/12",
+            "end_date": "1955/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_04_pt1-page-092.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

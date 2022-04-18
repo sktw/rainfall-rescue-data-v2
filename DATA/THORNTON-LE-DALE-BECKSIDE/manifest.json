@@ -1,0 +1,17 @@
+{
+    "name": "THORNTON-LE-DALE-BECKSIDE",
+    "data": {
+        "THORNTON-LE-DALE-BECKSIDE.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-075.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-019.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/13"
+            }
+        ]
+    }
+}

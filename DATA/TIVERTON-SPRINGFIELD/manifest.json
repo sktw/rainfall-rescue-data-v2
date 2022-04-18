@@ -1,0 +1,24 @@
+{
+    "name": "TIVERTON-SPRINGFIELD",
+    "data": {
+        "TIVERTON-SPRINGFIELD-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-100.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "TIVERTON-SPRINGFIELD.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-131.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-103.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

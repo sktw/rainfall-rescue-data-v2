@@ -1,0 +1,52 @@
+{
+    "name": "SEER-GREEN",
+    "data": {
+        "SEER-GREEN.csv": [
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-271.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-271.csv",
+                "start_date": "1958/02",
+                "end_date": "1958/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-271.csv",
+                "start_date": "1958/11",
+                "end_date": "1958/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-271.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SEER-GREEN.csv": [
+            {
+                "start_date": "1959/09",
+                "end_date": "1959/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-271.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-271.csv",
+            "start_date": "1958/04",
+            "end_date": "1958/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-271.csv",
+            "start_date": "1958/12",
+            "end_date": "1958/13"
+        }
+    ]
+}

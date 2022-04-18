@@ -1,0 +1,33 @@
+{
+    "name": "SOUTHAM-SHUCKBURGH-PARK",
+    "data": {
+        "SOUTHAM-SHUCKBURGH-PARK.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-139.csv",
+                "start_date": "1760/01",
+                "end_date": "1769/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-140.csv",
+                "start_date": "1790/01",
+                "end_date": "1798/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOUTHAM-SHUCKBURGH-PARK.csv": [
+            {
+                "start_date": "1768/13",
+                "end_date": "1768/13"
+            },
+            {
+                "start_date": "1795/09",
+                "end_date": "1795/09"
+            },
+            {
+                "start_date": "1795/12",
+                "end_date": "1795/12"
+            }
+        ]
+    }
+}

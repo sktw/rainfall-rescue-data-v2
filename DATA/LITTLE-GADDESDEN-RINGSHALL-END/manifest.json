@@ -1,0 +1,147 @@
+{
+    "name": "LITTLE-GADDESDEN-RINGSHALL-END",
+    "data": {
+        "LITTLE-GADDESDEN-RINGSHALL-END.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-295.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-295.csv",
+                "start_date": "1930/03",
+                "end_date": "1930/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-295.csv",
+                "start_date": "1930/06",
+                "end_date": "1930/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-292.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-120.csv",
+                "start_date": "1938/01",
+                "end_date": "1939/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-292.csv",
+                "start_date": "1939/02",
+                "end_date": "1939/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-120.csv",
+                "start_date": "1939/04",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-292.csv",
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-120.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-061.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-061.csv",
+                "start_date": "1941/09",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-061.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-281.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-281.csv",
+                "start_date": "1953/09",
+                "end_date": "1953/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-281.csv",
+                "start_date": "1953/12",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-281.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LITTLE-GADDESDEN-RINGSHALL-END.csv": [
+            {
+                "start_date": "1953/12",
+                "end_date": "1953/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_05_pt1-page-281.csv",
+            "start_date": "1953/08",
+            "end_date": "1953/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_05_pt1-page-281.csv",
+            "start_date": "1953/11",
+            "end_date": "1953/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_05_pt1-page-281.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-295.csv",
+            "start_date": "1930/01",
+            "end_date": "1930/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-295.csv",
+            "start_date": "1930/05",
+            "end_date": "1930/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-295.csv",
+            "start_date": "1930/10",
+            "end_date": "1930/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-120.csv",
+            "start_date": "1939/02",
+            "end_date": "1939/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-120.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-061.csv",
+            "start_date": "1941/08",
+            "end_date": "1941/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-061.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

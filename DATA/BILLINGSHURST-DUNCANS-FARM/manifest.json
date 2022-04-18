@@ -1,0 +1,22 @@
+{
+    "name": "BILLINGSHURST-DUNCANS-FARM",
+    "data": {
+        "BILLINGSHURST-DUNCANS-FARM.csv": [
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-116.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-128.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-172.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "BAMFORD",
+    "data": {
+        "BAMFORD.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-098.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-013.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "KINGS-LYNN-SHOULDHAM",
+    "data": {
+        "KINGS-LYNN-SHOULDHAM-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-061.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KINGS-LYNN-SHOULDHAM.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-244.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-110.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-066.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "DULWICH-WOOD-PARK",
+    "data": {
+        "DULWICH-WOOD-PARK-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-029.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/09"
+            }
+        ],
+        "DULWICH-WOOD-PARK-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-029.csv",
+                "start_date": "1914/11",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-029.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "DULWICH-WOOD-PARK.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-004.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-024.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-027.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-027.csv",
+                "start_date": "1912/04",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-027.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-027.csv",
+            "start_date": "1912/03",
+            "end_date": "1912/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-027.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-029.csv",
+            "start_date": "1914/10",
+            "end_date": "1914/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-029.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "PURFLEET",
+    "data": {
+        "PURFLEET-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-162.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "PURFLEET.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-163.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-030.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-145.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PURFLEET.csv": [
+            {
+                "start_date": "1939/07",
+                "end_date": "1939/07"
+            }
+        ]
+    }
+}

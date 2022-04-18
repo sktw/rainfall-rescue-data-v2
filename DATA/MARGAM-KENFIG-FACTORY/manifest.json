@@ -1,0 +1,12 @@
+{
+    "name": "MARGAM-KENFIG-FACTORY",
+    "data": {
+        "MARGAM-KENFIG-FACTORY.csv": [
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-046.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

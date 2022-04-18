@@ -1,0 +1,49 @@
+{
+    "name": "KIELDER-KIELDER-HEAD",
+    "data": {
+        "KIELDER-KIELDER-HEAD.csv": [
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-107.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-230.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-230.csv",
+                "start_date": "1954/04",
+                "end_date": "1954/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-230.csv",
+                "start_date": "1954/08",
+                "end_date": "1954/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-230.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-230.csv",
+            "start_date": "1954/03",
+            "end_date": "1954/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-230.csv",
+            "start_date": "1954/06",
+            "end_date": "1954/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-230.csv",
+            "start_date": "1954/12",
+            "end_date": "1954/13"
+        }
+    ]
+}
