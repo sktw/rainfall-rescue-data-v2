@@ -1,0 +1,44 @@
+{
+    "name": "ELVINGTON-WOODHOUSE-GRANGE",
+    "data": {
+        "ELVINGTON-WOODHOUSE-GRANGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-104.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-104.csv",
+                "start_date": "1927/05",
+                "end_date": "1927/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-104.csv",
+                "start_date": "1927/08",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-104.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-104.csv",
+            "start_date": "1927/04",
+            "end_date": "1927/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-104.csv",
+            "start_date": "1927/07",
+            "end_date": "1927/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-104.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        }
+    ]
+}

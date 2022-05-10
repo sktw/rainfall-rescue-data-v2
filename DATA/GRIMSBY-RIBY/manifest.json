@@ -1,0 +1,22 @@
+{
+    "name": "GRIMSBY-RIBY",
+    "data": {
+        "GRIMSBY-RIBY.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-076.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-136.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-107.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

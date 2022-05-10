@@ -1,0 +1,39 @@
+{
+    "name": "KENTMERE-HEAD-RESERVOIR",
+    "data": {
+        "KENTMERE-HEAD-RESERVOIR.csv": [
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-182.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-105.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-105.csv",
+                "start_date": "1939/07",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-105.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_21_pt1-page-105.csv",
+            "start_date": "1939/06",
+            "end_date": "1939/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_21_pt1-page-105.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "CAISTOR-HUNDON-MANOR-CASTLEMOUNT",
+    "data": {
+        "CAISTOR-HUNDON-MANOR-CASTLEMOUNT-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-141.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-141.csv",
+                "start_date": "1904/06",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-141.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "CAISTOR-HUNDON-MANOR-CASTLEMOUNT.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-141.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-141.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_17_pt1-page-141.csv",
+            "start_date": "1904/05",
+            "end_date": "1904/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_17_pt1-page-141.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        }
+    ]
+}

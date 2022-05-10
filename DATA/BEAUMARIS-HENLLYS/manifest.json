@@ -1,0 +1,24 @@
+{
+    "name": "BEAUMARIS-HENLLYS",
+    "data": {
+        "BEAUMARIS-HENLLYS.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-135.csv",
+                "start_date": "1860/01",
+                "end_date": "1864/06"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-135.csv",
+                "start_date": "1864/08",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_06_pt3-page-135.csv",
+            "start_date": "1864/07",
+            "end_date": "1864/07"
+        }
+    ]
+}

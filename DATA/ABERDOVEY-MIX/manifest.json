@@ -1,0 +1,131 @@
+{
+    "name": "ABERDOVEY-MIX",
+    "data": {
+        "ABERDOVEY-MIX-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-089.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "ABERDOVEY-MIX-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-285.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-285.csv",
+                "start_date": "1882/02",
+                "end_date": "1882/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-285.csv",
+                "start_date": "1883/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "ABERDOVEY-MIX-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-087.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-178.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-195.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "ABERDOVEY-MIX-5.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-179.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ABERDOVEY-MIX-6.csv": [
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-196.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-196.csv",
+                "start_date": "1928/03",
+                "end_date": "1928/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-196.csv",
+                "start_date": "1928/08",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-196.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "ABERDOVEY-MIX.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-088.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-088.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABERDOVEY-MIX-5.csv": [
+            {
+                "start_date": "1914/07",
+                "end_date": "1914/07"
+            },
+            {
+                "start_date": "1915/11",
+                "end_date": "1915/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_10_pt2-page-088.csv",
+            "start_date": "1878/01",
+            "end_date": "1878/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-285.csv",
+            "start_date": "1882/01",
+            "end_date": "1882/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-285.csv",
+            "start_date": "1882/13",
+            "end_date": "1882/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-196.csv",
+            "start_date": "1928/02",
+            "end_date": "1928/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-196.csv",
+            "start_date": "1928/06",
+            "end_date": "1928/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-196.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        }
+    ]
+}

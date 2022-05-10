@@ -1,0 +1,19 @@
+{
+    "name": "THURSTON-NETHER-HALL",
+    "data": {
+        "THURSTON-NETHER-HALL-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-091.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "THURSTON-NETHER-HALL.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-144.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    }
+}

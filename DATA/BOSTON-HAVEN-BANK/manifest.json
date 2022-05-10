@@ -1,0 +1,17 @@
+{
+    "name": "BOSTON-HAVEN-BANK",
+    "data": {
+        "BOSTON-HAVEN-BANK.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-108.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-191.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            }
+        ]
+    }
+}

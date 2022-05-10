@@ -1,0 +1,17 @@
+{
+    "name": "BOSTON-NORTH-SEA-CAMP",
+    "data": {
+        "BOSTON-NORTH-SEA-CAMP.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-107.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-190.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/13"
+            }
+        ]
+    }
+}

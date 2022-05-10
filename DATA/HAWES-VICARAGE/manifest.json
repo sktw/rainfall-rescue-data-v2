@@ -1,0 +1,25 @@
+{
+    "name": "HAWES-VICARAGE",
+    "data": {
+        "HAWES-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-184.csv",
+                "start_date": "1869/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-028.csv",
+                "start_date": "1870/01",
+                "end_date": "1878/13"
+            }
+        ]
+    },
+    "idr": {
+        "HAWES-VICARAGE.csv": [
+            {
+                "start_date": "1869/08",
+                "end_date": "1869/09"
+            }
+        ]
+    }
+}

@@ -3,8 +3,53 @@
     "data": {
         "FULWOOD-WW-HAIGHTON-RES.csv": [
             {
+                "filename": "TYRain_1880-1889_09_pt1-page-049.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-049.csv",
+                "start_date": "1882/01",
+                "end_date": "1882/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-049.csv",
+                "start_date": "1883/01",
+                "end_date": "1883/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-049.csv",
+                "start_date": "1884/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-039.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-188.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-130.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
                 "filename": "TYRain_1931-1940_18A_pt1-page-068.csv",
                 "start_date": "1931/01",
+                "end_date": "1938/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-068.csv",
+                "start_date": "1939/03",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-068.csv",
+                "start_date": "1940/01",
                 "end_date": "1940/13"
             },
             {
@@ -21,16 +66,29 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1880-1889_09_pt1-page-049.csv"
+            "filename": "TYRain_1880-1889_09_pt1-page-049.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
         },
         {
-            "filename": "TYRain_1890-1899_15_pt1-page-039.csv"
+            "filename": "TYRain_1880-1889_09_pt1-page-049.csv",
+            "start_date": "1882/13",
+            "end_date": "1882/13"
         },
         {
-            "filename": "TYRain_1900-1909_19_pt1-page-188.csv"
+            "filename": "TYRain_1880-1889_09_pt1-page-049.csv",
+            "start_date": "1883/13",
+            "end_date": "1883/13"
         },
         {
-            "filename": "TYRain_1910-1919_18_pt1-page-130.csv"
+            "filename": "TYRain_1931-1940_18A_pt1-page-068.csv",
+            "start_date": "1939/01",
+            "end_date": "1939/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_18A_pt1-page-068.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
         }
     ]
 }

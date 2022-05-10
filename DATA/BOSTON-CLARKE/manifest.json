@@ -1,0 +1,36 @@
+{
+    "name": "BOSTON-CLARKE",
+    "data": {
+        "BOSTON-CLARKE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-036.csv",
+                "start_date": "1912/04",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-036.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BOSTON-CLARKE.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-080.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-036.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_16_pt1-page-036.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "LINCOLN-EARLY",
+    "data": {
+        "LINCOLN-EARLY.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-154.csv",
+                "start_date": "1800/01",
+                "end_date": "1801/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-021.csv",
+                "start_date": "1802/01",
+                "end_date": "1802/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-154.csv",
+                "start_date": "1803/01",
+                "end_date": "1806/03"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-021.csv",
+                "start_date": "1806/04",
+                "end_date": "1806/12"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-154.csv",
+                "start_date": "1806/13",
+                "end_date": "1806/13"
+            }
+        ]
+    },
+    "idr": {
+        "LINCOLN-EARLY.csv": [
+            {
+                "start_date": "1800/01",
+                "end_date": "1800/01"
+            }
+        ]
+    }
+}

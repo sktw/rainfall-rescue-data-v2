@@ -1,0 +1,37 @@
+{
+    "name": "BALDERSDALE-HURY-MILL",
+    "data": {
+        "BALDERSDALE-HURY-MILL.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-078.csv",
+                "start_date": "1875/01",
+                "end_date": "1876/08"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-078.csv",
+                "start_date": "1876/10",
+                "end_date": "1876/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-078.csv",
+                "start_date": "1877/01",
+                "end_date": "1878/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_08_pt3-page-078.csv",
+            "start_date": "1876/09",
+            "end_date": "1876/09"
+        },
+        {
+            "filename": "TYRain_1870-1879_08_pt3-page-078.csv",
+            "start_date": "1876/13",
+            "end_date": "1876/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_11_pt2-page-070.csv"
+        }
+    ]
+}

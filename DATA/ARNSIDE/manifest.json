@@ -1,0 +1,39 @@
+{
+    "name": "ARNSIDE",
+    "data": {
+        "ARNSIDE.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt5-page-001.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt5-page-001.csv",
+                "start_date": "1884/02",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt5-page-001.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_21_pt1-page-044.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_11_pt5-page-001.csv",
+            "start_date": "1884/01",
+            "end_date": "1884/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_11_pt5-page-001.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        }
+    ]
+}

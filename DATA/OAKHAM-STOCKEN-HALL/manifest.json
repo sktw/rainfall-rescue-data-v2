@@ -13,5 +13,13 @@
                 "end_date": "1909/13"
             }
         ]
+    },
+    "idr": {
+        "OAKHAM-STOCKEN-HALL.csv": [
+            {
+                "start_date": "1895/03",
+                "end_date": "1895/03"
+            }
+        ]
     }
 }

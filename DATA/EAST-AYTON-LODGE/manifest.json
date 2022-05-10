@@ -1,0 +1,24 @@
+{
+    "name": "EAST-AYTON-LODGE",
+    "data": {
+        "EAST-AYTON-LODGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-024.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "EAST-AYTON-LODGE.csv": [
+            {
+                "start_date": "1917/12",
+                "end_date": "1917/12"
+            },
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/06"
+            }
+        ]
+    }
+}

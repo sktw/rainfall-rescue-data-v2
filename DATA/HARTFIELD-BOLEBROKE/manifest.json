@@ -1,6 +1,18 @@
 {
     "name": "HARTFIELD-BOLEBROKE",
     "data": {
+        "HARTFIELD-BOLEBROKE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-243.csv",
+                "start_date": "1941/03",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-243.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ],
         "HARTFIELD-BOLEBROKE.csv": [
             {
                 "filename": "TYRain_1920-1930_04_pt1-page-269.csv",
@@ -13,7 +25,7 @@
                 "end_date": "1940/13"
             },
             {
-                "filename": "TYRain_1941-1950_04_pt1-page-243.csv",
+                "filename": "TYRain_1941-1950_04_pt1-page-242.csv",
                 "start_date": "1941/01",
                 "end_date": "1950/13"
             }
@@ -21,7 +33,14 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1941-1950_04_pt1-page-242.csv"
+            "filename": "TYRain_1941-1950_04_pt1-page-243.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-243.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
         }
     ]
 }

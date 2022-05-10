@@ -1,0 +1,184 @@
+{
+    "name": "ABERDEEN-HUNTLY-LODGE",
+    "data": {
+        "ABERDEEN-HUNTLY-LODGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1820/01",
+                "end_date": "1821/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1821/10",
+                "end_date": "1821/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1822/01",
+                "end_date": "1822/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1823/01",
+                "end_date": "1823/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1823/10",
+                "end_date": "1823/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1824/01",
+                "end_date": "1824/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1824/10",
+                "end_date": "1824/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1825/01",
+                "end_date": "1825/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1826/01",
+                "end_date": "1826/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1827/01",
+                "end_date": "1827/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1827/10",
+                "end_date": "1827/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1828/01",
+                "end_date": "1828/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1828/11",
+                "end_date": "1828/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1829/01",
+                "end_date": "1829/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1829/11",
+                "end_date": "1829/12"
+            }
+        ],
+        "ABERDEEN-HUNTLY-LODGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1820/01",
+                "end_date": "1821/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1821/10",
+                "end_date": "1821/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1821/12",
+                "end_date": "1822/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1822/08",
+                "end_date": "1823/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1823/11",
+                "end_date": "1824/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1824/11",
+                "end_date": "1825/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1825/09",
+                "end_date": "1826/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1826/12",
+                "end_date": "1827/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1827/11",
+                "end_date": "1828/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1828/09",
+                "end_date": "1828/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1828/11",
+                "end_date": "1829/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+                "start_date": "1829/12",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABERDEEN-HUNTLY-LODGE-2.csv": [
+            {
+                "start_date": "1825/08",
+                "end_date": "1825/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+            "start_date": "1821/09",
+            "end_date": "1821/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+            "start_date": "1823/09",
+            "end_date": "1823/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+            "start_date": "1824/09",
+            "end_date": "1824/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+            "start_date": "1827/09",
+            "end_date": "1827/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+            "start_date": "1828/10",
+            "end_date": "1828/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-030.csv",
+            "start_date": "1829/09",
+            "end_date": "1829/10"
+        }
+    ]
+}

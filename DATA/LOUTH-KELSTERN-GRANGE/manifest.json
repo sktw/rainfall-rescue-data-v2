@@ -1,0 +1,29 @@
+{
+    "name": "LOUTH-KELSTERN-GRANGE",
+    "data": {
+        "LOUTH-KELSTERN-GRANGE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-049.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-053.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/13"
+            }
+        ],
+        "LOUTH-KELSTERN-GRANGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-048.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-052.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/13"
+            }
+        ]
+    }
+}

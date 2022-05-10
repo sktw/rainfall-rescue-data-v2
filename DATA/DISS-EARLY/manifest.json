@@ -1,0 +1,12 @@
+{
+    "name": "DISS-EARLY",
+    "data": {
+        "DISS-EARLY.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-010.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    }
+}

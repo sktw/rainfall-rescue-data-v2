@@ -1,0 +1,39 @@
+{
+    "name": "WEM-THE-RECTORY",
+    "data": {
+        "WEM-THE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-067.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-067.csv",
+                "start_date": "1907/01",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-067.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_16_pt1-page-067.csv",
+            "start_date": "1906/13",
+            "end_date": "1906/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_16_pt1-page-067.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_16_pt1-page-067.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "WATTON-ABBEY",
+    "data": {
+        "WATTON-ABBEY.csv": [
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-203.csv",
+                "start_date": "1916/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-125.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/13"
+            }
+        ]
+    }
+}

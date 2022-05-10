@@ -1,6 +1,13 @@
 {
     "name": "CANTERBURY-HARBLEDOWN-ROUGH-COMMON",
     "data": {
+        "CANTERBURY-HARBLEDOWN-ROUGH-COMMON-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-040.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
         "CANTERBURY-HARBLEDOWN-ROUGH-COMMON.csv": [
             {
                 "filename": "TYRain_1920-1930_03_pt1-page-077.csv",
@@ -18,10 +25,5 @@
                 "end_date": "1950/13"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1870-1879_01_pt3-page-040.csv"
-        }
-    ]
+    }
 }

@@ -1,0 +1,20 @@
+{
+    "name": "WOBURN-ABBEY-THE-RIDING-HOUSE",
+    "data": {
+        "WOBURN-ABBEY-THE-RIDING-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-084.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "idr": {
+        "WOBURN-ABBEY-THE-RIDING-HOUSE.csv": [
+            {
+                "start_date": "1801/13",
+                "end_date": "1801/13"
+            }
+        ]
+    }
+}

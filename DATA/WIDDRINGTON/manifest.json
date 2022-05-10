@@ -1,0 +1,32 @@
+{
+    "name": "WIDDRINGTON",
+    "data": {
+        "WIDDRINGTON.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-022.csv",
+                "start_date": "1720/01",
+                "end_date": "1729/13"
+            }
+        ]
+    },
+    "idr": {
+        "WIDDRINGTON.csv": [
+            {
+                "start_date": "1722/04",
+                "end_date": "1722/12"
+            },
+            {
+                "start_date": "1723/01",
+                "end_date": "1723/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt1-page-075.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-052.csv"
+        }
+    ]
+}

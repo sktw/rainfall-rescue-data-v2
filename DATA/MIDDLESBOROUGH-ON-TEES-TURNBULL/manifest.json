@@ -1,0 +1,32 @@
+{
+    "name": "MIDDLESBOROUGH-ON-TEES-TURNBULL",
+    "data": {
+        "MIDDLESBOROUGH-ON-TEES-TURNBULL.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-111.csv",
+                "start_date": "1840/01",
+                "end_date": "1841/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-111.csv",
+                "start_date": "1842/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "MIDDLESBOROUGH-ON-TEES-TURNBULL.csv": [
+            {
+                "start_date": "1842/03",
+                "end_date": "1842/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt1-page-111.csv",
+            "start_date": "1841/13",
+            "end_date": "1841/13"
+        }
+    ]
+}

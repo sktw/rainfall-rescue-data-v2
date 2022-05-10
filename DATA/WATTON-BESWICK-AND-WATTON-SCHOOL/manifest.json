@@ -1,0 +1,17 @@
+{
+    "name": "WATTON-BESWICK-AND-WATTON-SCHOOL",
+    "data": {
+        "WATTON-BESWICK-AND-WATTON-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-264.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-117.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/13"
+            }
+        ]
+    }
+}

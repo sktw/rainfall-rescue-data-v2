@@ -1,0 +1,51 @@
+{
+    "name": "KNIGHTON-YSTRAD-HOUSE",
+    "data": {
+        "KNIGHTON-YSTRAD-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-033.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/10"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-033.csv",
+                "start_date": "1894/13",
+                "end_date": "1894/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-033.csv",
+                "start_date": "1895/05",
+                "end_date": "1895/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-033.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-189.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "KNIGHTON-YSTRAD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-033.csv",
+                "start_date": "1890/01",
+                "end_date": "1895/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_20_pt1-page-033.csv",
+            "start_date": "1895/04",
+            "end_date": "1895/04"
+        },
+        {
+            "filename": "TYRain_1890-1899_20_pt1-page-033.csv",
+            "start_date": "1895/13",
+            "end_date": "1895/13"
+        }
+    ]
+}

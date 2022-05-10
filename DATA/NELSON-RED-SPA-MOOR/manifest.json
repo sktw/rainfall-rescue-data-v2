@@ -11,6 +11,36 @@
                 "filename": "ERROR_TYRain_1931-1940_17_pt1-page-233.csv",
                 "start_date": "1931/01",
                 "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+                "start_date": "1943/06",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+                "start_date": "1944/01",
+                "end_date": "1948/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+                "start_date": "1948/04",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-046.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
             }
         ]
     },
@@ -24,10 +54,24 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1941-1950_20_pt1-page-047.csv"
+            "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+            "start_date": "1943/01",
+            "end_date": "1943/05"
         },
         {
-            "filename": "TYRain_1951-1960_18_pt1-page-046.csv"
+            "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+            "start_date": "1948/02",
+            "end_date": "1948/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-047.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
         }
     ]
 }

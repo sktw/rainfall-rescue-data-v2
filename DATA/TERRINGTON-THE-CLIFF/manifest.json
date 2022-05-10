@@ -1,0 +1,17 @@
+{
+    "name": "TERRINGTON-THE-CLIFF",
+    "data": {
+        "TERRINGTON-THE-CLIFF.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-012.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-007.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            }
+        ]
+    }
+}
