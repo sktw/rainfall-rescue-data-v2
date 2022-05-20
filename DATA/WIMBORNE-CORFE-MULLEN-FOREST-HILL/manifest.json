@@ -1,0 +1,40 @@
+{
+    "name": "WIMBORNE-CORFE-MULLEN-FOREST-HILL",
+    "data": {
+        "WIMBORNE-CORFE-MULLEN-FOREST-HILL.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-106.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-100.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-180.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-159.csv",
+                "start_date": "1938/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-180.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "WIMBORNE-CORFE-MULLEN-FOREST-HILL.csv": [
+            {
+                "start_date": "1929/08",
+                "end_date": "1929/08"
+            }
+        ]
+    }
+}

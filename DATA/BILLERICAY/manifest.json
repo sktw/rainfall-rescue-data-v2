@@ -1,0 +1,37 @@
+{
+    "name": "BILLERICAY",
+    "data": {
+        "BILLERICAY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_03_pt1-page-060.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-027.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BILLERICAY.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-071.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-057.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "BILLERICAY.csv": [
+            {
+                "start_date": "1866/09",
+                "end_date": "1866/09"
+            }
+        ]
+    }
+}

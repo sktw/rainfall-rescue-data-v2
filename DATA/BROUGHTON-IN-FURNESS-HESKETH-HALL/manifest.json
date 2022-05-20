@@ -1,0 +1,29 @@
+{
+    "name": "BROUGHTON-IN-FURNESS-HESKETH-HALL",
+    "data": {
+        "BROUGHTON-IN-FURNESS-HESKETH-HALL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_18A_pt1-page-009.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-124.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROUGHTON-IN-FURNESS-HESKETH-HALL.csv": [
+            {
+                "start_date": "1935/13",
+                "end_date": "1935/13"
+            },
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    }
+}

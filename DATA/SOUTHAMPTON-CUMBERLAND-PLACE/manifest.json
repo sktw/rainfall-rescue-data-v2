@@ -1,0 +1,17 @@
+{
+    "name": "SOUTHAMPTON-CUMBERLAND-PLACE",
+    "data": {
+        "SOUTHAMPTON-CUMBERLAND-PLACE.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-058.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-101.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "BODIAM-SOUTH-PARK",
+    "data": {
+        "BODIAM-SOUTH-PARK.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-187.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-203.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

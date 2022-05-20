@@ -1,0 +1,12 @@
+{
+    "name": "HOPTON-HALL",
+    "data": {
+        "HOPTON-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-097.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

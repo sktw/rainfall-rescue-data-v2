@@ -1,0 +1,12 @@
+{
+    "name": "AUDENSHAW-RESERVOIRS",
+    "data": {
+        "AUDENSHAW-RESERVOIRS.csv": [
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-279.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

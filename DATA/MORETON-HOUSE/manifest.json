@@ -1,0 +1,25 @@
+{
+    "name": "MORETON-HOUSE",
+    "data": {
+        "MORETON-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt1-page-066.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt3-page-034.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "MORETON-HOUSE.csv": [
+            {
+                "start_date": "1878/13",
+                "end_date": "1878/13"
+            }
+        ]
+    }
+}

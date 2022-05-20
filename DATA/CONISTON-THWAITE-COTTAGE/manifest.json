@@ -1,0 +1,42 @@
+{
+    "name": "CONISTON-THWAITE-COTTAGE",
+    "data": {
+        "CONISTON-THWAITE-COTTAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_18A_pt1-page-024.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-138.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-138.csv",
+                "start_date": "1950/11",
+                "end_date": "1950/11"
+            }
+        ]
+    },
+    "idr": {
+        "CONISTON-THWAITE-COTTAGE.csv": [
+            {
+                "start_date": "1934/10",
+                "end_date": "1934/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-138.csv",
+            "start_date": "1950/08",
+            "end_date": "1950/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-138.csv",
+            "start_date": "1950/12",
+            "end_date": "1950/13"
+        }
+    ]
+}

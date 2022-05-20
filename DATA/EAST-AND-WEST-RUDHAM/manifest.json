@@ -25,5 +25,10 @@
                 "end_date": "1919/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_10_pt1-page-057.csv"
+        }
+    ]
 }

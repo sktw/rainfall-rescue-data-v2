@@ -1,0 +1,29 @@
+{
+    "name": "MARKET-HARBOROUGH-THE-HUTCH",
+    "data": {
+        "MARKET-HARBOROUGH-THE-HUTCH-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-017.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-017.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-074.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "MARKET-HARBOROUGH-THE-HUTCH.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-017.csv",
+                "start_date": "1880/01",
+                "end_date": "1887/13"
+            }
+        ]
+    }
+}

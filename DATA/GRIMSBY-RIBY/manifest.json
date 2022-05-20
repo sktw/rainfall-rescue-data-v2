@@ -18,5 +18,21 @@
                 "end_date": "1919/13"
             }
         ]
+    },
+    "external": {
+        "GRIMSBY-RIBY.csv": [
+            {
+                "filename": "MISSING_TYRain_1920-1930_GRIMSBY_RIBY-page-0.csv",
+                "comment": "Data from British Rainfall 1920",
+                "start_date": "1920/13",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "MISSING_TYRain_1920-1930_GRIMSBY_RIBY-page-0.csv",
+                "comment": "Data from British Rainfall 1921",
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            }
+        ]
     }
 }

@@ -1,0 +1,12 @@
+{
+    "name": "MAGHULL",
+    "data": {
+        "MAGHULL.csv": [
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-156.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

@@ -30,5 +30,15 @@
             "start_date": "1880/12",
             "end_date": "1880/13"
         }
-    ]
+    ],
+    "external": {
+        "CROSBY-RAVENSWORTH-REAGILL.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt5-page-041.csv",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/04"
+            }
+        ]
+    }
 }

@@ -1,0 +1,29 @@
+{
+    "name": "LEICESTER-BELMONT-VILLAS",
+    "data": {
+        "LEICESTER-BELMONT-VILLAS-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-013.csv",
+                "start_date": "1883/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "LEICESTER-BELMONT-VILLAS.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-099.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-013.csv",
+                "start_date": "1880/01",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-013.csv",
+                "start_date": "1884/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

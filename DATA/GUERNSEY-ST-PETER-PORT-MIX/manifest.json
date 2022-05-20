@@ -1,0 +1,155 @@
+{
+    "name": "GUERNSEY-ST-PETER-PORT-MIX",
+    "data": {
+        "GUERNSEY-ST-PETER-PORT-MIX-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_18_pt1-page-056.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_18_pt1-page-056.csv",
+                "start_date": "1881/04",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_18_pt1-page-056.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_22_pt1-page-027.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/11"
+            },
+            {
+                "filename": "TYRain_1890-1899_22_pt1-page-027.csv",
+                "start_date": "1893/12",
+                "end_date": "1899/13"
+            }
+        ],
+        "GUERNSEY-ST-PETER-PORT-MIX-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_22_pt1-page-026.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-203.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-203.csv",
+                "start_date": "1903/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "GUERNSEY-ST-PETER-PORT-MIX-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-206.csv",
+                "start_date": "1902/01",
+                "end_date": "1902/10"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-203.csv",
+                "start_date": "1902/11",
+                "end_date": "1902/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-206.csv",
+                "start_date": "1903/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-038.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-152.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/05"
+            }
+        ],
+        "GUERNSEY-ST-PETER-PORT-MIX-5.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-152.csv",
+                "start_date": "1921/07",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-152.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_23_pt1-page-191.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "GUERNSEY-ST-PETER-PORT-MIX.csv": [
+            {
+                "filename": "TYRain_1880-1889_18_pt1-page-057.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_22_pt1-page-026.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/13"
+            }
+        ]
+    },
+    "idr": {
+        "GUERNSEY-ST-PETER-PORT-MIX-5.csv": [
+            {
+                "start_date": "1931/10",
+                "end_date": "1931/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_18_pt1-page-056.csv",
+            "start_date": "1881/01",
+            "end_date": "1881/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_18_pt1-page-056.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_22_pt1-page-027.csv",
+            "start_date": "1892/12",
+            "end_date": "1893/11"
+        },
+        {
+            "filename": "TYRain_1900-1909_26_pt1-page-203.csv",
+            "start_date": "1902/10",
+            "end_date": "1902/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_26_pt1-page-203.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_26_pt1-page-206.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-152.csv",
+            "start_date": "1921/06",
+            "end_date": "1921/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-152.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

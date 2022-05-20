@@ -1,0 +1,51 @@
+{
+    "name": "SUDBURY-GREAT-CORNARD",
+    "data": {
+        "SUDBURY-GREAT-CORNARD-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-006.csv",
+                "start_date": "1921/12",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-006.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "SUDBURY-GREAT-CORNARD.csv": [
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-226.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-181.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-006.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-006.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-006.csv",
+            "start_date": "1921/11",
+            "end_date": "1921/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-006.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

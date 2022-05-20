@@ -1,0 +1,25 @@
+{
+    "name": "TERLING-PLACE-GARDENS",
+    "data": {
+        "TERLING-PLACE-GARDENS.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-254.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-121.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "TERLING-PLACE-GARDENS.csv": [
+            {
+                "start_date": "1932/13",
+                "end_date": "1932/13"
+            }
+        ]
+    }
+}

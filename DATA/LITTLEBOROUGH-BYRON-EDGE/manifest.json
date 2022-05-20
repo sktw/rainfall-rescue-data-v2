@@ -1,0 +1,42 @@
+{
+    "name": "LITTLEBOROUGH-BYRON-EDGE",
+    "data": {
+        "LITTLEBOROUGH-BYRON-EDGE.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-041.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_18_pt1-page-034.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-036.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "LITTLEBOROUGH-BYRON-EDGE.csv": [
+            {
+                "start_date": "1912/02",
+                "end_date": "1912/02"
+            },
+            {
+                "start_date": "1915/04",
+                "end_date": "1915/04"
+            },
+            {
+                "start_date": "1915/12",
+                "end_date": "1915/12"
+            },
+            {
+                "start_date": "1919/03",
+                "end_date": "1919/03"
+            }
+        ]
+    }
+}

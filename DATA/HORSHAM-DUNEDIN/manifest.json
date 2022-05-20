@@ -1,0 +1,57 @@
+{
+    "name": "HORSHAM-DUNEDIN",
+    "data": {
+        "HORSHAM-DUNEDIN.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-069.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-117.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-117.csv",
+                "start_date": "1931/08",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-117.csv",
+                "start_date": "1932/01",
+                "end_date": "1935/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-117.csv",
+                "start_date": "1935/09",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HORSHAM-DUNEDIN.csv": [
+            {
+                "start_date": "1933/13",
+                "end_date": "1933/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_04_pt1-page-117.csv",
+            "start_date": "1931/07",
+            "end_date": "1931/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_04_pt1-page-117.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_04_pt1-page-117.csv",
+            "start_date": "1935/08",
+            "end_date": "1935/08"
+        }
+    ]
+}

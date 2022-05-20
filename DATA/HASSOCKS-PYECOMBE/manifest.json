@@ -1,0 +1,44 @@
+{
+    "name": "HASSOCKS-PYECOMBE",
+    "data": {
+        "HASSOCKS-PYECOMBE.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-076.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-088.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/07"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-088.csv",
+                "start_date": "1907/10",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-088.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-099.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_04_pt1-page-088.csv",
+            "start_date": "1907/08",
+            "end_date": "1907/09"
+        },
+        {
+            "filename": "TYRain_1900-1909_04_pt1-page-088.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
+}

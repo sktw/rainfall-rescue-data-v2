@@ -1,0 +1,44 @@
+{
+    "name": "HUNTINGDON-BRAMPTON-THE-LILACS",
+    "data": {
+        "HUNTINGDON-BRAMPTON-THE-LILACS.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-012.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-012.csv",
+                "start_date": "1921/11",
+                "end_date": "1929/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-012.csv",
+                "start_date": "1929/10",
+                "end_date": "1929/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-012.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-012.csv",
+            "start_date": "1921/10",
+            "end_date": "1921/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-012.csv",
+            "start_date": "1929/07",
+            "end_date": "1929/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-012.csv",
+            "start_date": "1929/12",
+            "end_date": "1929/13"
+        }
+    ]
+}

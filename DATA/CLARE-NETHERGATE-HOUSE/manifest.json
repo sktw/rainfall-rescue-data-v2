@@ -1,0 +1,42 @@
+{
+    "name": "CLARE-NETHERGATE-HOUSE",
+    "data": {
+        "CLARE-NETHERGATE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-012.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-016.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-016.csv",
+                "start_date": "1936/06",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-016.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-016.csv",
+            "start_date": "1936/05",
+            "end_date": "1936/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-016.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-197.csv"
+        }
+    ]
+}

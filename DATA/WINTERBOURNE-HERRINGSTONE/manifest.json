@@ -1,0 +1,51 @@
+{
+    "name": "WINTERBOURNE-HERRINGSTONE",
+    "data": {
+        "WINTERBOURNE-HERRINGSTONE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-048.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WINTERBOURNE-HERRINGSTONE.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-118.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-060.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-047.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-047.csv",
+                "start_date": "1912/01",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-047.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_11_pt1-page-047.csv",
+            "start_date": "1911/01",
+            "end_date": "1911/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_11_pt1-page-047.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

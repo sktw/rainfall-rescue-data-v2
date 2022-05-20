@@ -1,0 +1,64 @@
+{
+    "name": "ELHAM-DOMEL",
+    "data": {
+        "ELHAM-DOMEL.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-048.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-048.csv",
+                "start_date": "1928/02",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-048.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-146.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-146.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-146.csv",
+                "start_date": "1940/12",
+                "end_date": "1940/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-048.csv",
+            "start_date": "1928/01",
+            "end_date": "1928/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-048.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-146.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-146.csv",
+            "start_date": "1940/10",
+            "end_date": "1940/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-146.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

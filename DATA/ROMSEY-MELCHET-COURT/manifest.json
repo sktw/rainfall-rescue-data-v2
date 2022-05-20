@@ -1,0 +1,22 @@
+{
+    "name": "ROMSEY-MELCHET-COURT",
+    "data": {
+        "ROMSEY-MELCHET-COURT.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-086.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-111.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-094.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

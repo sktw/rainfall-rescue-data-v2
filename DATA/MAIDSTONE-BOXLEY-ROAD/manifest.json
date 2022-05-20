@@ -1,0 +1,29 @@
+{
+    "name": "MAIDSTONE-BOXLEY-ROAD",
+    "data": {
+        "MAIDSTONE-BOXLEY-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-143.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-145.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MAIDSTONE-BOXLEY-ROAD.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-047.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-080.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

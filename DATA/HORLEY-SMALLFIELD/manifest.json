@@ -1,6 +1,48 @@
 {
     "name": "HORLEY-SMALLFIELD",
     "data": {
+        "HORLEY-SMALLFIELD-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-099.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+                "start_date": "1942/02",
+                "end_date": "1942/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+                "start_date": "1942/06",
+                "end_date": "1942/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+                "start_date": "1942/10",
+                "end_date": "1942/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+                "start_date": "1943/01",
+                "end_date": "1943/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+                "start_date": "1943/04",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            }
+        ],
         "HORLEY-SMALLFIELD.csv": [
             {
                 "filename": "TYRain_1910-1919_2A_pt1-page-092.csv",
@@ -19,12 +61,44 @@
             }
         ]
     },
+    "idr": {
+        "HORLEY-SMALLFIELD-2.csv": [
+            {
+                "start_date": "1946/13",
+                "end_date": "1946/13"
+            }
+        ]
+    },
     "unused": [
         {
-            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv"
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/01"
         },
         {
-            "filename": "TYRain_1931-1940_02_pt1-page-099.csv"
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+            "start_date": "1942/05",
+            "end_date": "1942/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+            "start_date": "1942/09",
+            "end_date": "1942/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+            "start_date": "1942/11",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+            "start_date": "1943/03",
+            "end_date": "1943/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-069.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
         }
     ]
 }

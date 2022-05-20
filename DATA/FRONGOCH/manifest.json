@@ -1,0 +1,19 @@
+{
+    "name": "FRONGOCH",
+    "data": {
+        "FRONGOCH.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-044.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_06_pt3-page-044.csv",
+            "start_date": "1869/12",
+            "end_date": "1869/13"
+        }
+    ]
+}

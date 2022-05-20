@@ -1,0 +1,38 @@
+{
+    "name": "BECKENHAM-THE-HALL",
+    "data": {
+        "BECKENHAM-THE-HALL-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt3-page-101.csv",
+                "start_date": "1870/01",
+                "end_date": "1874/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt3-page-101.csv",
+                "start_date": "1875/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BECKENHAM-THE-HALL-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-102.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BECKENHAM-THE-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-103.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_01_pt3-page-101.csv",
+            "start_date": "1874/13",
+            "end_date": "1874/13"
+        }
+    ]
+}

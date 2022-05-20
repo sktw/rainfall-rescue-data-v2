@@ -1,0 +1,29 @@
+{
+    "name": "FIELD-DALLING",
+    "data": {
+        "FIELD-DALLING-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-038.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "FIELD-DALLING.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-172.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-038.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-038.csv",
+                "start_date": "1907/06",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

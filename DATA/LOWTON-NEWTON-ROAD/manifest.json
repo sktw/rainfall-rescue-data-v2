@@ -1,0 +1,44 @@
+{
+    "name": "LOWTON-NEWTON-ROAD",
+    "data": {
+        "LOWTON-NEWTON-ROAD.csv": [
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-034.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-123.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-123.csv",
+                "start_date": "1941/05",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-123.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-123.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-123.csv",
+            "start_date": "1941/04",
+            "end_date": "1941/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-123.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

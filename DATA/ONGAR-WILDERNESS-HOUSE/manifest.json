@@ -1,0 +1,137 @@
+{
+    "name": "ONGAR-WILDERNESS-HOUSE",
+    "data": {
+        "ONGAR-WILDERNESS-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-203.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-203.csv",
+                "start_date": "1938/02",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-203.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+                "start_date": "1944/11",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+                "start_date": "1945/03",
+                "end_date": "1945/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+                "start_date": "1945/10",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+                "start_date": "1946/06",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-191.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-191.csv",
+                "start_date": "1951/05",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-191.csv",
+                "start_date": "1951/10",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-191.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "ONGAR-WILDERNESS-HOUSE.csv": [
+            {
+                "start_date": "1948/13",
+                "end_date": "1948/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+            "start_date": "1944/08",
+            "end_date": "1944/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+            "start_date": "1944/13",
+            "end_date": "1945/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+            "start_date": "1945/07",
+            "end_date": "1945/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+            "start_date": "1945/13",
+            "end_date": "1946/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_10_pt1-page-072.csv",
+            "start_date": "1950/12",
+            "end_date": "1950/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-203.csv",
+            "start_date": "1938/01",
+            "end_date": "1938/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-203.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-191.csv",
+            "start_date": "1951/03",
+            "end_date": "1951/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-191.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-191.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

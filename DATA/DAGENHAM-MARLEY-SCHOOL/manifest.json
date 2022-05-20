@@ -1,0 +1,19 @@
+{
+    "name": "DAGENHAM-MARLEY-SCHOOL",
+    "data": {
+        "DAGENHAM-MARLEY-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-151.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DAGENHAM-MARLEY-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-151.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            }
+        ]
+    }
+}

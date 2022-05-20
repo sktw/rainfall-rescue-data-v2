@@ -1,0 +1,97 @@
+{
+    "name": "BRENTWOOD-SECONDARY-BOYS-SCHOOL",
+    "data": {
+        "BRENTWOOD-SECONDARY-BOYS-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-195.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-195.csv",
+                "start_date": "1940/12",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-064.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-064.csv",
+                "start_date": "1941/05",
+                "end_date": "1941/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-064.csv",
+                "start_date": "1941/07",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-064.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-187.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-187.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-187.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRENTWOOD-SECONDARY-BOYS-SCHOOL.csv": [
+            {
+                "start_date": "1940/07",
+                "end_date": "1940/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_08_pt1-page-195.csv",
+            "start_date": "1940/11",
+            "end_date": "1940/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_08_pt1-page-195.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-064.csv",
+            "start_date": "1941/04",
+            "end_date": "1941/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-064.csv",
+            "start_date": "1941/06",
+            "end_date": "1941/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-064.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-187.csv",
+            "start_date": "1955/04",
+            "end_date": "1955/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-187.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

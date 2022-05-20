@@ -1,0 +1,44 @@
+{
+    "name": "RICKINGHALL-RECTORY",
+    "data": {
+        "RICKINGHALL-RECTORY.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt2-page-047.csv",
+                "start_date": "1870/01",
+                "end_date": "1878/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt2-page-048.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt1-page-069.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/10"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt1-page-069.csv",
+                "start_date": "1881/12",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt1-page-069.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_05_pt1-page-069.csv",
+            "start_date": "1881/11",
+            "end_date": "1881/11"
+        },
+        {
+            "filename": "TYRain_1880-1889_05_pt1-page-069.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        }
+    ]
+}

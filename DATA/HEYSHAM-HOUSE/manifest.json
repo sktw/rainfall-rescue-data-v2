@@ -12,11 +12,6 @@
             {
                 "filename": "TYRain_1890-1899_15_pt1-page-114.csv",
                 "start_date": "1890/01",
-                "end_date": "1895/12"
-            },
-            {
-                "filename": "TYRain_1890-1899_15_pt1-page-114.csv",
-                "start_date": "1896/01",
                 "end_date": "1899/13"
             },
             {
@@ -31,11 +26,12 @@
             }
         ]
     },
-    "unused": [
-        {
-            "filename": "TYRain_1890-1899_15_pt1-page-114.csv",
-            "start_date": "1895/13",
-            "end_date": "1895/13"
-        }
-    ]
+    "idr": {
+        "HEYSHAM-HOUSE.csv": [
+            {
+                "start_date": "1895/03",
+                "end_date": "1895/03"
+            }
+        ]
+    }
 }

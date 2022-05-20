@@ -1,0 +1,25 @@
+{
+    "name": "GREAT-BENTLEY-THE-LODGE",
+    "data": {
+        "GREAT-BENTLEY-THE-LODGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-051.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_08_pt1-page-082.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "GREAT-BENTLEY-THE-LODGE.csv": [
+            {
+                "start_date": "1892/13",
+                "end_date": "1892/13"
+            }
+        ]
+    }
+}

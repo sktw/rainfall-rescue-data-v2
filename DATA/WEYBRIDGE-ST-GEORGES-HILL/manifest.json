@@ -1,0 +1,68 @@
+{
+    "name": "WEYBRIDGE-ST-GEORGES-HILL",
+    "data": {
+        "WEYBRIDGE-ST-GEORGES-HILL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-058.csv",
+                "start_date": "1914/13",
+                "end_date": "1914/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-058.csv",
+                "start_date": "1917/11",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-058.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-317.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-062.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "WEYBRIDGE-ST-GEORGES-HILL-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-150.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-150.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "WEYBRIDGE-ST-GEORGES-HILL.csv": [
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1917/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_2B_pt2-page-058.csv",
+            "start_date": "1917/10",
+            "end_date": "1917/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_2B_pt2-page-058.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        }
+    ]
+}

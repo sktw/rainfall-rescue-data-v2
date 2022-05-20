@@ -1,0 +1,25 @@
+{
+    "name": "GODMANCHESTER-FARM-HALL",
+    "data": {
+        "GODMANCHESTER-FARM-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-045.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt3-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "GODMANCHESTER-FARM-HALL.csv": [
+            {
+                "start_date": "1882/01",
+                "end_date": "1882/01"
+            }
+        ]
+    }
+}

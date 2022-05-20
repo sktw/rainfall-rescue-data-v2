@@ -1,0 +1,73 @@
+{
+    "name": "PURLEY-RIDDLESDOWN-ROAD",
+    "data": {
+        "PURLEY-RIDDLESDOWN-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-036.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-064.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-062.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "PURLEY-RIDDLESDOWN-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-061.csv",
+                "start_date": "1922/04",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-061.csv",
+                "start_date": "1923/01",
+                "end_date": "1929/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-061.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "PURLEY-RIDDLESDOWN-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-035.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-063.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-061.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-061.csv",
+            "start_date": "1922/03",
+            "end_date": "1922/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-061.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-061.csv",
+            "start_date": "1929/10",
+            "end_date": "1929/13"
+        }
+    ]
+}

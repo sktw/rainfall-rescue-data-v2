@@ -1,0 +1,12 @@
+{
+    "name": "BRANTHAM",
+    "data": {
+        "BRANTHAM.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-178.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

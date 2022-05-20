@@ -1,0 +1,66 @@
+{
+    "name": "NORTH-WOOTTON",
+    "data": {
+        "NORTH-WOOTTON-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-054.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-054.csv",
+                "start_date": "1914/05",
+                "end_date": "1919/13"
+            }
+        ],
+        "NORTH-WOOTTON.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-149.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-082.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/04"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-082.csv",
+                "start_date": "1877/07",
+                "end_date": "1877/07"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-082.csv",
+                "start_date": "1877/09",
+                "end_date": "1877/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-082.csv",
+                "start_date": "1878/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-082.csv",
+            "start_date": "1877/05",
+            "end_date": "1877/06"
+        },
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-082.csv",
+            "start_date": "1877/08",
+            "end_date": "1877/08"
+        },
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-082.csv",
+            "start_date": "1877/13",
+            "end_date": "1877/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-054.csv",
+            "start_date": "1914/04",
+            "end_date": "1914/04"
+        }
+    ]
+}

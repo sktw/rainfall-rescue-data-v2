@@ -1,0 +1,58 @@
+{
+    "name": "SOUTH-NORWOOD-APSLEY-ROAD",
+    "data": {
+        "SOUTH-NORWOOD-APSLEY-ROAD.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-018.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-011.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-011.csv",
+                "start_date": "1903/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-029.csv",
+                "start_date": "1910/01",
+                "end_date": "1917/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-029.csv",
+                "start_date": "1917/08",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOUTH-NORWOOD-APSLEY-ROAD.csv": [
+            {
+                "start_date": "1898/08",
+                "end_date": "1898/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_02_pt1-page-017.csv"
+        },
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-010.csv"
+        },
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-011.csv",
+            "start_date": "1902/04",
+            "end_date": "1902/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-029.csv",
+            "start_date": "1917/07",
+            "end_date": "1917/07"
+        }
+    ]
+}

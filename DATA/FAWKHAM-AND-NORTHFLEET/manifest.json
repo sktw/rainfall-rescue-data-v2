@@ -1,0 +1,62 @@
+{
+    "name": "FAWKHAM-AND-NORTHFLEET",
+    "data": {
+        "FAWKHAM-AND-NORTHFLEET-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+                "start_date": "1731/01",
+                "end_date": "1733/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+                "start_date": "1735/01",
+                "end_date": "1735/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+                "start_date": "1736/01",
+                "end_date": "1739/13"
+            }
+        ],
+        "FAWKHAM-AND-NORTHFLEET.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+                "start_date": "1730/01",
+                "end_date": "1730/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+                "start_date": "1735/01",
+                "end_date": "1735/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+                "start_date": "1736/01",
+                "end_date": "1739/13"
+            }
+        ]
+    },
+    "idr": {
+        "FAWKHAM-AND-NORTHFLEET-2.csv": [
+            {
+                "start_date": "1731/13",
+                "end_date": "1731/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+            "start_date": "1734/01",
+            "end_date": "1734/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-048.csv",
+            "start_date": "1735/13",
+            "end_date": "1735/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-047.csv"
+        }
+    ]
+}

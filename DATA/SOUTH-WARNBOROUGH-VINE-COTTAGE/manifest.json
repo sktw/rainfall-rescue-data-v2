@@ -1,0 +1,51 @@
+{
+    "name": "SOUTH-WARNBOROUGH-VINE-COTTAGE",
+    "data": {
+        "SOUTH-WARNBOROUGH-VINE-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-290.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-238.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-238.csv",
+                "start_date": "1934/01",
+                "end_date": "1937/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-238.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOUTH-WARNBOROUGH-VINE-COTTAGE.csv": [
+            {
+                "start_date": "1935/01",
+                "end_date": "1935/01"
+            },
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_05_pt1-page-238.csv",
+            "start_date": "1933/12",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_05_pt1-page-238.csv",
+            "start_date": "1937/12",
+            "end_date": "1937/13"
+        }
+    ]
+}

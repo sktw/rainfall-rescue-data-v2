@@ -1,0 +1,24 @@
+{
+    "name": "BLABY-WHETSTONE-ROAD",
+    "data": {
+        "BLABY-WHETSTONE-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-268.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BLABY-WHETSTONE-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-017.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-267.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

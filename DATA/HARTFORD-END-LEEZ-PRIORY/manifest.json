@@ -1,0 +1,17 @@
+{
+    "name": "HARTFORD-END-LEEZ-PRIORY",
+    "data": {
+        "HARTFORD-END-LEEZ-PRIORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-110.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-234.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "LYME-REGIS-HIGHCLIFF",
+    "data": {
+        "LYME-REGIS-HIGHCLIFF-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-069.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-067.csv",
+                "start_date": "1910/13",
+                "end_date": "1910/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-069.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-076.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LYME-REGIS-HIGHCLIFF.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-067.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LYME-REGIS-HIGHCLIFF-2.csv": [
+            {
+                "start_date": "1918/12",
+                "end_date": "1918/12"
+            }
+        ]
+    }
+}

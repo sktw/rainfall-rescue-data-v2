@@ -1,0 +1,17 @@
+{
+    "name": "HAYES-LAYHAMS-FARM",
+    "data": {
+        "HAYES-LAYHAMS-FARM.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-136.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-158.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

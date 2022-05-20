@@ -1,0 +1,40 @@
+{
+    "name": "CHELMSFORD-GREAT-BADDOW-THE-VINEYARDS",
+    "data": {
+        "CHELMSFORD-GREAT-BADDOW-THE-VINEYARDS.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_03_pt1-page-064.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-033.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHELMSFORD-GREAT-BADDOW-THE-VINEYARDS.csv": [
+            {
+                "start_date": "1873/13",
+                "end_date": "1873/13"
+            },
+            {
+                "start_date": "1874/13",
+                "end_date": "1874/13"
+            },
+            {
+                "start_date": "1875/13",
+                "end_date": "1875/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_03_pt1-page-064.csv",
+            "start_date": "1879/13",
+            "end_date": "1879/13"
+        }
+    ]
+}

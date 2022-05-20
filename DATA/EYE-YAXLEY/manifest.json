@@ -1,0 +1,41 @@
+{
+    "name": "EYE-YAXLEY",
+    "data": {
+        "EYE-YAXLEY-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-064.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-085.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "EYE-YAXLEY.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-081.csv",
+                "start_date": "1860/01",
+                "end_date": "1865/04"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-081.csv",
+                "start_date": "1865/06",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt2-page-033.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_02_pt2-page-081.csv",
+            "start_date": "1865/05",
+            "end_date": "1865/05"
+        }
+    ]
+}

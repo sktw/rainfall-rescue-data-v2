@@ -1,0 +1,12 @@
+{
+    "name": "HASTINGS-LITERARY-INSTITUTE",
+    "data": {
+        "HASTINGS-LITERARY-INSTITUTE.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-084.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    }
+}

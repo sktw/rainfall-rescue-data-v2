@@ -1,0 +1,66 @@
+{
+    "name": "PEVENSEY-VICARAGE",
+    "data": {
+        "PEVENSEY-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-108.csv",
+                "start_date": "1860/01",
+                "end_date": "1860/06"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-109.csv",
+                "start_date": "1860/07",
+                "end_date": "1860/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-108.csv",
+                "start_date": "1860/10",
+                "end_date": "1867/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-109.csv",
+                "start_date": "1868/01",
+                "end_date": "1869/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-108.csv",
+                "start_date": "1869/09",
+                "end_date": "1869/09"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-109.csv",
+                "start_date": "1869/10",
+                "end_date": "1869/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-108.csv",
+                "start_date": "1869/11",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt1-page-046.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "PEVENSEY-VICARAGE.csv": [
+            {
+                "start_date": "1870/03",
+                "end_date": "1870/03"
+            },
+            {
+                "start_date": "1871/13",
+                "end_date": "1871/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_01_pt2-page-108.csv",
+            "start_date": "1860/07",
+            "end_date": "1860/09"
+        }
+    ]
+}

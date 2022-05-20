@@ -1,0 +1,69 @@
+{
+    "name": "THEYDON-BOIS-VICARAGE",
+    "data": {
+        "THEYDON-BOIS-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-180.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+                "start_date": "1933/01",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+                "start_date": "1934/04",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+                "start_date": "1935/01",
+                "end_date": "1938/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+                "start_date": "1938/09",
+                "end_date": "1938/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+            "start_date": "1932/12",
+            "end_date": "1932/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+            "start_date": "1934/01",
+            "end_date": "1934/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+            "start_date": "1938/08",
+            "end_date": "1938/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_08_pt1-page-200.csv",
+            "start_date": "1938/12",
+            "end_date": "1938/13"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "ORPINGTON-LYNWOOD",
+    "data": {
+        "ORPINGTON-LYNWOOD.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-260.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-242.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-242.csv",
+                "start_date": "1924/08",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-242.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "ORPINGTON-LYNWOOD.csv": [
+            {
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            },
+            {
+                "start_date": "1920/03",
+                "end_date": "1920/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-242.csv",
+            "start_date": "1924/07",
+            "end_date": "1924/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-242.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

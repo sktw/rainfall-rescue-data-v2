@@ -1,0 +1,25 @@
+{
+    "name": "FULMODESTON-SCHOOL",
+    "data": {
+        "FULMODESTON-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-070.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-023.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "FULMODESTON-SCHOOL.csv": [
+            {
+                "start_date": "1948/12",
+                "end_date": "1948/12"
+            }
+        ]
+    }
+}

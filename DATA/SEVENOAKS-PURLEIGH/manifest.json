@@ -1,0 +1,29 @@
+{
+    "name": "SEVENOAKS-PURLEIGH",
+    "data": {
+        "SEVENOAKS-PURLEIGH-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-226.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "SEVENOAKS-PURLEIGH.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-121.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-141.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-204.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

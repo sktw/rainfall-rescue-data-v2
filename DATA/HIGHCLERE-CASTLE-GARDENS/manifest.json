@@ -1,0 +1,46 @@
+{
+    "name": "HIGHCLERE-CASTLE-GARDENS",
+    "data": {
+        "HIGHCLERE-CASTLE-GARDENS-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-319.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-319.csv",
+                "start_date": "1925/05",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-319.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-264.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "HIGHCLERE-CASTLE-GARDENS.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-318.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-319.csv",
+            "start_date": "1925/01",
+            "end_date": "1925/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-319.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "BROADSTAIRS-GRANGE-ROAD",
+    "data": {
+        "BROADSTAIRS-GRANGE-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-070.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-070.csv",
+                "start_date": "1947/10",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-070.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-067.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BROADSTAIRS-GRANGE-ROAD.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-070.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_03_pt1-page-070.csv",
+            "start_date": "1947/09",
+            "end_date": "1947/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_03_pt1-page-070.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

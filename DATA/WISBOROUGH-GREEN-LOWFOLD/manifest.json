@@ -1,0 +1,56 @@
+{
+    "name": "WISBOROUGH-GREEN-LOWFOLD",
+    "data": {
+        "WISBOROUGH-GREEN-LOWFOLD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-035.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-035.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-083.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-083.csv",
+                "start_date": "1921/10",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-083.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "WISBOROUGH-GREEN-LOWFOLD.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-035.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-083.csv",
+            "start_date": "1921/09",
+            "end_date": "1921/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-083.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

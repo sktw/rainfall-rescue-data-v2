@@ -1,0 +1,17 @@
+{
+    "name": "SIBLE-HEDINGHAM-WHITE-HOUSE",
+    "data": {
+        "SIBLE-HEDINGHAM-WHITE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-303.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-161.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

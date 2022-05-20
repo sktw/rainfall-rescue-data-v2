@@ -1,0 +1,25 @@
+{
+    "name": "WORTH-BETTESHANGER-COLLIERY",
+    "data": {
+        "WORTH-BETTESHANGER-COLLIERY.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-161.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_03_pt1-page-054.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "WORTH-BETTESHANGER-COLLIERY.csv": [
+            {
+                "start_date": "1948/13",
+                "end_date": "1948/13"
+            }
+        ]
+    }
+}

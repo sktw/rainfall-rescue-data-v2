@@ -1,0 +1,25 @@
+{
+    "name": "MANCHESTER-EMBDEN-STREET",
+    "data": {
+        "MANCHESTER-EMBDEN-STREET.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_09_pt1-page-177.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-186.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "MANCHESTER-EMBDEN-STREET.csv": [
+            {
+                "start_date": "1888/01",
+                "end_date": "1888/01"
+            }
+        ]
+    }
+}

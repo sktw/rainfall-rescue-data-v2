@@ -1,0 +1,34 @@
+{
+    "name": "HUNTINGDON-BRAMPTON-GRANGE",
+    "data": {
+        "HUNTINGDON-BRAMPTON-GRANGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-132.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-132.csv",
+                "start_date": "1912/02",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-132.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-132.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-132.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

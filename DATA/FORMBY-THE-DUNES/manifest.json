@@ -1,0 +1,40 @@
+{
+    "name": "FORMBY-THE-DUNES",
+    "data": {
+        "FORMBY-THE-DUNES.csv": [
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-114.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-010.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-288.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-108.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_18_pt1-page-096.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "FORMBY-THE-DUNES.csv": [
+            {
+                "start_date": "1951/12",
+                "end_date": "1951/12"
+            }
+        ]
+    }
+}

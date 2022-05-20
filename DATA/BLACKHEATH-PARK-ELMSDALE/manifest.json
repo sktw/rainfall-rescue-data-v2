@@ -1,0 +1,29 @@
+{
+    "name": "BLACKHEATH-PARK-ELMSDALE",
+    "data": {
+        "BLACKHEATH-PARK-ELMSDALE.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt1-page-019.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-029.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/07"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-029.csv",
+                "start_date": "1899/13",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_01_pt1-page-029.csv",
+            "start_date": "1899/08",
+            "end_date": "1899/12"
+        }
+    ]
+}

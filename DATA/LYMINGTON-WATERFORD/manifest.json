@@ -1,0 +1,12 @@
+{
+    "name": "LYMINGTON-WATERFORD",
+    "data": {
+        "LYMINGTON-WATERFORD.csv": [
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-269.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

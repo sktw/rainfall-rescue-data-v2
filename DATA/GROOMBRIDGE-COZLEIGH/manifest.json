@@ -1,0 +1,25 @@
+{
+    "name": "GROOMBRIDGE-COZLEIGH",
+    "data": {
+        "GROOMBRIDGE-COZLEIGH.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-203.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_04_pt1-page-251.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "GROOMBRIDGE-COZLEIGH.csv": [
+            {
+                "start_date": "1910/04",
+                "end_date": "1910/04"
+            }
+        ]
+    }
+}

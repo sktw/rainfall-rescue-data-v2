@@ -1,0 +1,59 @@
+{
+    "name": "MANCHESTER-LADY-BARN",
+    "data": {
+        "MANCHESTER-LADY-BARN.csv": [
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-234.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-260.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-086.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-067.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_20_pt1-page-066.csv",
+                "start_date": "1920/02",
+                "end_date": "1920/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_20_pt1-page-066.csv",
+                "start_date": "1920/13",
+                "end_date": "1925/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_20_pt1-page-066.csv",
+                "start_date": "1925/08",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_20_pt1-page-066.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_20_pt1-page-066.csv",
+            "start_date": "1920/12",
+            "end_date": "1920/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_20_pt1-page-066.csv",
+            "start_date": "1925/07",
+            "end_date": "1925/07"
+        }
+    ]
+}

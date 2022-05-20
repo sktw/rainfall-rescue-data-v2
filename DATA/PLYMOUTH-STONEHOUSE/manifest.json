@@ -1,0 +1,27 @@
+{
+    "name": "PLYMOUTH-STONEHOUSE",
+    "data": {
+        "PLYMOUTH-STONEHOUSE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-001.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "PLYMOUTH-STONEHOUSE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-012.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "idr": {
+        "PLYMOUTH-STONEHOUSE.csv": [
+            {
+                "start_date": "1800/13",
+                "end_date": "1800/13"
+            }
+        ]
+    }
+}

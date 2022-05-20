@@ -1,0 +1,20 @@
+{
+    "name": "GREAT-TOTHAM",
+    "data": {
+        "GREAT-TOTHAM.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_08_pt1-page-023.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "GREAT-TOTHAM.csv": [
+            {
+                "start_date": "1956/01",
+                "end_date": "1956/01"
+            }
+        ]
+    }
+}

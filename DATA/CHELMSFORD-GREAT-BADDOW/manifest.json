@@ -1,0 +1,19 @@
+{
+    "name": "CHELMSFORD-GREAT-BADDOW",
+    "data": {
+        "CHELMSFORD-GREAT-BADDOW-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-032.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "CHELMSFORD-GREAT-BADDOW.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-063.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

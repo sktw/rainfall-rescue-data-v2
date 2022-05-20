@@ -1,0 +1,39 @@
+{
+    "name": "ELTHAM-CLIFDEN",
+    "data": {
+        "ELTHAM-CLIFDEN-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-023.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-023.csv",
+                "start_date": "1892/10",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-050.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "ELTHAM-CLIFDEN.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-023.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-023.csv",
+                "start_date": "1892/13",
+                "end_date": "1892/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-023.csv",
+                "start_date": "1893/08",
+                "end_date": "1893/08"
+            }
+        ]
+    }
+}

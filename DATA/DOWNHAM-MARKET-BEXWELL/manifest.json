@@ -1,0 +1,46 @@
+{
+    "name": "DOWNHAM-MARKET-BEXWELL",
+    "data": {
+        "DOWNHAM-MARKET-BEXWELL-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-071.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/06"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-071.csv",
+                "start_date": "1870/08",
+                "end_date": "1870/10"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-071.csv",
+                "start_date": "1870/12",
+                "end_date": "1879/13"
+            }
+        ],
+        "DOWNHAM-MARKET-BEXWELL.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-143.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-070.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-071.csv",
+            "start_date": "1870/07",
+            "end_date": "1870/07"
+        },
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-071.csv",
+            "start_date": "1870/11",
+            "end_date": "1870/11"
+        }
+    ]
+}

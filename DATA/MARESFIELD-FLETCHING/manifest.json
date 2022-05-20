@@ -1,0 +1,12 @@
+{
+    "name": "MARESFIELD-FLETCHING",
+    "data": {
+        "MARESFIELD-FLETCHING.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-068.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

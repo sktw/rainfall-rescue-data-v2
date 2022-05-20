@@ -1,0 +1,69 @@
+{
+    "name": "LYMINGTON-STANLEY-ROAD",
+    "data": {
+        "LYMINGTON-STANLEY-ROAD.csv": [
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-064.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-053.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-053.csv",
+                "start_date": "1950/11",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-268.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-268.csv",
+                "start_date": "1954/02",
+                "end_date": "1954/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-268.csv",
+                "start_date": "1954/04",
+                "end_date": "1954/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-268.csv",
+                "start_date": "1954/11",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_03_pt1-page-268.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_03_pt1-page-268.csv",
+            "start_date": "1954/03",
+            "end_date": "1954/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_03_pt1-page-268.csv",
+            "start_date": "1954/05",
+            "end_date": "1954/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-053.csv",
+            "start_date": "1950/09",
+            "end_date": "1950/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-053.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

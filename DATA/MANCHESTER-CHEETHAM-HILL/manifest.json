@@ -1,0 +1,36 @@
+{
+    "name": "MANCHESTER-CHEETHAM-HILL",
+    "data": {
+        "MANCHESTER-CHEETHAM-HILL-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-229.csv",
+                "start_date": "1894/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-085.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "MANCHESTER-CHEETHAM-HILL.csv": [
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-184.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-229.csv",
+                "start_date": "1890/01",
+                "end_date": "1893/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_15_pt1-page-229.csv",
+            "start_date": "1893/12",
+            "end_date": "1893/13"
+        }
+    ]
+}
