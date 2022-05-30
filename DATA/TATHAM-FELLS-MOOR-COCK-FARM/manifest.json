@@ -1,0 +1,52 @@
+{
+    "name": "TATHAM-FELLS-MOOR-COCK-FARM",
+    "data": {
+        "TATHAM-FELLS-MOOR-COCK-FARM.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-064.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-172.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-172.csv",
+                "start_date": "1941/05",
+                "end_date": "1941/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-172.csv",
+                "start_date": "1941/10",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-172.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-172.csv",
+            "start_date": "1941/04",
+            "end_date": "1941/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-172.csv",
+            "start_date": "1941/09",
+            "end_date": "1941/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-172.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-147.csv"
+        }
+    ]
+}

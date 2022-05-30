@@ -1,0 +1,25 @@
+{
+    "name": "BRADFORD-ON-AVON-WOODLEIGH",
+    "data": {
+        "BRADFORD-ON-AVON-WOODLEIGH.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-165.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_09_pt1-page-262.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRADFORD-ON-AVON-WOODLEIGH.csv": [
+            {
+                "start_date": "1927/10",
+                "end_date": "1927/10"
+            }
+        ]
+    }
+}

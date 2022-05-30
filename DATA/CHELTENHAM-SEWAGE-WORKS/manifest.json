@@ -1,0 +1,29 @@
+{
+    "name": "CHELTENHAM-SEWAGE-WORKS",
+    "data": {
+        "CHELTENHAM-SEWAGE-WORKS-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-026.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-034.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "CHELTENHAM-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-027.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-041.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

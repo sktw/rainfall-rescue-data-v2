@@ -1,0 +1,22 @@
+{
+    "name": "TINTINHULL-MANOR-HOUSE",
+    "data": {
+        "TINTINHULL-MANOR-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-116.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-164.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-030.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

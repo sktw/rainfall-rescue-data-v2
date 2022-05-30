@@ -1,0 +1,19 @@
+{
+    "name": "SYWELL-RESERVOIR",
+    "data": {
+        "SYWELL-RESERVOIR-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-100.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SYWELL-RESERVOIR.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-047.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "GRAFTON-WEXCOMBE",
+    "data": {
+        "GRAFTON-WEXCOMBE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+                "start_date": "1935/09",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+                "start_date": "1936/01",
+                "end_date": "1936/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+                "start_date": "1936/11",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "GRAFTON-WEXCOMBE.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-241.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+            "start_date": "1935/07",
+            "end_date": "1935/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+            "start_date": "1936/10",
+            "end_date": "1936/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-050.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        }
+    ]
+}

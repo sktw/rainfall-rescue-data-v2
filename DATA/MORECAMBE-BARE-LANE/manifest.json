@@ -1,0 +1,39 @@
+{
+    "name": "MORECAMBE-BARE-LANE",
+    "data": {
+        "MORECAMBE-BARE-LANE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-038.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-152.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-136.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MORECAMBE-BARE-LANE.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-063.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-039.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-153.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

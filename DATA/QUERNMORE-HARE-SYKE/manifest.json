@@ -1,0 +1,52 @@
+{
+    "name": "QUERNMORE-HARE-SYKE",
+    "data": {
+        "QUERNMORE-HARE-SYKE.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-085.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-193.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-193.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-193.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-170.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "QUERNMORE-HARE-SYKE.csv": [
+            {
+                "start_date": "1944/01",
+                "end_date": "1944/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-193.csv",
+            "start_date": "1942/02",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-193.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

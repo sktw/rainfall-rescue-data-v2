@@ -1,0 +1,17 @@
+{
+    "name": "STROUD-CASTLE-VILLAS",
+    "data": {
+        "STROUD-CASTLE-VILLAS.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-009.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-022.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

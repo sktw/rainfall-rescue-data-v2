@@ -1,0 +1,25 @@
+{
+    "name": "MARKET-LAVINGTON-SAXTY",
+    "data": {
+        "MARKET-LAVINGTON-SAXTY.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-117.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-193.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARKET-LAVINGTON-SAXTY.csv": [
+            {
+                "start_date": "1849/06",
+                "end_date": "1849/06"
+            }
+        ]
+    }
+}

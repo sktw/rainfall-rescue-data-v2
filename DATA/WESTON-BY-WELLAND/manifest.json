@@ -1,0 +1,25 @@
+{
+    "name": "WESTON-BY-WELLAND",
+    "data": {
+        "WESTON-BY-WELLAND.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_07_pt1-page-325.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-318.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "WESTON-BY-WELLAND.csv": [
+            {
+                "start_date": "1925/03",
+                "end_date": "1925/03"
+            }
+        ]
+    }
+}

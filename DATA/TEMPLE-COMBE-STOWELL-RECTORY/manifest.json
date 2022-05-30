@@ -1,0 +1,32 @@
+{
+    "name": "TEMPLE-COMBE-STOWELL-RECTORY",
+    "data": {
+        "TEMPLE-COMBE-STOWELL-RECTORY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_06_pt2-page-062.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-091.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "TEMPLE-COMBE-STOWELL-RECTORY.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-061.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "TEMPLE-COMBE-STOWELL-RECTORY-2.csv": [
+            {
+                "start_date": "1889/07",
+                "end_date": "1889/07"
+            }
+        ]
+    }
+}

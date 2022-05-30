@@ -1,25 +1,10 @@
 {
     "name": "STRETFORD-LONGFORD-PARK",
     "data": {
-        "STRETFORD-LONGFORD-PARK.csv": [
-            {
-                "filename": "TYRain_1920-1930_19_pt1-page-141.csv",
-                "start_date": "1920/01",
-                "end_date": "1930/13"
-            },
-            {
-                "filename": "TYRain_1931-1940_17_pt1-page-041.csv",
-                "start_date": "1931/01",
-                "end_date": "1940/13"
-            },
-            {
-                "filename": "TYRain_1941-1950_19_pt1-page-134.csv",
-                "start_date": "1941/01",
-                "end_date": "1945/13"
-            },
+        "STRETFORD-LONGFORD-PARK-2.csv": [
             {
                 "filename": "TYRain_1941-1950_19_pt1-page-132.csv",
-                "start_date": "1946/01",
+                "start_date": "1941/01",
                 "end_date": "1950/13"
             },
             {
@@ -36,6 +21,23 @@
                 "filename": "TYRain_1951-1960_17_pt1-page-168.csv",
                 "start_date": "1953/01",
                 "end_date": "1960/13"
+            }
+        ],
+        "STRETFORD-LONGFORD-PARK.csv": [
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-141.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-041.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-134.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
             }
         ]
     },

@@ -1,0 +1,36 @@
+{
+    "name": "BRISTOL-ASHLEY-DOWN",
+    "data": {
+        "BRISTOL-ASHLEY-DOWN-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-227.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "BRISTOL-ASHLEY-DOWN.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-056.csv",
+                "start_date": "1870/01",
+                "end_date": "1872/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-056.csv",
+                "start_date": "1875/03",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-057.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_05_pt4-page-056.csv",
+            "start_date": "1873/01",
+            "end_date": "1875/02"
+        }
+    ]
+}

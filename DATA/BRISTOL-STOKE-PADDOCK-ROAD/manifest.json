@@ -1,0 +1,39 @@
+{
+    "name": "BRISTOL-STOKE-PADDOCK-ROAD",
+    "data": {
+        "BRISTOL-STOKE-PADDOCK-ROAD.csv": [
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-237.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-237.csv",
+                "start_date": "1947/12",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-237.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_13_pt1-page-075.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-237.csv",
+            "start_date": "1947/06",
+            "end_date": "1947/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-237.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

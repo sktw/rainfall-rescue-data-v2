@@ -1,0 +1,63 @@
+{
+    "name": "WINCANTON",
+    "data": {
+        "WINCANTON-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-125.csv",
+                "start_date": "1897/04",
+                "end_date": "1897/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-125.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-147.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/04"
+            }
+        ],
+        "WINCANTON-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-147.csv",
+                "start_date": "1900/06",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-147.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "WINCANTON.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-125.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-125.csv",
+            "start_date": "1897/03",
+            "end_date": "1897/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-125.csv",
+            "start_date": "1897/13",
+            "end_date": "1897/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-147.csv",
+            "start_date": "1900/05",
+            "end_date": "1900/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-147.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        }
+    ]
+}

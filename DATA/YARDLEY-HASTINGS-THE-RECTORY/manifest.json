@@ -1,0 +1,36 @@
+{
+    "name": "YARDLEY-HASTINGS-THE-RECTORY",
+    "data": {
+        "YARDLEY-HASTINGS-THE-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-253.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-173.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-173.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "YARDLEY-HASTINGS-THE-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt1-page-057.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-173.csv",
+            "start_date": "1942/09",
+            "end_date": "1942/13"
+        }
+    ]
+}

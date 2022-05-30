@@ -1,0 +1,39 @@
+{
+    "name": "FAIRFORD-HORCOTT",
+    "data": {
+        "FAIRFORD-HORCOTT.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-225.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-249.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-249.csv",
+                "start_date": "1904/04",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-249.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-249.csv",
+            "start_date": "1904/01",
+            "end_date": "1904/03"
+        },
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-249.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        }
+    ]
+}

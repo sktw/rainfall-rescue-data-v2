@@ -1,0 +1,29 @@
+{
+    "name": "BRISTOL-THE-GROVE-FISHPONDS",
+    "data": {
+        "BRISTOL-THE-GROVE-FISHPONDS.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-209.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-218.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-218.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-218.csv",
+            "start_date": "1906/10",
+            "end_date": "1906/13"
+        }
+    ]
+}

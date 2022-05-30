@@ -1,0 +1,25 @@
+{
+    "name": "STAMFORD-COLLYWESTON-ROAD",
+    "data": {
+        "STAMFORD-COLLYWESTON-ROAD.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-239.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_08_pt1-page-102.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "STAMFORD-COLLYWESTON-ROAD.csv": [
+            {
+                "start_date": "1903/12",
+                "end_date": "1903/12"
+            }
+        ]
+    }
+}

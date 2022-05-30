@@ -1,0 +1,25 @@
+{
+    "name": "YEOVIL-KINGSTON",
+    "data": {
+        "YEOVIL-KINGSTON.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-082.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-107.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "YEOVIL-KINGSTON.csv": [
+            {
+                "start_date": "1903/06",
+                "end_date": "1903/06"
+            }
+        ]
+    }
+}

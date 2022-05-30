@@ -1,0 +1,57 @@
+{
+    "name": "WINCHESTER-KINGS-WORTHY",
+    "data": {
+        "WINCHESTER-KINGS-WORTHY.csv": [
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-199.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-199.csv",
+                "start_date": "1933/02",
+                "end_date": "1933/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-199.csv",
+                "start_date": "1933/07",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-199.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-153.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "WINCHESTER-KINGS-WORTHY.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-199.csv",
+            "start_date": "1933/01",
+            "end_date": "1933/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-199.csv",
+            "start_date": "1933/06",
+            "end_date": "1933/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-199.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
+}

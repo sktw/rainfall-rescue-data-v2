@@ -1,0 +1,37 @@
+{
+    "name": "AMESBURY",
+    "data": {
+        "AMESBURY.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt2-page-041.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_09_pt1-page-046.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_09_pt1-page-046.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "AMESBURY.csv": [
+            {
+                "start_date": "1887/07",
+                "end_date": "1887/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_09_pt1-page-046.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        }
+    ]
+}

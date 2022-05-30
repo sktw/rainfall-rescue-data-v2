@@ -1,0 +1,24 @@
+{
+    "name": "BRADFORD-ON-AVON-WINSLEY",
+    "data": {
+        "BRADFORD-ON-AVON-WINSLEY-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-276.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-135.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "BRADFORD-ON-AVON-WINSLEY.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

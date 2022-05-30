@@ -1,0 +1,24 @@
+{
+    "name": "ELLESBOROUGH-THE-SPRINGS",
+    "data": {
+        "ELLESBOROUGH-THE-SPRINGS.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-054.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-062.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-054.csv",
+            "start_date": "1930/12",
+            "end_date": "1930/13"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "MORECAMBE-STUART-AVENUE",
+    "data": {
+        "MORECAMBE-STUART-AVENUE.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-037.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-037.csv",
+                "start_date": "1939/02",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-037.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_20_pt1-page-151.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-135.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MORECAMBE-STUART-AVENUE.csv": [
+            {
+                "start_date": "1944/01",
+                "end_date": "1944/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_18A_pt1-page-037.csv",
+            "start_date": "1939/01",
+            "end_date": "1939/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_18A_pt1-page-037.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

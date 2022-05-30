@@ -1,0 +1,17 @@
+{
+    "name": "WEST-DERBY-CROXTETH-HALL",
+    "data": {
+        "WEST-DERBY-CROXTETH-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-134.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-205.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

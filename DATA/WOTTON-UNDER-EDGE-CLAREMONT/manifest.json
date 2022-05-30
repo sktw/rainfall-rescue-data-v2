@@ -1,0 +1,19 @@
+{
+    "name": "WOTTON-UNDER-EDGE-CLAREMONT",
+    "data": {
+        "WOTTON-UNDER-EDGE-CLAREMONT-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-071.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "WOTTON-UNDER-EDGE-CLAREMONT.csv": [
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-151.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

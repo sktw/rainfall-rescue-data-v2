@@ -1,0 +1,58 @@
+{
+    "name": "FLORE",
+    "data": {
+        "FLORE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-268.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-268.csv",
+                "start_date": "1927/04",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-268.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-264.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-084.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FLORE-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-084.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FLORE.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt1-page-047.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-268.csv",
+            "start_date": "1927/01",
+            "end_date": "1927/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-268.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        }
+    ]
+}

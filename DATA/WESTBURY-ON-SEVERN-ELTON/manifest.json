@@ -1,0 +1,57 @@
+{
+    "name": "WESTBURY-ON-SEVERN-ELTON",
+    "data": {
+        "WESTBURY-ON-SEVERN-ELTON.csv": [
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-133.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-053.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-053.csv",
+                "start_date": "1934/08",
+                "end_date": "1934/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-053.csv",
+                "start_date": "1934/12",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-053.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "WESTBURY-ON-SEVERN-ELTON.csv": [
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-053.csv",
+            "start_date": "1934/07",
+            "end_date": "1934/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-053.csv",
+            "start_date": "1934/10",
+            "end_date": "1934/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-053.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        }
+    ]
+}

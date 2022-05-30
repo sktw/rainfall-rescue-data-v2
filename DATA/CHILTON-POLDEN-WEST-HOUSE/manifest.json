@@ -1,0 +1,47 @@
+{
+    "name": "CHILTON-POLDEN-WEST-HOUSE",
+    "data": {
+        "CHILTON-POLDEN-WEST-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_12_pt1-page-213.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-180.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-180.csv",
+                "start_date": "1938/04",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-180.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHILTON-POLDEN-WEST-HOUSE.csv": [
+            {
+                "start_date": "1928/05",
+                "end_date": "1928/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-180.csv",
+            "start_date": "1938/03",
+            "end_date": "1938/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-180.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
+}

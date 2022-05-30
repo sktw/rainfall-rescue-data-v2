@@ -1,0 +1,28 @@
+{
+    "name": "NORTHAMPTON-ELLICK",
+    "data": {
+        "NORTHAMPTON-ELLICK.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-060.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "NORTHAMPTON-ELLICK.csv": [
+            {
+                "start_date": "1866/11",
+                "end_date": "1866/11"
+            },
+            {
+                "start_date": "1868/02",
+                "end_date": "1868/02"
+            },
+            {
+                "start_date": "1868/11",
+                "end_date": "1868/11"
+            }
+        ]
+    }
+}

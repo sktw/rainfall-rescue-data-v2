@@ -1,0 +1,51 @@
+{
+    "name": "NASEBY-WOOLLEYS",
+    "data": {
+        "NASEBY-WOOLLEYS-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-070.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-070.csv",
+                "start_date": "1956/03",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-070.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-070.csv",
+                "start_date": "1960/04",
+                "end_date": "1960/13"
+            }
+        ],
+        "NASEBY-WOOLLEYS.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-030.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-070.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-070.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-070.csv",
+            "start_date": "1960/03",
+            "end_date": "1960/03"
+        }
+    ]
+}

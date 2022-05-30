@@ -1,0 +1,59 @@
+{
+    "name": "BRADENHAM-HOUSE",
+    "data": {
+        "BRADENHAM-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-029.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+                "start_date": "1912/10",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+                "start_date": "1913/01",
+                "end_date": "1914/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+                "start_date": "1914/07",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+            "start_date": "1912/09",
+            "end_date": "1912/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+            "start_date": "1914/06",
+            "end_date": "1914/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_07_pt1-page-091.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        }
+    ]
+}

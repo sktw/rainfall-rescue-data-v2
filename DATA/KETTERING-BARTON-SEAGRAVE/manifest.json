@@ -1,0 +1,17 @@
+{
+    "name": "KETTERING-BARTON-SEAGRAVE",
+    "data": {
+        "KETTERING-BARTON-SEAGRAVE.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-028.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-029.csv",
+                "start_date": "1879/13",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

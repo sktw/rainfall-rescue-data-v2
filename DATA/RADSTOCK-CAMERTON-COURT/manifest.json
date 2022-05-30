@@ -1,0 +1,44 @@
+{
+    "name": "RADSTOCK-CAMERTON-COURT",
+    "data": {
+        "RADSTOCK-CAMERTON-COURT.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-015.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-035.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/11"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-035.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-035.csv",
+                "start_date": "1909/05",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-029.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-035.csv",
+            "start_date": "1900/12",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_14_pt1-page-035.csv",
+            "start_date": "1909/04",
+            "end_date": "1909/04"
+        }
+    ]
+}
