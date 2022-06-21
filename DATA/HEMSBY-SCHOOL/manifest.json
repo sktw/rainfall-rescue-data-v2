@@ -18,5 +18,13 @@
                 "end_date": "1930/13"
             }
         ]
+    },
+    "idr": {
+        "HEMSBY-SCHOOL.csv": [
+            {
+                "start_date": "1914/08",
+                "end_date": "1914/08"
+            }
+        ]
     }
 }

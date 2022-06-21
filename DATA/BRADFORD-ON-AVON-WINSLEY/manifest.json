@@ -20,5 +20,15 @@
                 "end_date": "1889/13"
             }
         ]
+    },
+    "external": {
+        "BRADFORD-ON-AVON-WINSLEY.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-011.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/05"
+            }
+        ]
     }
 }

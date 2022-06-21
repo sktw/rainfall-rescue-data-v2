@@ -13,5 +13,15 @@
                 "end_date": "1889/13"
             }
         ]
+    },
+    "external": {
+        "RAMSGATE-THE-VALE.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-045.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/07"
+            }
+        ]
     }
 }

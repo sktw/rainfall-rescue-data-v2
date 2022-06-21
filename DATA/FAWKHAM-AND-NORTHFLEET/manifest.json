@@ -58,5 +58,20 @@
         {
             "filename": "TYRain_1677-1886_A_pt1-page-047.csv"
         }
-    ]
+    ],
+    "external": {
+        "FAWKHAM-AND-NORTHFLEET.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-049.jpg",
+                "comment": "Note on sheets states that readings are for this location",
+                "start_date": "1728/09",
+                "end_date": "1728/12"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-047.jpg",
+                "start_date": "1729/01",
+                "end_date": "1729/13"
+            }
+        ]
+    }
 }

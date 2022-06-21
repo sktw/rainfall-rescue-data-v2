@@ -1,6 +1,13 @@
 {
     "name": "GLOUCESTER-PARK-HOUSE",
     "data": {
+        "GLOUCESTER-PARK-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-015.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
         "GLOUCESTER-PARK-HOUSE.csv": [
             {
                 "filename": "TYRain_1860-1869_03_pt2-page-016.csv",
@@ -13,10 +20,5 @@
                 "end_date": "1879/13"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1860-1869_03_pt2-page-015.csv"
-        }
-    ]
+    }
 }

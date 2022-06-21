@@ -8,5 +8,15 @@
                 "end_date": "1849/13"
             }
         ]
+    },
+    "external": {
+        "LATIMER-RECTORY.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-075.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1850/01",
+                "end_date": "1850/03"
+            }
+        ]
     }
 }

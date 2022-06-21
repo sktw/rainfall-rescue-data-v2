@@ -38,5 +38,15 @@
         {
             "filename": "TYRain_1941-1950_10_pt1-page-197.csv"
         }
-    ]
+    ],
+    "external": {
+        "CLARE-NETHERGATE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-197.jpg",
+                "comment": "Non-standard sheet starting in 1945",
+                "start_date": "1945/01",
+                "end_date": "1947/13"
+            }
+        ]
+    }
 }

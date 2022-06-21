@@ -1,6 +1,13 @@
 {
     "name": "LOWER-BEEDING-SOUTH-LODGE",
     "data": {
+        "LOWER-BEEDING-SOUTH-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-065.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
         "LOWER-BEEDING-SOUTH-LODGE.csv": [
             {
                 "filename": "TYRain_1941-1950_04_pt1-page-117.csv",
@@ -20,9 +27,6 @@
         ]
     },
     "unused": [
-        {
-            "filename": "TYRain_1900-1909_04_pt1-page-065.csv"
-        },
         {
             "filename": "TYRain_1941-1950_04_pt1-page-117.csv",
             "start_date": "1943/01",

@@ -1,0 +1,48 @@
+{
+    "name": "HAYLE-GWYTHIAN-ROAD",
+    "data": {
+        "HAYLE-GWYTHIAN-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-005.csv",
+                "start_date": "1922/10",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-005.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_11_pt1-page-276.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "HAYLE-GWYTHIAN-ROAD.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-005.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/09"
+            }
+        ]
+    },
+    "idr": {
+        "HAYLE-GWYTHIAN-ROAD-2.csv": [
+            {
+                "start_date": "1932/08",
+                "end_date": "1932/08"
+            },
+            {
+                "start_date": "1933/01",
+                "end_date": "1933/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-005.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

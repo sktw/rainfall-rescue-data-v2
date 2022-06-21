@@ -3,6 +3,11 @@
     "data": {
         "DENTON-LODGE-2.csv": [
             {
+                "filename": "TYRain_1941-1950_11_pt1-page-092.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
                 "filename": "TYRain_1951-1960_09_pt1-page-045.csv",
                 "start_date": "1951/01",
                 "end_date": "1960/13"
@@ -41,9 +46,6 @@
             "filename": "TYRain_1931-1940_09_pt1-page-123.csv",
             "start_date": "1936/13",
             "end_date": "1936/13"
-        },
-        {
-            "filename": "TYRain_1941-1950_11_pt1-page-092.csv"
         }
     ]
 }
