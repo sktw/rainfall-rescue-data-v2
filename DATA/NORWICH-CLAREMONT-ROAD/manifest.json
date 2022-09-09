@@ -18,6 +18,23 @@
                 "end_date": "1918/13"
             }
         ],
+        "NORWICH-CLAREMONT-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-095.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-095.csv",
+                "start_date": "1912/12",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-095.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ],
         "NORWICH-CLAREMONT-ROAD.csv": [
             {
                 "filename": "TYRain_1910-1919_10_pt1-page-091.csv",
@@ -42,6 +59,16 @@
         ]
     },
     "unused": [
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-095.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-095.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        },
         {
             "filename": "TYRain_1931-1940_09_pt1-page-137.csv",
             "start_date": "1933/10",

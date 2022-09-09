@@ -1,7 +1,22 @@
 {
     "name": "PENGE-RECREATION-GROUND",
     "data": {
-        "PENGE-RECREATION-GROUND.csv": [
+        "PENGE-RECREATION-GROUND-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-032.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-031.csv",
+                "start_date": "1915/01",
+                "end_date": "1916/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-032.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            },
             {
                 "filename": "ERROR_TYRain_1920-1930_03_pt1-page-261.csv",
                 "start_date": "1920/01",
@@ -32,10 +47,27 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "PENGE-RECREATION-GROUND.csv": [
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-014.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-031.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-031.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            }
         ]
     },
     "idr": {
-        "PENGE-RECREATION-GROUND.csv": [
+        "PENGE-RECREATION-GROUND-2.csv": [
             {
                 "start_date": "1924/09",
                 "end_date": "1924/13"
@@ -43,6 +75,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-031.csv",
+            "start_date": "1917/01",
+            "end_date": "1917/13"
+        },
         {
             "filename": "TYRain_1941-1950_03_pt1-page-205.csv",
             "start_date": "1946/04",

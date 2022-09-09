@@ -1,6 +1,18 @@
 {
     "name": "MALVERN-FREE-LIBRARY",
     "data": {
+        "MALVERN-FREE-LIBRARY-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-121.csv",
+                "start_date": "1955/11",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-121.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
         "MALVERN-FREE-LIBRARY.csv": [
             {
                 "filename": "TYRain_1910-1919_15_pt1-page-083.csv",
@@ -21,7 +33,19 @@
                 "filename": "TYRain_1941-1950_16_pt1-page-251.csv",
                 "start_date": "1941/01",
                 "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-121.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/10"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-121.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
 }

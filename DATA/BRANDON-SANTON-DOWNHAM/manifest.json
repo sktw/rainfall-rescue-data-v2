@@ -1,11 +1,23 @@
 {
     "name": "BRANDON-SANTON-DOWNHAM",
     "data": {
+        "BRANDON-SANTON-DOWNHAM-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-043.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
         "BRANDON-SANTON-DOWNHAM.csv": [
             {
                 "filename": "TYRain_1941-1950_10_pt1-page-280.csv",
                 "start_date": "1941/01",
                 "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-190.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
             }
         ]
     }

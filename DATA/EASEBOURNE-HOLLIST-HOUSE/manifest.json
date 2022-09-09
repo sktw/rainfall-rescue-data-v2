@@ -1,6 +1,13 @@
 {
     "name": "EASEBOURNE-HOLLIST-HOUSE",
     "data": {
+        "EASEBOURNE-HOLLIST-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-080.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
         "EASEBOURNE-HOLLIST-HOUSE.csv": [
             {
                 "filename": "TYRain_1900-1909_04_pt1-page-045.csv",
