@@ -3,6 +3,16 @@
     "data": {
         "WHITCHURCH-LANGSTONE.csv": [
             {
+                "filename": "TYRain_1910-1919_11_pt1-page-165.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-165.csv",
+                "start_date": "1912/02",
+                "end_date": "1919/13"
+            },
+            {
                 "filename": "ERROR_TYRain_1920-1930_10_pt1-page-169.csv",
                 "start_date": "1920/01",
                 "end_date": "1930/13"
@@ -44,7 +54,9 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1910-1919_11_pt1-page-165.csv"
+            "filename": "TYRain_1910-1919_11_pt1-page-165.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/01"
         },
         {
             "filename": "TYRain_1941-1950_13_pt1-page-028.csv",
