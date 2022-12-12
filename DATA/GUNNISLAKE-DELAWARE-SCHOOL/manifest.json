@@ -1,7 +1,19 @@
 {
     "name": "GUNNISLAKE-DELAWARE-SCHOOL",
     "data": {
-        "GUNNISLAKE-DELAWARE-SCHOOL.csv": [
+        "GUNNISLAKE-DELAWARE-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-071.csv",
+                "start_date": "1938/09",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-071.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "GUNNISLAKE-DELAWARE-SCHOOL-3.csv": [
             {
                 "filename": "ERROR_TYRain_1941-1950_15_pt1-page-143.csv",
                 "start_date": "1941/01",
@@ -12,10 +24,17 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "GUNNISLAKE-DELAWARE-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-071.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/07"
+            }
         ]
     },
     "idr": {
-        "GUNNISLAKE-DELAWARE-SCHOOL.csv": [
+        "GUNNISLAKE-DELAWARE-SCHOOL-3.csv": [
             {
                 "start_date": "1949/08",
                 "end_date": "1949/08"
@@ -29,5 +48,17 @@
                 "end_date": "1958/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-071.csv",
+            "start_date": "1938/08",
+            "end_date": "1938/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-071.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
 }

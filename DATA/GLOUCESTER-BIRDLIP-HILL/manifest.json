@@ -30,5 +30,13 @@
                 "end_date": "1909/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_11_pt1-page-233.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt3-page-077.csv"
+        }
+    ]
 }

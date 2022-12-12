@@ -3,6 +3,21 @@
     "data": {
         "LYONSHALL-THE-CROFT.csv": [
             {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-225.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-225.csv",
+                "start_date": "1936/09",
+                "end_date": "1936/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-225.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
                 "filename": "ERROR_TYRain_1941-1950_16_pt1-page-051.csv",
                 "start_date": "1941/01",
                 "end_date": "1943/04"
@@ -54,7 +69,25 @@
             }
         ]
     },
+    "idr": {
+        "LYONSHALL-THE-CROFT.csv": [
+            {
+                "start_date": "1939/02",
+                "end_date": "1939/02"
+            }
+        ]
+    },
     "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_13_pt1-page-225.csv",
+            "start_date": "1936/08",
+            "end_date": "1936/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_13_pt1-page-225.csv",
+            "start_date": "1936/12",
+            "end_date": "1936/13"
+        },
         {
             "filename": "ERROR_TYRain_1941-1950_16_pt1-page-051.csv",
             "start_date": "1943/05",

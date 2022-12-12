@@ -1,6 +1,13 @@
 {
     "name": "ELWORTHY-WILLETT",
     "data": {
+        "ELWORTHY-WILLETT-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-081.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
         "ELWORTHY-WILLETT.csv": [
             {
                 "filename": "TYRain_1910-1919_13_pt1-page-202.csv",

@@ -1,10 +1,15 @@
 {
     "name": "BURY-ROVERS-COTTAGES",
     "data": {
-        "BURY-ROVERS-COTTAGES.csv": [
+        "BURY-ROVERS-COTTAGES-2.csv": [
             {
                 "filename": "TYRain_1931-1940_04_pt1-page-076.csv",
-                "start_date": "1931/01",
+                "start_date": "1935/05",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-076.csv",
+                "start_date": "1936/01",
                 "end_date": "1940/13"
             },
             {
@@ -12,6 +17,25 @@
                 "start_date": "1941/01",
                 "end_date": "1950/13"
             }
+        ],
+        "BURY-ROVERS-COTTAGES.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-043.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-076.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/04"
+            }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-076.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
 }

@@ -13,5 +13,10 @@
                 "end_date": "1909/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_04_pt4-page-006.csv"
+        }
+    ]
 }

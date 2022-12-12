@@ -1,10 +1,32 @@
 {
     "name": "WHEATLEY-HOLTON-PARK",
     "data": {
+        "WHEATLEY-HOLTON-PARK-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-173.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-171.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
         "WHEATLEY-HOLTON-PARK.csv": [
             {
                 "filename": "TYRain_1931-1940_07_pt1-page-230.csv",
                 "start_date": "1931/01",
+                "end_date": "1938/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-230.csv",
+                "start_date": "1939/02",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-230.csv",
+                "start_date": "1940/01",
                 "end_date": "1940/13"
             },
             {
@@ -16,10 +38,14 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1890-1899_06_pt1-page-173.csv"
+            "filename": "TYRain_1931-1940_07_pt1-page-230.csv",
+            "start_date": "1939/01",
+            "end_date": "1939/01"
         },
         {
-            "filename": "TYRain_1900-1909_07_pt1-page-171.csv"
+            "filename": "TYRain_1931-1940_07_pt1-page-230.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
         }
     ]
 }
