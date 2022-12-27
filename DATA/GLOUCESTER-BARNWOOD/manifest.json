@@ -38,6 +38,11 @@
                 "filename": "TYRain_1910-1919_14_pt1-page-059.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-183.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
             }
         ],
         "GLOUCESTER-BARNWOOD-4.csv": [
@@ -122,9 +127,6 @@
             "filename": "TYRain_1880-1889_06_pt3-page-027.csv",
             "start_date": "1885/13",
             "end_date": "1885/13"
-        },
-        {
-            "filename": "TYRain_1920-1930_13_pt1-page-183.csv"
         }
     ]
 }

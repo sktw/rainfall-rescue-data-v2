@@ -3,8 +3,13 @@
     "data": {
         "GARSTEN-BUILDING-RESEARCH-STATION-2.csv": [
             {
-                "filename": "TYRain_1941-1950_07_pt1-page-121.csv",
+                "filename": "TYRain_1941-1950_07_pt1-page-123.csv",
                 "start_date": "1941/01",
+                "end_date": "1948/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-121.csv",
+                "start_date": "1949/01",
                 "end_date": "1950/13"
             },
             {

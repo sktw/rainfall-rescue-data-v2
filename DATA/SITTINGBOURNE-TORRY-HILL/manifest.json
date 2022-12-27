@@ -8,6 +8,13 @@
                 "end_date": "1960/13"
             }
         ],
+        "SITTINGBOURNE-TORRY-HILL-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-055.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
         "SITTINGBOURNE-TORRY-HILL.csv": [
             {
                 "filename": "TYRain_1920-1930_03_pt1-page-097.csv",

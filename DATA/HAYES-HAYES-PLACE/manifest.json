@@ -1,6 +1,13 @@
 {
     "name": "HAYES-HAYES-PLACE",
     "data": {
+        "HAYES-HAYES-PLACE-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-040.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            }
+        ],
         "HAYES-HAYES-PLACE.csv": [
             {
                 "filename": "TYRain_1900-1909_03_pt1-page-049.csv",

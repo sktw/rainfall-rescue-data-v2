@@ -3,6 +3,11 @@
     "data": {
         "ELY-STRETHAM-FERRY-ELFORD-FARM.csv": [
             {
+                "filename": "ERROR_TYRain_1880-1889_04_pt4-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
                 "filename": "TYRain_1890-1899_07_pt1-page-045.csv",
                 "start_date": "1890/01",
                 "end_date": "1899/13"
@@ -14,9 +19,12 @@
             }
         ]
     },
-    "unused": [
-        {
-            "filename": "ERROR_TYRain_1880-1889_04_pt4-page-006.csv"
-        }
-    ]
+    "idr": {
+        "ELY-STRETHAM-FERRY-ELFORD-FARM.csv": [
+            {
+                "start_date": "1887/04",
+                "end_date": "1887/04"
+            }
+        ]
+    }
 }

@@ -1,7 +1,51 @@
 {
     "name": "FOLKESTONE-CHERITON-ROAD",
     "data": {
+        "FOLKESTONE-CHERITON-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/07"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1902/13",
+                "end_date": "1902/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1906/06",
+                "end_date": "1906/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/04"
+            }
+        ],
+        "FOLKESTONE-CHERITON-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/04"
+            }
+        ],
         "FOLKESTONE-CHERITON-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/07"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1902/13",
+                "end_date": "1902/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+                "start_date": "1909/05",
+                "end_date": "1909/12"
+            },
             {
                 "filename": "TYRain_1910-1919_03_pt1-page-024.csv",
                 "start_date": "1910/01",
@@ -16,7 +60,19 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1900-1909_03_pt1-page-105.csv"
+            "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+            "start_date": "1906/05",
+            "end_date": "1906/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+            "start_date": "1906/13",
+            "end_date": "1906/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_03_pt1-page-105.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
         }
     ]
 }
